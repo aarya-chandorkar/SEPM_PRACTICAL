@@ -1,0 +1,1461 @@
+date,date_id,wind,desc,temp,baro,hum
+"Friday, January 1, 2021, 12:00 am — 6:00 am",1609459200000.0,4.971,Low clouds.,32.0,29.82,99
+"Friday, January 1, 2021, 6:00 am — 12:00 pm",1609480800000.0,4.971,Low clouds.,33.8,29.86,94
+"Friday, January 1, 2021, 12:00 pm — 6:00 pm",1609502400000.0,4.35,Drizzle. Low clouds.,37.4,29.87,96
+"Friday, January 1, 2021, 6:00 pm — 12:00 am",1609524000000.0,4.971,Low clouds.,39.2,29.93,96
+"Saturday, January 2, 2021, 12:00 am — 6:00 am",1609545600000.0,7.457,Low clouds.,39.2,29.97,92
+"Saturday, January 2, 2021, 6:00 am — 12:00 pm",1609567200000.0,5.593,Partly sunny.,39.2,30.01,89
+"Saturday, January 2, 2021, 12:00 pm — 6:00 pm",1609588800000.0,5.593,Partly sunny.,41.0,29.98,80
+"Saturday, January 2, 2021, 6:00 pm — 12:00 am",1609610400000.0,5.593,Low clouds.,35.6,30.01,90
+"Sunday, January 3, 2021, 12:00 am — 6:00 am",1609632000000.0,6.214,Low clouds.,35.6,30.01,94
+"Sunday, January 3, 2021, 6:00 am — 12:00 pm",1609653600000.0,8.7,Broken clouds.,41.0,30.03,92
+"Sunday, January 3, 2021, 12:00 pm — 6:00 pm",1609675200000.0,10.564,Partly sunny.,42.8,30.04,81
+"Sunday, January 3, 2021, 6:00 pm — 12:00 am",1609696800000.0,10.564,Passing clouds.,39.2,30.09,86
+"Monday, January 4, 2021, 12:00 am — 6:00 am",1609718400000.0,11.185,Passing clouds.,39.2,30.09,89
+"Monday, January 4, 2021, 6:00 am — 12:00 pm",1609740000000.0,14.914,Partly sunny.,41.0,30.09,86
+"Monday, January 4, 2021, 12:00 pm — 6:00 pm",1609761600000.0,16.778,Partly sunny.,41.0,30.08,81
+"Monday, January 4, 2021, 6:00 pm — 12:00 am",1609783200000.0,13.671,Overcast.,39.2,30.12,80
+"Tuesday, January 5, 2021, 12:00 am — 6:00 am",1609804800000.0,12.428,Passing clouds.,37.4,30.11,83
+"Tuesday, January 5, 2021, 6:00 am — 12:00 pm",1609826400000.0,14.293,Partly sunny.,39.2,30.12,85
+"Tuesday, January 5, 2021, 12:00 pm — 6:00 pm",1609848000000.0,14.293,Light rain. Partly sunny.,41.0,30.09,86
+"Tuesday, January 5, 2021, 6:00 pm — 12:00 am",1609869600000.0,11.807,Passing clouds.,39.2,30.11,85
+"Wednesday, January 6, 2021, 12:00 am — 6:00 am",1609891200000.0,11.807,Passing clouds.,37.4,30.08,91
+"Wednesday, January 6, 2021, 6:00 am — 12:00 pm",1609912800000.0,9.943,Partly sunny.,41.0,30.1,91
+"Wednesday, January 6, 2021, 12:00 pm — 6:00 pm",1609934400000.0,8.7,Passing clouds.,41.0,30.09,78
+"Wednesday, January 6, 2021, 6:00 pm — 12:00 am",1609956000000.0,4.971,Passing clouds.,35.6,30.09,93
+"Thursday, January 7, 2021, 12:00 am — 6:00 am",1609977600000.0,4.971,Passing clouds.,32.0,30.08,94
+"Thursday, January 7, 2021, 6:00 am — 12:00 pm",1609999200000.0,4.971,Partly sunny.,37.4,30.08,90
+"Thursday, January 7, 2021, 12:00 pm — 6:00 pm",1610020800000.0,6.836,Passing clouds.,37.4,30.04,85
+"Thursday, January 7, 2021, 6:00 pm — 12:00 am",1610042400000.0,6.214,Passing clouds.,30.2,30.04,96
+"Friday, January 8, 2021, 12:00 am — 6:00 am",1610064000000.0,2.486,Low clouds.,32.0,30.01,96
+"Friday, January 8, 2021, 6:00 am — 12:00 pm",1610085600000.0,1.864,Fog.,35.6,30.03,93
+"Friday, January 8, 2021, 12:00 pm — 6:00 pm",1610107200000.0,6.214,Low clouds.,35.6,30.07,91
+"Friday, January 8, 2021, 6:00 pm — 12:00 am",1610128800000.0,6.836,Low clouds.,32.0,30.17,94
+"Saturday, January 9, 2021, 12:00 am — 6:00 am",1610150400000.0,6.214,Low clouds.,33.8,30.24,96
+"Saturday, January 9, 2021, 6:00 am — 12:00 pm",1610172000000.0,3.107,Ice fog.,32.0,30.31,98
+"Saturday, January 9, 2021, 12:00 pm — 6:00 pm",1610193600000.0,2.486,Sunny.,37.4,30.31,89
+"Saturday, January 9, 2021, 6:00 pm — 12:00 am",1610215200000.0,4.971,Ice fog.,28.4,30.34,99
+"Sunday, January 10, 2021, 12:00 am — 6:00 am",1610236800000.0,6.836,Low clouds.,30.2,30.32,100
+"Sunday, January 10, 2021, 6:00 am — 12:00 pm",1610258400000.0,6.836,Ice fog.,33.8,30.3,99
+"Sunday, January 10, 2021, 12:00 pm — 6:00 pm",1610280000000.0,6.214,Overcast.,37.4,30.26,92
+"Sunday, January 10, 2021, 6:00 pm — 12:00 am",1610301600000.0,5.593,Overcast.,39.2,30.23,89
+"Monday, January 11, 2021, 12:00 am — 6:00 am",1610323200000.0,6.836,Low clouds.,41.0,30.14,92
+"Monday, January 11, 2021, 6:00 am — 12:00 pm",1610344800000.0,11.185,Partly sunny.,46.4,30.08,84
+"Monday, January 11, 2021, 12:00 pm — 6:00 pm",1610366400000.0,19.264,Broken clouds.,48.2,29.99,78
+"Monday, January 11, 2021, 6:00 pm — 12:00 am",1610388000000.0,14.914,Passing clouds.,46.4,29.91,89
+"Tuesday, January 12, 2021, 12:00 am — 6:00 am",1610409600000.0,14.914,Passing clouds.,48.2,29.79,95
+"Tuesday, January 12, 2021, 6:00 am — 12:00 pm",1610431200000.0,9.321,Partly sunny.,48.2,29.88,92
+"Tuesday, January 12, 2021, 12:00 pm — 6:00 pm",1610452800000.0,6.836,Broken clouds.,44.6,30.0,88
+"Tuesday, January 12, 2021, 6:00 pm — 12:00 am",1610474400000.0,2.486,Clear.,35.6,30.11,94
+"Wednesday, January 13, 2021, 12:00 am — 6:00 am",1610496000000.0,1.864,Low clouds.,37.4,30.11,99
+"Wednesday, January 13, 2021, 6:00 am — 12:00 pm",1610517600000.0,1.243,Drizzle. Low clouds.,42.8,30.07,99
+"Wednesday, January 13, 2021, 12:00 pm — 6:00 pm",1610539200000.0,6.836,Drizzle. Cloudy.,50.0,30.02,98
+"Wednesday, January 13, 2021, 6:00 pm — 12:00 am",1610560800000.0,8.7,Passing clouds.,50.0,30.04,98
+"Thursday, January 14, 2021, 12:00 am — 6:00 am",1610582400000.0,4.971,Passing clouds.,48.2,29.98,99
+"Thursday, January 14, 2021, 6:00 am — 12:00 pm",1610604000000.0,9.321,Light rain. Low clouds.,42.8,29.91,99
+"Thursday, January 14, 2021, 12:00 pm — 6:00 pm",1610625600000.0,9.321,Drizzle. Partly sunny.,41.0,30.0,97
+"Thursday, January 14, 2021, 6:00 pm — 12:00 am",1610647200000.0,8.7,Partly cloudy.,37.4,30.19,92
+"Friday, January 15, 2021, 12:00 am — 6:00 am",1610668800000.0,6.836,Passing clouds.,33.8,30.32,96
+"Friday, January 15, 2021, 6:00 am — 12:00 pm",1610690400000.0,4.971,Partly sunny.,37.4,30.43,94
+"Friday, January 15, 2021, 12:00 pm — 6:00 pm",1610712000000.0,1.864,Partly sunny.,41.0,30.43,85
+"Friday, January 15, 2021, 6:00 pm — 12:00 am",1610733600000.0,1.864,Passing clouds.,33.8,30.41,97
+"Saturday, January 16, 2021, 12:00 am — 6:00 am",1610755200000.0,8.7,Mostly cloudy.,37.4,30.28,84
+"Saturday, January 16, 2021, 6:00 am — 12:00 pm",1610776800000.0,9.943,Drizzle. More clouds than sun.,42.8,30.05,98
+"Saturday, January 16, 2021, 12:00 pm — 6:00 pm",1610798400000.0,6.214,Partly sunny.,48.2,29.99,93
+"Saturday, January 16, 2021, 6:00 pm — 12:00 am",1610820000000.0,7.457,Overcast.,44.6,30.05,86
+"Sunday, January 17, 2021, 12:00 am — 6:00 am",1610841600000.0,9.321,Overcast.,42.8,30.09,82
+"Sunday, January 17, 2021, 6:00 am — 12:00 pm",1610863200000.0,9.321,Scattered clouds.,44.6,30.21,80
+"Sunday, January 17, 2021, 12:00 pm — 6:00 pm",1610884800000.0,9.321,Partly sunny.,46.4,30.27,72
+"Sunday, January 17, 2021, 6:00 pm — 12:00 am",1610906400000.0,3.728,Overcast.,39.2,30.3,90
+"Monday, January 18, 2021, 12:00 am — 6:00 am",1610928000000.0,5.593,Passing clouds.,37.4,30.25,95
+"Monday, January 18, 2021, 6:00 am — 12:00 pm",1610949600000.0,7.457,Partly sunny.,44.6,30.2,95
+"Monday, January 18, 2021, 12:00 pm — 6:00 pm",1610971200000.0,9.321,Partly sunny.,44.6,30.1,82
+"Monday, January 18, 2021, 6:00 pm — 12:00 am",1610992800000.0,11.807,Passing clouds.,48.2,29.96,92
+"Tuesday, January 19, 2021, 12:00 am — 6:00 am",1611014400000.0,15.535,Passing clouds.,51.8,29.72,95
+"Tuesday, January 19, 2021, 6:00 am — 12:00 pm",1611036000000.0,18.642,Partly sunny.,53.6,29.68,85
+"Tuesday, January 19, 2021, 12:00 pm — 6:00 pm",1611057600000.0,17.4,Drizzle. Mostly cloudy.,51.8,29.6,85
+"Tuesday, January 19, 2021, 6:00 pm — 12:00 am",1611079200000.0,18.021,Low clouds.,51.8,29.46,91
+"Wednesday, January 20, 2021, 12:00 am — 6:00 am",1611100800000.0,18.642,Passing clouds.,50.0,29.32,94
+"Wednesday, January 20, 2021, 6:00 am — 12:00 pm",1611122400000.0,18.021,Drizzle. Broken clouds.,51.8,29.22,93
+"Wednesday, January 20, 2021, 12:00 pm — 6:00 pm",1611144000000.0,17.4,Light rain. Partly sunny.,50.0,29.08,93
+"Wednesday, January 20, 2021, 6:00 pm — 12:00 am",1611165600000.0,18.642,Passing clouds.,50.0,28.85,90
+"Thursday, January 21, 2021, 12:00 am — 6:00 am",1611187200000.0,19.264,Passing clouds.,41.0,29.0,84
+"Thursday, January 21, 2021, 6:00 am — 12:00 pm",1611208800000.0,17.4,Scattered clouds.,46.4,29.11,74
+"Thursday, January 21, 2021, 12:00 pm — 6:00 pm",1611230400000.0,9.943,Partly sunny.,46.4,29.08,70
+"Thursday, January 21, 2021, 6:00 pm — 12:00 am",1611252000000.0,7.457,Overcast.,44.6,29.09,81
+"Friday, January 22, 2021, 12:00 am — 6:00 am",1611273600000.0,6.836,Clear.,35.6,29.2,93
+"Friday, January 22, 2021, 6:00 am — 12:00 pm",1611295200000.0,6.836,Sunny.,44.6,29.31,89
+"Friday, January 22, 2021, 12:00 pm — 6:00 pm",1611316800000.0,6.836,Scattered clouds.,46.4,29.33,75
+"Friday, January 22, 2021, 6:00 pm — 12:00 am",1611338400000.0,6.836,Sprinkles. Passing clouds.,39.2,29.33,93
+"Saturday, January 23, 2021, 12:00 am — 6:00 am",1611360000000.0,4.35,Low clouds.,37.4,29.35,94
+"Saturday, January 23, 2021, 6:00 am — 12:00 pm",1611381600000.0,2.486,Ice fog.,33.8,29.37,98
+"Saturday, January 23, 2021, 12:00 pm — 6:00 pm",1611403200000.0,8.078,Scattered clouds.,39.2,29.4,85
+"Saturday, January 23, 2021, 6:00 pm — 12:00 am",1611424800000.0,4.35,Clear.,33.8,29.46,92
+"Sunday, January 24, 2021, 12:00 am — 6:00 am",1611446400000.0,2.486,Passing clouds.,26.6,29.49,99
+"Sunday, January 24, 2021, 6:00 am — 12:00 pm",1611468000000.0,6.836,Clear.,33.8,29.42,94
+"Sunday, January 24, 2021, 12:00 pm — 6:00 pm",1611489600000.0,4.35,Partly sunny.,33.8,29.37,99
+"Sunday, January 24, 2021, 6:00 pm — 12:00 am",1611511200000.0,7.457,Passing clouds.,33.8,29.45,93
+"Monday, January 25, 2021, 12:00 am — 6:00 am",1611532800000.0,8.7,Clear.,33.8,29.63,91
+"Monday, January 25, 2021, 6:00 am — 12:00 pm",1611554400000.0,5.593,Sunny.,37.4,29.79,84
+"Monday, January 25, 2021, 12:00 pm — 6:00 pm",1611576000000.0,9.943,Sunny.,41.0,29.88,74
+"Monday, January 25, 2021, 6:00 pm — 12:00 am",1611597600000.0,5.593,Clear.,35.6,29.99,86
+"Tuesday, January 26, 2021, 12:00 am — 6:00 am",1611619200000.0,1.864,Passing clouds.,30.2,30.04,94
+"Tuesday, January 26, 2021, 6:00 am — 12:00 pm",1611640800000.0,2.486,Overcast.,39.2,30.05,96
+"Tuesday, January 26, 2021, 12:00 pm — 6:00 pm",1611662400000.0,8.078,Overcast.,41.0,29.97,90
+"Tuesday, January 26, 2021, 6:00 pm — 12:00 am",1611684000000.0,8.7,Drizzle. Low clouds.,42.8,29.85,98
+"Wednesday, January 27, 2021, 12:00 am — 6:00 am",1611705600000.0,4.971,Mostly cloudy.,44.6,29.83,100
+"Wednesday, January 27, 2021, 6:00 am — 12:00 pm",1611727200000.0,7.457,Fog.,48.2,29.87,97
+"Wednesday, January 27, 2021, 12:00 pm — 6:00 pm",1611748800000.0,4.35,Overcast.,50.0,29.87,95
+"Wednesday, January 27, 2021, 6:00 pm — 12:00 am",1611770400000.0,3.728,Low clouds.,48.2,29.8,100
+"Thursday, January 28, 2021, 12:00 am — 6:00 am",1611792000000.0,3.728,Passing clouds.,50.0,29.59,100
+"Thursday, January 28, 2021, 6:00 am — 12:00 pm",1611813600000.0,14.293,Partly sunny.,55.4,29.55,86
+"Thursday, January 28, 2021, 12:00 pm — 6:00 pm",1611835200000.0,13.671,Partly sunny.,55.4,29.58,82
+"Thursday, January 28, 2021, 6:00 pm — 12:00 am",1611856800000.0,7.457,Passing clouds.,51.8,29.47,96
+"Friday, January 29, 2021, 12:00 am — 6:00 am",1611878400000.0,13.05,Passing clouds.,50.0,29.41,88
+"Friday, January 29, 2021, 6:00 am — 12:00 pm",1611900000000.0,8.7,Broken clouds.,48.2,29.4,90
+"Friday, January 29, 2021, 12:00 pm — 6:00 pm",1611921600000.0,13.05,Broken clouds.,51.8,29.52,80
+"Friday, January 29, 2021, 6:00 pm — 12:00 am",1611943200000.0,7.457,Passing clouds.,48.2,29.57,90
+"Saturday, January 30, 2021, 12:00 am — 6:00 am",1611964800000.0,5.593,Passing clouds.,44.6,29.47,94
+"Saturday, January 30, 2021, 6:00 am — 12:00 pm",1611986400000.0,16.157,Light rain. Low clouds.,42.8,29.39,93
+"Saturday, January 30, 2021, 12:00 pm — 6:00 pm",1612008000000.0,18.021,Drizzle. Low clouds.,39.2,29.42,92
+"Saturday, January 30, 2021, 6:00 pm — 12:00 am",1612029600000.0,17.4,Passing clouds.,39.2,29.53,83
+"Sunday, January 31, 2021, 12:00 am — 6:00 am",1612051200000.0,9.943,Passing clouds.,35.6,29.61,77
+"Sunday, January 31, 2021, 6:00 am — 12:00 pm",1612072800000.0,9.321,Sunny.,39.2,29.55,77
+"Sunday, January 31, 2021, 12:00 pm — 6:00 pm",1612094400000.0,11.185,Overcast.,39.2,29.38,82
+"Sunday, January 31, 2021, 6:00 pm — 12:00 am",1612116000000.0,6.836,Partly cloudy.,37.4,29.24,98
+"Monday, February 1, 2021, 12:00 am — 6:00 am",1612137600000.0,8.078,Low clouds.,37.4,29.27,100
+"Monday, February 1, 2021, 6:00 am — 12:00 pm",1612159200000.0,6.836,Broken clouds.,39.2,29.42,92
+"Monday, February 1, 2021, 12:00 pm — 6:00 pm",1612180800000.0,4.971,Overcast.,39.2,29.52,86
+"Monday, February 1, 2021, 6:00 pm — 12:00 am",1612202400000.0,5.593,Low clouds.,39.2,29.55,89
+"Tuesday, February 2, 2021, 12:00 am — 6:00 am",1612224000000.0,6.836,Low clouds.,42.8,29.38,100
+"Tuesday, February 2, 2021, 6:00 am — 12:00 pm",1612245600000.0,6.836,Partly sunny.,53.6,29.35,96
+"Tuesday, February 2, 2021, 12:00 pm — 6:00 pm",1612267200000.0,13.05,Broken clouds.,55.4,29.34,82
+"Tuesday, February 2, 2021, 6:00 pm — 12:00 am",1612288800000.0,14.914,Partly cloudy.,51.8,29.33,87
+"Wednesday, February 3, 2021, 12:00 am — 6:00 am",1612310400000.0,8.7,Mostly cloudy.,50.0,29.33,81
+"Wednesday, February 3, 2021, 6:00 am — 12:00 pm",1612332000000.0,3.728,Partly sunny.,48.2,29.31,91
+"Wednesday, February 3, 2021, 12:00 pm — 6:00 pm",1612353600000.0,12.428,Partly sunny.,51.8,29.42,74
+"Wednesday, February 3, 2021, 6:00 pm — 12:00 am",1612375200000.0,6.836,Passing clouds.,46.4,29.62,83
+"Thursday, February 4, 2021, 12:00 am — 6:00 am",1612396800000.0,1.864,Clear.,39.2,29.75,98
+"Thursday, February 4, 2021, 6:00 am — 12:00 pm",1612418400000.0,4.971,Fog.,48.2,29.81,94
+"Thursday, February 4, 2021, 12:00 pm — 6:00 pm",1612440000000.0,7.457,Sprinkles. Broken clouds.,48.2,29.75,95
+"Thursday, February 4, 2021, 6:00 pm — 12:00 am",1612461600000.0,7.457,Rain showers. Partly cloudy.,48.2,29.74,97
+"Friday, February 5, 2021, 12:00 am — 6:00 am",1612483200000.0,4.971,Passing clouds.,46.4,29.72,99
+"Friday, February 5, 2021, 6:00 am — 12:00 pm",1612504800000.0,4.35,Broken clouds.,48.2,29.79,90
+"Friday, February 5, 2021, 12:00 pm — 6:00 pm",1612526400000.0,6.214,Sprinkles. Broken clouds.,51.8,29.77,84
+"Friday, February 5, 2021, 6:00 pm — 12:00 am",1612548000000.0,5.593,Passing clouds.,44.6,29.77,94
+"Saturday, February 6, 2021, 12:00 am — 6:00 am",1612569600000.0,2.486,Passing clouds.,42.8,29.76,96
+"Saturday, February 6, 2021, 6:00 am — 12:00 pm",1612591200000.0,4.35,Broken clouds.,44.6,29.75,95
+"Saturday, February 6, 2021, 12:00 pm — 6:00 pm",1612612800000.0,8.078,Broken clouds.,46.4,29.69,83
+"Saturday, February 6, 2021, 6:00 pm — 12:00 am",1612634400000.0,11.185,Partly cloudy.,44.6,29.65,95
+"Sunday, February 7, 2021, 12:00 am — 6:00 am",1612656000000.0,16.778,Overcast.,39.2,29.65,89
+"Sunday, February 7, 2021, 6:00 am — 12:00 pm",1612677600000.0,16.778,Light snow. Partly sunny.,37.4,29.68,83
+"Sunday, February 7, 2021, 12:00 pm — 6:00 pm",1612699200000.0,19.264,Partly sunny.,35.6,29.64,75
+"Sunday, February 7, 2021, 6:00 pm — 12:00 am",1612720800000.0,17.4,Passing clouds.,33.8,29.62,78
+"Monday, February 8, 2021, 12:00 am — 6:00 am",1612742400000.0,16.778,Passing clouds.,30.2,29.6,81
+"Monday, February 8, 2021, 6:00 am — 12:00 pm",1612764000000.0,14.914,Light snow. Partly sunny.,30.2,29.62,79
+"Monday, February 8, 2021, 12:00 pm — 6:00 pm",1612785600000.0,13.05,Light snow. Passing clouds.,30.2,29.63,82
+"Monday, February 8, 2021, 6:00 pm — 12:00 am",1612807200000.0,11.807,Partly cloudy.,30.2,29.68,83
+"Tuesday, February 9, 2021, 12:00 am — 6:00 am",1612828800000.0,8.7,Passing clouds.,30.2,29.71,82
+"Tuesday, February 9, 2021, 6:00 am — 12:00 pm",1612850400000.0,12.428,Light snow. Broken clouds.,32.0,29.73,81
+"Tuesday, February 9, 2021, 12:00 pm — 6:00 pm",1612872000000.0,12.428,Snow flurries. Broken clouds.,32.0,29.72,82
+"Tuesday, February 9, 2021, 6:00 pm — 12:00 am",1612893600000.0,14.914,Passing clouds.,32.0,29.75,77
+"Wednesday, February 10, 2021, 12:00 am — 6:00 am",1612915200000.0,11.807,Overcast.,32.0,29.8,76
+"Wednesday, February 10, 2021, 6:00 am — 12:00 pm",1612936800000.0,11.185,Sunny.,35.6,29.95,75
+"Wednesday, February 10, 2021, 12:00 pm — 6:00 pm",1612958400000.0,11.185,Passing clouds.,35.6,30.07,62
+"Wednesday, February 10, 2021, 6:00 pm — 12:00 am",1612980000000.0,6.214,Passing clouds.,32.0,30.18,83
+"Thursday, February 11, 2021, 12:00 am — 6:00 am",1613001600000.0,4.971,Passing clouds.,28.4,30.27,93
+"Thursday, February 11, 2021, 6:00 am — 12:00 pm",1613023200000.0,10.564,Partly sunny.,33.8,30.32,81
+"Thursday, February 11, 2021, 12:00 pm — 6:00 pm",1613044800000.0,13.05,Partly sunny.,35.6,30.32,60
+"Thursday, February 11, 2021, 6:00 pm — 12:00 am",1613066400000.0,14.293,Clear.,32.0,30.33,65
+"Friday, February 12, 2021, 12:00 am — 6:00 am",1613088000000.0,16.157,Overcast.,30.2,30.35,67
+"Friday, February 12, 2021, 6:00 am — 12:00 pm",1613109600000.0,17.4,Sunny.,33.8,30.4,61
+"Friday, February 12, 2021, 12:00 pm — 6:00 pm",1613131200000.0,19.264,Partly sunny.,35.6,30.44,56
+"Friday, February 12, 2021, 6:00 pm — 12:00 am",1613152800000.0,16.778,Overcast.,30.2,30.47,63
+"Saturday, February 13, 2021, 12:00 am — 6:00 am",1613174400000.0,13.05,Clear.,28.4,30.48,71
+"Saturday, February 13, 2021, 6:00 am — 12:00 pm",1613196000000.0,14.914,Sunny.,32.0,30.5,62
+"Saturday, February 13, 2021, 12:00 pm — 6:00 pm",1613217600000.0,14.914,Sunny.,35.6,30.45,46
+"Saturday, February 13, 2021, 6:00 pm — 12:00 am",1613239200000.0,13.05,Overcast.,35.6,30.44,52
+"Sunday, February 14, 2021, 12:00 am — 6:00 am",1613260800000.0,12.428,Passing clouds.,35.6,30.38,58
+"Sunday, February 14, 2021, 6:00 am — 12:00 pm",1613282400000.0,14.293,More clouds than sun.,37.4,30.31,58
+"Sunday, February 14, 2021, 12:00 pm — 6:00 pm",1613304000000.0,11.807,More clouds than sun.,39.2,30.21,64
+"Sunday, February 14, 2021, 6:00 pm — 12:00 am",1613325600000.0,11.185,Passing clouds.,39.2,30.14,80
+"Monday, February 15, 2021, 12:00 am — 6:00 am",1613347200000.0,4.971,Low clouds.,42.8,30.06,94
+"Monday, February 15, 2021, 6:00 am — 12:00 pm",1613368800000.0,6.836,Drizzle. Partly sunny.,50.0,30.04,99
+"Monday, February 15, 2021, 12:00 pm — 6:00 pm",1613390400000.0,9.943,Partly sunny.,55.4,30.07,78
+"Monday, February 15, 2021, 6:00 pm — 12:00 am",1613412000000.0,7.457,Passing clouds.,50.0,30.03,90
+"Tuesday, February 16, 2021, 12:00 am — 6:00 am",1613433600000.0,11.185,Passing clouds.,50.0,29.88,87
+"Tuesday, February 16, 2021, 6:00 am — 12:00 pm",1613455200000.0,10.564,Light rain. Partly sunny.,50.0,29.78,92
+"Tuesday, February 16, 2021, 12:00 pm — 6:00 pm",1613476800000.0,9.943,Broken clouds.,51.8,29.74,89
+"Tuesday, February 16, 2021, 6:00 pm — 12:00 am",1613498400000.0,9.321,Passing clouds.,48.2,29.8,90
+"Wednesday, February 17, 2021, 12:00 am — 6:00 am",1613520000000.0,9.321,Passing clouds.,48.2,29.82,92
+"Wednesday, February 17, 2021, 6:00 am — 12:00 pm",1613541600000.0,13.671,Light rain. Partly sunny.,50.0,29.8,95
+"Wednesday, February 17, 2021, 12:00 pm — 6:00 pm",1613563200000.0,14.293,Drizzle. Partly sunny.,51.8,29.8,93
+"Wednesday, February 17, 2021, 6:00 pm — 12:00 am",1613584800000.0,14.293,Passing clouds.,51.8,29.76,85
+"Thursday, February 18, 2021, 12:00 am — 6:00 am",1613606400000.0,13.05,Passing clouds.,48.2,29.62,82
+"Thursday, February 18, 2021, 6:00 am — 12:00 pm",1613628000000.0,13.671,Broken clouds.,51.8,29.49,83
+"Thursday, February 18, 2021, 12:00 pm — 6:00 pm",1613649600000.0,15.535,Passing clouds.,50.0,29.61,65
+"Thursday, February 18, 2021, 6:00 pm — 12:00 am",1613671200000.0,8.078,Clear.,42.8,29.76,80
+"Friday, February 19, 2021, 12:00 am — 6:00 am",1613692800000.0,6.836,Passing clouds.,42.8,29.79,91
+"Friday, February 19, 2021, 6:00 am — 12:00 pm",1613714400000.0,13.671,Broken clouds.,50.0,29.77,81
+"Friday, February 19, 2021, 12:00 pm — 6:00 pm",1613736000000.0,15.535,Partly sunny.,50.0,29.73,83
+"Friday, February 19, 2021, 6:00 pm — 12:00 am",1613757600000.0,13.05,Passing clouds.,53.6,29.68,80
+"Saturday, February 20, 2021, 12:00 am — 6:00 am",1613779200000.0,10.564,Passing clouds.,55.4,29.65,75
+"Saturday, February 20, 2021, 6:00 am — 12:00 pm",1613800800000.0,13.671,Sunny.,57.2,29.61,73
+"Saturday, February 20, 2021, 12:00 pm — 6:00 pm",1613822400000.0,12.428,Sunny.,57.2,29.56,62
+"Saturday, February 20, 2021, 6:00 pm — 12:00 am",1613844000000.0,11.807,Passing clouds.,57.2,29.6,63
+"Sunday, February 21, 2021, 12:00 am — 6:00 am",1613865600000.0,8.7,Overcast.,55.4,29.7,84
+"Sunday, February 21, 2021, 6:00 am — 12:00 pm",1613887200000.0,5.593,Partly sunny.,55.4,29.77,90
+"Sunday, February 21, 2021, 12:00 pm — 6:00 pm",1613908800000.0,6.214,Partly sunny.,57.2,29.78,74
+"Sunday, February 21, 2021, 6:00 pm — 12:00 am",1613930400000.0,3.728,Overcast.,51.8,29.8,83
+"Monday, February 22, 2021, 12:00 am — 6:00 am",1613952000000.0,2.486,Passing clouds.,44.6,29.82,92
+"Monday, February 22, 2021, 6:00 am — 12:00 pm",1613973600000.0,3.107,Sunny.,50.0,29.91,90
+"Monday, February 22, 2021, 12:00 pm — 6:00 pm",1613995200000.0,1.864,Light rain. Low clouds.,50.0,30.01,95
+"Monday, February 22, 2021, 6:00 pm — 12:00 am",1614016800000.0,3.107,Passing clouds.,50.0,30.13,96
+"Tuesday, February 23, 2021, 12:00 am — 6:00 am",1614038400000.0,5.593,Mostly cloudy.,44.6,30.18,99
+"Tuesday, February 23, 2021, 6:00 am — 12:00 pm",1614060000000.0,12.428,Sunny.,55.4,30.19,82
+"Tuesday, February 23, 2021, 12:00 pm — 6:00 pm",1614081600000.0,17.4,Sunny.,59.0,30.17,56
+"Tuesday, February 23, 2021, 6:00 pm — 12:00 am",1614103200000.0,14.914,Overcast.,55.4,30.19,65
+"Wednesday, February 24, 2021, 12:00 am — 6:00 am",1614124800000.0,14.293,Passing clouds.,53.6,30.18,74
+"Wednesday, February 24, 2021, 6:00 am — 12:00 pm",1614146400000.0,13.671,Sunny.,59.0,30.18,68
+"Wednesday, February 24, 2021, 12:00 pm — 6:00 pm",1614168000000.0,14.293,Partly sunny.,60.8,30.15,69
+"Wednesday, February 24, 2021, 6:00 pm — 12:00 am",1614189600000.0,10.564,Passing clouds.,55.4,30.15,72
+"Thursday, February 25, 2021, 12:00 am — 6:00 am",1614211200000.0,11.807,Passing clouds.,55.4,30.16,80
+"Thursday, February 25, 2021, 6:00 am — 12:00 pm",1614232800000.0,6.836,More clouds than sun.,51.8,30.28,85
+"Thursday, February 25, 2021, 12:00 pm — 6:00 pm",1614254400000.0,8.078,Partly sunny.,53.6,30.35,60
+"Thursday, February 25, 2021, 6:00 pm — 12:00 am",1614276000000.0,4.35,Clear.,50.0,30.47,80
+"Friday, February 26, 2021, 12:00 am — 6:00 am",1614297600000.0,1.864,Clear.,35.6,30.56,93
+"Friday, February 26, 2021, 6:00 am — 12:00 pm",1614319200000.0,1.864,Sunny.,51.8,30.63,81
+"Friday, February 26, 2021, 12:00 pm — 6:00 pm",1614340800000.0,6.836,Passing clouds.,53.6,30.63,50
+"Friday, February 26, 2021, 6:00 pm — 12:00 am",1614362400000.0,1.864,Clear.,46.4,30.68,79
+"Saturday, February 27, 2021, 12:00 am — 6:00 am",1614384000000.0,2.486,Clear.,33.8,30.72,95
+"Saturday, February 27, 2021, 6:00 am — 12:00 pm",1614405600000.0,3.107,Sunny.,53.6,30.74,79
+"Saturday, February 27, 2021, 12:00 pm — 6:00 pm",1614427200000.0,5.593,Passing clouds.,55.4,30.72,55
+"Saturday, February 27, 2021, 6:00 pm — 12:00 am",1614448800000.0,4.971,Clear.,48.2,30.72,79
+"Sunday, February 28, 2021, 12:00 am — 6:00 am",1614470400000.0,4.35,Clear.,37.4,30.68,98
+"Sunday, February 28, 2021, 6:00 am — 12:00 pm",1614492000000.0,6.836,Fog.,42.8,30.66,95
+"Sunday, February 28, 2021, 12:00 pm — 6:00 pm",1614513600000.0,9.943,Passing clouds.,48.2,30.58,75
+"Sunday, February 28, 2021, 6:00 pm — 12:00 am",1614535200000.0,6.836,Clear.,46.4,30.54,83
+"Monday, March 1, 2021, 12:00 am — 6:00 am",1614556800000.0,8.7,Low clouds.,41.0,30.5,94
+"Monday, March 1, 2021, 6:00 am — 12:00 pm",1614578400000.0,11.185,Partly sunny.,48.2,30.48,83
+"Monday, March 1, 2021, 12:00 pm — 6:00 pm",1614600000000.0,11.185,Passing clouds.,48.2,30.43,72
+"Monday, March 1, 2021, 6:00 pm — 12:00 am",1614621600000.0,10.564,Passing clouds.,41.0,30.42,87
+"Tuesday, March 2, 2021, 12:00 am — 6:00 am",1614643200000.0,6.836,Low clouds.,39.2,30.42,87
+"Tuesday, March 2, 2021, 6:00 am — 12:00 pm",1614664800000.0,7.457,Overcast.,42.8,30.42,89
+"Tuesday, March 2, 2021, 12:00 pm — 6:00 pm",1614686400000.0,6.836,Haze.,48.2,30.38,78
+"Tuesday, March 2, 2021, 6:00 pm — 12:00 am",1614708000000.0,4.971,Passing clouds.,42.8,30.39,91
+"Wednesday, March 3, 2021, 12:00 am — 6:00 am",1614729600000.0,5.593,Low clouds.,39.2,30.37,100
+"Wednesday, March 3, 2021, 6:00 am — 12:00 pm",1614751200000.0,4.35,Fog.,44.6,30.36,98
+"Wednesday, March 3, 2021, 12:00 pm — 6:00 pm",1614772800000.0,4.971,Light rain. Mostly cloudy.,48.2,30.31,88
+"Wednesday, March 3, 2021, 6:00 pm — 12:00 am",1614794400000.0,4.35,Fog.,44.6,30.26,95
+"Thursday, March 4, 2021, 12:00 am — 6:00 am",1614816000000.0,8.078,Low clouds.,42.8,30.22,98
+"Thursday, March 4, 2021, 6:00 am — 12:00 pm",1614837600000.0,8.7,More clouds than sun.,41.0,30.24,91
+"Thursday, March 4, 2021, 12:00 pm — 6:00 pm",1614859200000.0,8.7,Overcast.,42.8,30.25,77
+"Thursday, March 4, 2021, 6:00 pm — 12:00 am",1614880800000.0,9.321,Passing clouds.,41.0,30.32,77
+"Friday, March 5, 2021, 12:00 am — 6:00 am",1614902400000.0,8.078,Overcast.,39.2,30.38,83
+"Friday, March 5, 2021, 6:00 am — 12:00 pm",1614924000000.0,10.564,Partly sunny.,41.0,30.46,71
+"Friday, March 5, 2021, 12:00 pm — 6:00 pm",1614945600000.0,11.807,Partly sunny.,42.8,30.48,54
+"Friday, March 5, 2021, 6:00 pm — 12:00 am",1614967200000.0,7.457,Passing clouds.,41.0,30.54,61
+"Saturday, March 6, 2021, 12:00 am — 6:00 am",1614988800000.0,4.971,Overcast.,35.6,30.54,86
+"Saturday, March 6, 2021, 6:00 am — 12:00 pm",1615010400000.0,6.836,Partly sunny.,42.8,30.56,66
+"Saturday, March 6, 2021, 12:00 pm — 6:00 pm",1615032000000.0,8.078,Partly sunny.,42.8,30.49,55
+"Saturday, March 6, 2021, 6:00 pm — 12:00 am",1615053600000.0,5.593,Overcast.,41.0,30.45,62
+"Sunday, March 7, 2021, 12:00 am — 6:00 am",1615075200000.0,1.864,Overcast.,35.6,30.39,79
+"Sunday, March 7, 2021, 6:00 am — 12:00 pm",1615096800000.0,4.35,Overcast.,39.2,30.36,57
+"Sunday, March 7, 2021, 12:00 pm — 6:00 pm",1615118400000.0,6.214,Passing clouds.,42.8,30.28,50
+"Sunday, March 7, 2021, 6:00 pm — 12:00 am",1615140000000.0,1.864,Clear.,35.6,30.27,76
+"Monday, March 8, 2021, 12:00 am — 6:00 am",1615161600000.0,1.243,Passing clouds.,33.8,30.25,88
+"Monday, March 8, 2021, 6:00 am — 12:00 pm",1615183200000.0,3.728,Partly sunny.,46.4,30.24,76
+"Monday, March 8, 2021, 12:00 pm — 6:00 pm",1615204800000.0,5.593,Broken clouds.,50.0,30.19,56
+"Monday, March 8, 2021, 6:00 pm — 12:00 am",1615226400000.0,4.35,Clear.,46.4,30.16,65
+"Tuesday, March 9, 2021, 12:00 am — 6:00 am",1615248000000.0,5.593,Overcast.,41.0,30.13,83
+"Tuesday, March 9, 2021, 6:00 am — 12:00 pm",1615269600000.0,4.971,Sunny.,51.8,30.14,74
+"Tuesday, March 9, 2021, 12:00 pm — 6:00 pm",1615291200000.0,10.564,Scattered clouds.,55.4,30.08,47
+"Tuesday, March 9, 2021, 6:00 pm — 12:00 am",1615312800000.0,9.321,Clear.,48.2,30.04,75
+"Wednesday, March 10, 2021, 12:00 am — 6:00 am",1615334400000.0,12.428,Overcast.,44.6,29.94,81
+"Wednesday, March 10, 2021, 6:00 am — 12:00 pm",1615356000000.0,16.157,Light rain. Mostly cloudy.,44.6,29.81,87
+"Wednesday, March 10, 2021, 12:00 pm — 6:00 pm",1615377600000.0,17.4,Light rain. Mostly cloudy.,48.2,29.63,93
+"Wednesday, March 10, 2021, 6:00 pm — 12:00 am",1615399200000.0,18.021,Passing clouds.,51.8,29.45,95
+"Thursday, March 11, 2021, 12:00 am — 6:00 am",1615420800000.0,22.371,Passing clouds.,51.8,29.25,79
+"Thursday, March 11, 2021, 6:00 am — 12:00 pm",1615442400000.0,27.964,Broken clouds.,51.8,29.33,67
+"Thursday, March 11, 2021, 12:00 pm — 6:00 pm",1615464000000.0,24.857,Scattered clouds.,51.8,29.46,62
+"Thursday, March 11, 2021, 6:00 pm — 12:00 am",1615485600000.0,16.778,Passing clouds.,44.6,29.61,75
+"Friday, March 12, 2021, 12:00 am — 6:00 am",1615507200000.0,13.05,Passing clouds.,42.8,29.65,81
+"Friday, March 12, 2021, 6:00 am — 12:00 pm",1615528800000.0,17.4,Broken clouds.,48.2,29.58,81
+"Friday, March 12, 2021, 12:00 pm — 6:00 pm",1615550400000.0,21.128,Scattered clouds.,51.8,29.55,56
+"Friday, March 12, 2021, 6:00 pm — 12:00 am",1615572000000.0,14.293,Passing clouds.,46.4,29.45,79
+"Saturday, March 13, 2021, 12:00 am — 6:00 am",1615593600000.0,23.614,Passing clouds.,44.6,29.22,80
+"Saturday, March 13, 2021, 6:00 am — 12:00 pm",1615615200000.0,24.235,Partly sunny.,48.2,29.32,72
+"Saturday, March 13, 2021, 12:00 pm — 6:00 pm",1615636800000.0,21.128,Scattered showers. Scattered clouds.,50.0,29.45,54
+"Saturday, March 13, 2021, 6:00 pm — 12:00 am",1615658400000.0,11.807,Clear.,41.0,29.6,74
+"Sunday, March 14, 2021, 12:00 am — 6:00 am",1615680000000.0,12.428,Passing clouds.,42.8,29.76,84
+"Sunday, March 14, 2021, 6:00 am — 12:00 pm",1615701600000.0,13.671,Scattered clouds.,50.0,29.94,73
+"Sunday, March 14, 2021, 12:00 pm — 6:00 pm",1615723200000.0,15.535,Partly sunny.,50.0,29.99,63
+"Sunday, March 14, 2021, 6:00 pm — 12:00 am",1615744800000.0,14.293,Passing clouds.,48.2,29.95,84
+"Monday, March 15, 2021, 12:00 am — 6:00 am",1615766400000.0,12.428,Passing clouds.,48.2,29.99,79
+"Monday, March 15, 2021, 6:00 am — 12:00 pm",1615788000000.0,14.914,Broken clouds.,51.8,30.1,75
+"Monday, March 15, 2021, 12:00 pm — 6:00 pm",1615809600000.0,9.943,Partly sunny.,53.6,30.17,68
+"Monday, March 15, 2021, 6:00 pm — 12:00 am",1615831200000.0,4.35,Passing clouds.,50.0,30.27,72
+"Tuesday, March 16, 2021, 12:00 am — 6:00 am",1615852800000.0,5.593,Passing clouds.,46.4,30.29,81
+"Tuesday, March 16, 2021, 6:00 am — 12:00 pm",1615874400000.0,9.321,Partly sunny.,55.4,30.29,84
+"Tuesday, March 16, 2021, 12:00 pm — 6:00 pm",1615896000000.0,14.293,Broken clouds.,57.2,30.31,75
+"Tuesday, March 16, 2021, 6:00 pm — 12:00 am",1615917600000.0,12.428,Passing clouds.,51.8,30.45,70
+"Wednesday, March 17, 2021, 12:00 am — 6:00 am",1615939200000.0,6.214,Clear.,44.6,30.51,80
+"Wednesday, March 17, 2021, 6:00 am — 12:00 pm",1615960800000.0,5.593,Sunny.,46.4,30.52,82
+"Wednesday, March 17, 2021, 12:00 pm — 6:00 pm",1615982400000.0,9.943,Scattered clouds.,50.0,30.49,72
+"Wednesday, March 17, 2021, 6:00 pm — 12:00 am",1616004000000.0,6.836,Passing clouds.,48.2,30.49,80
+"Thursday, March 18, 2021, 12:00 am — 6:00 am",1616025600000.0,4.971,Passing clouds.,41.0,30.45,95
+"Thursday, March 18, 2021, 6:00 am — 12:00 pm",1616047200000.0,10.564,More clouds than sun.,48.2,30.41,74
+"Thursday, March 18, 2021, 12:00 pm — 6:00 pm",1616068800000.0,8.078,Light rain. Broken clouds.,50.0,30.32,79
+"Thursday, March 18, 2021, 6:00 pm — 12:00 am",1616090400000.0,8.7,Overcast.,50.0,30.24,89
+"Friday, March 19, 2021, 12:00 am — 6:00 am",1616112000000.0,11.807,Passing clouds.,46.4,30.25,92
+"Friday, March 19, 2021, 6:00 am — 12:00 pm",1616133600000.0,11.807,Passing clouds.,50.0,30.34,70
+"Friday, March 19, 2021, 12:00 pm — 6:00 pm",1616155200000.0,11.807,Passing clouds.,51.8,30.39,56
+"Friday, March 19, 2021, 6:00 pm — 12:00 am",1616176800000.0,8.7,Passing clouds.,46.4,30.46,80
+"Saturday, March 20, 2021, 12:00 am — 6:00 am",1616198400000.0,3.728,Passing clouds.,41.0,30.48,87
+"Saturday, March 20, 2021, 6:00 am — 12:00 pm",1616220000000.0,4.35,Mostly cloudy.,48.2,30.48,84
+"Saturday, March 20, 2021, 12:00 pm — 6:00 pm",1616241600000.0,6.836,Partly sunny.,51.8,30.41,75
+"Saturday, March 20, 2021, 6:00 pm — 12:00 am",1616263200000.0,6.214,Passing clouds.,50.0,30.36,81
+"Sunday, March 21, 2021, 12:00 am — 6:00 am",1616284800000.0,6.836,Passing clouds.,46.4,30.36,82
+"Sunday, March 21, 2021, 6:00 am — 12:00 pm",1616306400000.0,11.807,Partly sunny.,50.0,30.39,73
+"Sunday, March 21, 2021, 12:00 pm — 6:00 pm",1616328000000.0,9.321,Partly sunny.,51.8,30.37,57
+"Sunday, March 21, 2021, 6:00 pm — 12:00 am",1616349600000.0,2.486,Passing clouds.,48.2,30.36,75
+"Monday, March 22, 2021, 12:00 am — 6:00 am",1616371200000.0,1.243,Overcast.,39.2,30.32,92
+"Monday, March 22, 2021, 6:00 am — 12:00 pm",1616392800000.0,4.971,Passing clouds.,51.8,30.32,76
+"Monday, March 22, 2021, 12:00 pm — 6:00 pm",1616414400000.0,8.078,Passing clouds.,57.2,30.26,54
+"Monday, March 22, 2021, 6:00 pm — 12:00 am",1616436000000.0,3.728,Clear.,48.2,30.27,79
+"Tuesday, March 23, 2021, 12:00 am — 6:00 am",1616457600000.0,1.243,Passing clouds.,35.6,30.26,94
+"Tuesday, March 23, 2021, 6:00 am — 12:00 pm",1616479200000.0,4.971,Partly sunny.,51.8,30.26,80
+"Tuesday, March 23, 2021, 12:00 pm — 6:00 pm",1616500800000.0,13.05,Passing clouds.,55.4,30.2,56
+"Tuesday, March 23, 2021, 6:00 pm — 12:00 am",1616522400000.0,8.7,Clear.,50.0,30.18,74
+"Wednesday, March 24, 2021, 12:00 am — 6:00 am",1616544000000.0,2.486,Partly cloudy.,39.2,30.15,95
+"Wednesday, March 24, 2021, 6:00 am — 12:00 pm",1616565600000.0,6.836,Partly sunny.,55.4,30.14,83
+"Wednesday, March 24, 2021, 12:00 pm — 6:00 pm",1616587200000.0,11.185,Partly sunny.,57.2,30.1,65
+"Wednesday, March 24, 2021, 6:00 pm — 12:00 am",1616608800000.0,5.593,Passing clouds.,51.8,30.12,85
+"Thursday, March 25, 2021, 12:00 am — 6:00 am",1616630400000.0,3.728,Clear.,42.8,30.09,95
+"Thursday, March 25, 2021, 6:00 am — 12:00 pm",1616652000000.0,8.7,Broken clouds.,55.4,30.1,83
+"Thursday, March 25, 2021, 12:00 pm — 6:00 pm",1616673600000.0,14.914,Broken clouds.,55.4,30.04,75
+"Thursday, March 25, 2021, 6:00 pm — 12:00 am",1616695200000.0,9.321,Passing clouds.,51.8,29.99,84
+"Friday, March 26, 2021, 12:00 am — 6:00 am",1616716800000.0,12.428,Passing clouds.,50.0,29.89,85
+"Friday, March 26, 2021, 6:00 am — 12:00 pm",1616738400000.0,16.778,More clouds than sun.,53.6,29.79,80
+"Friday, March 26, 2021, 12:00 pm — 6:00 pm",1616760000000.0,13.671,Broken clouds.,51.8,29.77,80
+"Friday, March 26, 2021, 6:00 pm — 12:00 am",1616781600000.0,13.05,Passing clouds.,46.4,29.86,80
+"Saturday, March 27, 2021, 12:00 am — 6:00 am",1616803200000.0,11.807,Passing clouds.,37.4,29.99,90
+"Saturday, March 27, 2021, 6:00 am — 12:00 pm",1616824800000.0,16.778,Scattered clouds.,51.8,30.15,66
+"Saturday, March 27, 2021, 12:00 pm — 6:00 pm",1616846400000.0,13.671,Partly sunny.,53.6,30.2,52
+"Saturday, March 27, 2021, 6:00 pm — 12:00 am",1616868000000.0,11.807,Partly cloudy.,50.0,30.2,74
+"Sunday, March 28, 2021, 12:00 am — 6:00 am",1616889600000.0,16.157,Partly cloudy.,50.0,30.15,75
+"Sunday, March 28, 2021, 6:00 am — 12:00 pm",1616911200000.0,18.642,Partly sunny.,53.6,30.17,73
+"Sunday, March 28, 2021, 12:00 pm — 6:00 pm",1616932800000.0,17.4,Partly sunny.,55.4,30.2,74
+"Sunday, March 28, 2021, 6:00 pm — 12:00 am",1616954400000.0,15.535,Passing clouds.,53.6,30.21,78
+"Monday, March 29, 2021, 12:00 am — 6:00 am",1616976000000.0,14.914,Overcast.,50.0,30.24,82
+"Monday, March 29, 2021, 6:00 am — 12:00 pm",1616997600000.0,13.671,Overcast.,57.2,30.3,80
+"Monday, March 29, 2021, 12:00 pm — 6:00 pm",1617019200000.0,11.807,Passing clouds.,68.0,30.33,50
+"Monday, March 29, 2021, 6:00 pm — 12:00 am",1617040800000.0,6.214,Clear.,64.4,30.35,59
+"Tuesday, March 30, 2021, 12:00 am — 6:00 am",1617062400000.0,1.243,Clear.,41.0,30.38,96
+"Tuesday, March 30, 2021, 6:00 am — 12:00 pm",1617084000000.0,2.486,Sunny.,68.0,30.38,72
+"Tuesday, March 30, 2021, 12:00 pm — 6:00 pm",1617105600000.0,7.457,Sunny.,75.2,30.3,27
+"Tuesday, March 30, 2021, 6:00 pm — 12:00 am",1617127200000.0,2.486,Clear.,71.6,30.25,46
+"Wednesday, March 31, 2021, 12:00 am — 6:00 am",1617148800000.0,1.864,Clear.,46.4,30.18,84
+"Wednesday, March 31, 2021, 6:00 am — 12:00 pm",1617170400000.0,1.864,Sunny.,66.2,30.13,68
+"Wednesday, March 31, 2021, 12:00 pm — 6:00 pm",1617192000000.0,4.971,Sunny.,69.8,30.08,49
+"Wednesday, March 31, 2021, 6:00 pm — 12:00 am",1617213600000.0,2.486,Sunny.,66.2,30.08,60
+"Thursday, April 1, 2021, 12:00 am — 6:00 am",1617235200000.0,8.7,Passing clouds.,53.6,30.14,86
+"Thursday, April 1, 2021, 6:00 am — 12:00 pm",1617256800000.0,13.05,Partly sunny.,53.6,30.23,81
+"Thursday, April 1, 2021, 12:00 pm — 6:00 pm",1617278400000.0,16.157,Passing clouds.,59.0,30.27,61
+"Thursday, April 1, 2021, 6:00 pm — 12:00 am",1617300000000.0,14.914,Passing clouds.,51.8,30.33,70
+"Friday, April 2, 2021, 12:00 am — 6:00 am",1617321600000.0,13.05,Overcast.,42.8,30.37,71
+"Friday, April 2, 2021, 6:00 am — 12:00 pm",1617343200000.0,13.05,Partly sunny.,46.4,30.41,64
+"Friday, April 2, 2021, 12:00 pm — 6:00 pm",1617364800000.0,14.914,Scattered clouds.,51.8,30.42,59
+"Friday, April 2, 2021, 6:00 pm — 12:00 am",1617386400000.0,14.293,Passing clouds.,46.4,30.45,65
+"Saturday, April 3, 2021, 12:00 am — 6:00 am",1617408000000.0,11.185,Passing clouds.,42.8,30.46,77
+"Saturday, April 3, 2021, 6:00 am — 12:00 pm",1617429600000.0,13.671,Partly sunny.,46.4,30.5,65
+"Saturday, April 3, 2021, 12:00 pm — 6:00 pm",1617451200000.0,13.05,Partly sunny.,48.2,30.48,59
+"Saturday, April 3, 2021, 6:00 pm — 12:00 am",1617472800000.0,9.943,Partly sunny.,46.4,30.45,65
+"Sunday, April 4, 2021, 12:00 am — 6:00 am",1617494400000.0,2.486,Clear.,39.2,30.42,88
+"Sunday, April 4, 2021, 6:00 am — 12:00 pm",1617516000000.0,4.971,Passing clouds.,50.0,30.36,78
+"Sunday, April 4, 2021, 12:00 pm — 6:00 pm",1617537600000.0,8.7,Sunny.,59.0,30.22,47
+"Sunday, April 4, 2021, 6:00 pm — 12:00 am",1617559200000.0,9.943,Clear.,59.0,30.09,55
+"Monday, April 5, 2021, 12:00 am — 6:00 am",1617580800000.0,9.943,Passing clouds.,48.2,29.97,78
+"Monday, April 5, 2021, 6:00 am — 12:00 pm",1617602400000.0,14.914,Broken clouds.,44.6,30.04,59
+"Monday, April 5, 2021, 12:00 pm — 6:00 pm",1617624000000.0,15.535,Sunny.,44.6,30.1,32
+"Monday, April 5, 2021, 6:00 pm — 12:00 am",1617645600000.0,9.943,Clear.,42.8,30.16,39
+"Tuesday, April 6, 2021, 12:00 am — 6:00 am",1617667200000.0,8.7,Clear.,35.6,30.15,68
+"Tuesday, April 6, 2021, 6:00 am — 12:00 pm",1617688800000.0,12.428,Passing clouds.,42.8,30.13,61
+"Tuesday, April 6, 2021, 12:00 pm — 6:00 pm",1617710400000.0,15.535,Partly sunny.,44.6,30.08,41
+"Tuesday, April 6, 2021, 6:00 pm — 12:00 am",1617732000000.0,9.321,Clear.,39.2,30.12,74
+"Wednesday, April 7, 2021, 12:00 am — 6:00 am",1617753600000.0,6.214,Clear.,30.2,30.18,86
+"Wednesday, April 7, 2021, 6:00 am — 12:00 pm",1617775200000.0,8.7,Sunny.,41.0,30.22,70
+"Wednesday, April 7, 2021, 12:00 pm — 6:00 pm",1617796800000.0,14.914,Sunny.,42.8,30.23,46
+"Wednesday, April 7, 2021, 6:00 pm — 12:00 am",1617818400000.0,8.078,Overcast.,42.8,30.23,53
+"Thursday, April 8, 2021, 12:00 am — 6:00 am",1617840000000.0,5.593,Overcast.,39.2,30.23,68
+"Thursday, April 8, 2021, 6:00 am — 12:00 pm",1617861600000.0,9.321,Broken clouds.,50.0,30.2,60
+"Thursday, April 8, 2021, 12:00 pm — 6:00 pm",1617883200000.0,14.293,Partly sunny.,55.4,30.11,54
+"Thursday, April 8, 2021, 6:00 pm — 12:00 am",1617904800000.0,9.943,Passing clouds.,50.0,30.03,66
+"Friday, April 9, 2021, 12:00 am — 6:00 am",1617926400000.0,6.836,Overcast.,44.6,29.96,83
+"Friday, April 9, 2021, 6:00 am — 12:00 pm",1617948000000.0,8.7,Sunny.,51.8,29.92,73
+"Friday, April 9, 2021, 12:00 pm — 6:00 pm",1617969600000.0,9.943,Broken clouds.,57.2,29.87,50
+"Friday, April 9, 2021, 6:00 pm — 12:00 am",1617991200000.0,7.457,Partly sunny.,50.0,29.9,76
+"Saturday, April 10, 2021, 12:00 am — 6:00 am",1618012800000.0,6.214,Overcast.,44.6,29.91,80
+"Saturday, April 10, 2021, 6:00 am — 12:00 pm",1618034400000.0,11.185,Partly sunny.,44.6,29.92,73
+"Saturday, April 10, 2021, 12:00 pm — 6:00 pm",1618056000000.0,12.428,Light rain. Partly sunny.,46.4,29.89,66
+"Saturday, April 10, 2021, 6:00 pm — 12:00 am",1618077600000.0,9.321,Broken clouds.,44.6,29.92,59
+"Sunday, April 11, 2021, 12:00 am — 6:00 am",1618099200000.0,5.593,Overcast.,37.4,29.98,79
+"Sunday, April 11, 2021, 6:00 am — 12:00 pm",1618120800000.0,10.564,Passing clouds.,44.6,30.06,64
+"Sunday, April 11, 2021, 12:00 pm — 6:00 pm",1618142400000.0,11.185,Partly sunny.,46.4,30.11,47
+"Sunday, April 11, 2021, 6:00 pm — 12:00 am",1618164000000.0,6.214,Passing clouds.,41.0,30.23,80
+"Monday, April 12, 2021, 12:00 am — 6:00 am",1618185600000.0,1.243,Clear.,32.0,30.3,91
+"Monday, April 12, 2021, 6:00 am — 12:00 pm",1618207200000.0,4.971,Broken clouds.,44.6,30.34,87
+"Monday, April 12, 2021, 12:00 pm — 6:00 pm",1618228800000.0,7.457,Sunny.,50.0,30.39,43
+"Monday, April 12, 2021, 6:00 pm — 12:00 am",1618250400000.0,3.107,Clear.,46.4,30.43,53
+"Tuesday, April 13, 2021, 12:00 am — 6:00 am",1618272000000.0,1.243,Passing clouds.,30.2,30.48,87
+"Tuesday, April 13, 2021, 6:00 am — 12:00 pm",1618293600000.0,3.728,Sunny.,51.8,30.51,65
+"Tuesday, April 13, 2021, 12:00 pm — 6:00 pm",1618315200000.0,6.836,Sunny.,53.6,30.46,47
+"Tuesday, April 13, 2021, 6:00 pm — 12:00 am",1618336800000.0,3.728,Clear.,50.0,30.46,75
+"Wednesday, April 14, 2021, 12:00 am — 6:00 am",1618358400000.0,1.243,Passing clouds.,39.2,30.48,88
+"Wednesday, April 14, 2021, 6:00 am — 12:00 pm",1618380000000.0,3.728,Sunny.,51.8,30.49,60
+"Wednesday, April 14, 2021, 12:00 pm — 6:00 pm",1618401600000.0,11.185,Sunny.,53.6,30.48,40
+"Wednesday, April 14, 2021, 6:00 pm — 12:00 am",1618423200000.0,8.078,Clear.,50.0,30.49,55
+"Thursday, April 15, 2021, 12:00 am — 6:00 am",1618444800000.0,4.971,Clear.,39.2,30.51,82
+"Thursday, April 15, 2021, 6:00 am — 12:00 pm",1618466400000.0,9.943,Scattered clouds.,48.2,30.54,67
+"Thursday, April 15, 2021, 12:00 pm — 6:00 pm",1618488000000.0,11.185,Partly sunny.,51.8,30.47,51
+"Thursday, April 15, 2021, 6:00 pm — 12:00 am",1618509600000.0,8.078,Clear.,48.2,30.47,66
+"Friday, April 16, 2021, 12:00 am — 6:00 am",1618531200000.0,3.107,Clear.,37.4,30.46,92
+"Friday, April 16, 2021, 6:00 am — 12:00 pm",1618552800000.0,5.593,Scattered clouds.,48.2,30.47,80
+"Friday, April 16, 2021, 12:00 pm — 6:00 pm",1618574400000.0,8.078,Sunny.,51.8,30.42,41
+"Friday, April 16, 2021, 6:00 pm — 12:00 am",1618596000000.0,4.971,Clear.,51.8,30.41,52
+"Saturday, April 17, 2021, 12:00 am — 6:00 am",1618617600000.0,2.486,Clear.,33.8,30.42,81
+"Saturday, April 17, 2021, 6:00 am — 12:00 pm",1618639200000.0,6.836,Sunny.,50.0,30.41,53
+"Saturday, April 17, 2021, 12:00 pm — 6:00 pm",1618660800000.0,8.078,Sunny.,55.4,30.34,34
+"Saturday, April 17, 2021, 6:00 pm — 12:00 am",1618682400000.0,6.836,Sunny.,55.4,30.32,47
+"Sunday, April 18, 2021, 12:00 am — 6:00 am",1618704000000.0,1.243,Passing clouds.,41.0,30.29,75
+"Sunday, April 18, 2021, 6:00 am — 12:00 pm",1618725600000.0,2.486,Sunny.,53.6,30.27,60
+"Sunday, April 18, 2021, 12:00 pm — 6:00 pm",1618747200000.0,4.971,Sunny.,59.0,30.23,28
+"Sunday, April 18, 2021, 6:00 pm — 12:00 am",1618768800000.0,6.214,Clear.,57.2,30.22,47
+"Monday, April 19, 2021, 12:00 am — 6:00 am",1618790400000.0,1.243,Clear.,41.0,30.21,86
+"Monday, April 19, 2021, 6:00 am — 12:00 pm",1618812000000.0,3.728,Sunny.,57.2,30.18,67
+"Monday, April 19, 2021, 12:00 pm — 6:00 pm",1618833600000.0,5.593,Sunny.,64.4,30.1,34
+"Monday, April 19, 2021, 6:00 pm — 12:00 am",1618855200000.0,7.457,Clear.,60.8,30.08,56
+"Tuesday, April 20, 2021, 12:00 am — 6:00 am",1618876800000.0,1.864,Clear.,44.6,30.08,82
+"Tuesday, April 20, 2021, 6:00 am — 12:00 pm",1618898400000.0,3.107,Haze.,60.8,30.07,70
+"Tuesday, April 20, 2021, 12:00 pm — 6:00 pm",1618920000000.0,6.836,Sunny.,62.6,30.02,44
+"Tuesday, April 20, 2021, 6:00 pm — 12:00 am",1618941600000.0,4.971,Sunny.,59.0,30.05,68
+"Wednesday, April 21, 2021, 12:00 am — 6:00 am",1618963200000.0,1.243,Overcast.,42.8,30.07,91
+"Wednesday, April 21, 2021, 6:00 am — 12:00 pm",1618984800000.0,9.943,Scattered clouds.,55.4,30.12,73
+"Wednesday, April 21, 2021, 12:00 pm — 6:00 pm",1619006400000.0,13.05,Partly sunny.,55.4,30.15,56
+"Wednesday, April 21, 2021, 6:00 pm — 12:00 am",1619028000000.0,10.564,Passing clouds.,55.4,30.22,64
+"Thursday, April 22, 2021, 12:00 am — 6:00 am",1619049600000.0,8.7,Clear.,41.0,30.29,77
+"Thursday, April 22, 2021, 6:00 am — 12:00 pm",1619071200000.0,9.943,Sunny.,53.6,30.33,65
+"Thursday, April 22, 2021, 12:00 pm — 6:00 pm",1619092800000.0,11.807,Sunny.,57.2,30.33,36
+"Thursday, April 22, 2021, 6:00 pm — 12:00 am",1619114400000.0,9.321,Clear.,55.4,30.35,55
+"Friday, April 23, 2021, 12:00 am — 6:00 am",1619136000000.0,4.971,Clear.,39.2,30.36,90
+"Friday, April 23, 2021, 6:00 am — 12:00 pm",1619157600000.0,9.321,Sunny.,59.0,30.39,67
+"Friday, April 23, 2021, 12:00 pm — 6:00 pm",1619179200000.0,13.671,Sunny.,60.8,30.35,28
+"Friday, April 23, 2021, 6:00 pm — 12:00 am",1619200800000.0,10.564,Clear.,57.2,30.35,45
+"Saturday, April 24, 2021, 12:00 am — 6:00 am",1619222400000.0,4.35,Clear.,42.8,30.34,76
+"Saturday, April 24, 2021, 6:00 am — 12:00 pm",1619244000000.0,10.564,Sunny.,59.0,30.35,62
+"Saturday, April 24, 2021, 12:00 pm — 6:00 pm",1619265600000.0,14.914,Sunny.,60.8,30.32,39
+"Saturday, April 24, 2021, 6:00 pm — 12:00 am",1619287200000.0,12.428,Clear.,59.0,30.32,52
+"Sunday, April 25, 2021, 12:00 am — 6:00 am",1619308800000.0,9.943,Clear.,42.8,30.36,80
+"Sunday, April 25, 2021, 6:00 am — 12:00 pm",1619330400000.0,15.535,Scattered clouds.,50.0,30.39,67
+"Sunday, April 25, 2021, 12:00 pm — 6:00 pm",1619352000000.0,16.157,Passing clouds.,57.2,30.34,45
+"Sunday, April 25, 2021, 6:00 pm — 12:00 am",1619373600000.0,16.157,Passing clouds.,55.4,30.3,55
+"Monday, April 26, 2021, 12:00 am — 6:00 am",1619395200000.0,12.428,Passing clouds.,41.0,30.27,67
+"Monday, April 26, 2021, 6:00 am — 12:00 pm",1619416800000.0,12.428,Scattered clouds.,48.2,30.22,58
+"Monday, April 26, 2021, 12:00 pm — 6:00 pm",1619438400000.0,10.564,Sunny.,55.4,30.1,43
+"Monday, April 26, 2021, 6:00 pm — 12:00 am",1619460000000.0,8.078,Clear.,55.4,30.01,60
+"Tuesday, April 27, 2021, 12:00 am — 6:00 am",1619481600000.0,3.107,Clear.,39.2,29.94,88
+"Tuesday, April 27, 2021, 6:00 am — 12:00 pm",1619503200000.0,3.107,Sunny.,55.4,29.86,66
+"Tuesday, April 27, 2021, 12:00 pm — 6:00 pm",1619524800000.0,4.35,Sunny.,59.0,29.76,40
+"Tuesday, April 27, 2021, 6:00 pm — 12:00 am",1619546400000.0,8.7,Partly sunny.,57.2,29.72,49
+"Wednesday, April 28, 2021, 12:00 am — 6:00 am",1619568000000.0,7.457,Passing clouds.,48.2,29.7,65
+"Wednesday, April 28, 2021, 6:00 am — 12:00 pm",1619589600000.0,9.943,Partly sunny.,53.6,29.68,67
+"Wednesday, April 28, 2021, 12:00 pm — 6:00 pm",1619611200000.0,13.671,Light rain. Broken clouds.,55.4,29.7,61
+"Wednesday, April 28, 2021, 6:00 pm — 12:00 am",1619632800000.0,10.564,Light rain. Partly cloudy.,46.4,29.75,83
+"Thursday, April 29, 2021, 12:00 am — 6:00 am",1619654400000.0,9.321,Overcast.,42.8,29.79,83
+"Thursday, April 29, 2021, 6:00 am — 12:00 pm",1619676000000.0,9.943,Scattered clouds.,48.2,29.85,67
+"Thursday, April 29, 2021, 12:00 pm — 6:00 pm",1619697600000.0,8.7,Partly sunny.,51.8,29.88,50
+"Thursday, April 29, 2021, 6:00 pm — 12:00 am",1619719200000.0,5.593,Partly sunny.,50.0,29.92,60
+"Friday, April 30, 2021, 12:00 am — 6:00 am",1619740800000.0,3.107,Overcast.,42.8,29.96,84
+"Friday, April 30, 2021, 6:00 am — 12:00 pm",1619762400000.0,6.214,Broken clouds.,50.0,29.98,62
+"Friday, April 30, 2021, 12:00 pm — 6:00 pm",1619784000000.0,6.214,Broken clouds.,51.8,29.95,45
+"Friday, April 30, 2021, 6:00 pm — 12:00 am",1619805600000.0,6.836,Sunny.,51.8,29.96,65
+"Saturday, May 1, 2021, 12:00 am — 6:00 am",1619827200000.0,3.728,Clear.,39.2,29.98,89
+"Saturday, May 1, 2021, 6:00 am — 12:00 pm",1619848800000.0,6.836,Scattered clouds.,50.0,30.01,71
+"Saturday, May 1, 2021, 12:00 pm — 6:00 pm",1619870400000.0,9.943,Scattered showers. Partly sunny.,53.6,29.99,46
+"Saturday, May 1, 2021, 6:00 pm — 12:00 am",1619892000000.0,6.836,Clear.,51.8,30.05,59
+"Sunday, May 2, 2021, 12:00 am — 6:00 am",1619913600000.0,3.107,Passing clouds.,42.8,30.09,83
+"Sunday, May 2, 2021, 6:00 am — 12:00 pm",1619935200000.0,2.486,Scattered clouds.,51.8,30.14,69
+"Sunday, May 2, 2021, 12:00 pm — 6:00 pm",1619956800000.0,7.457,Sunny.,57.2,30.12,42
+"Sunday, May 2, 2021, 6:00 pm — 12:00 am",1619978400000.0,6.836,Sunny.,55.4,30.11,57
+"Monday, May 3, 2021, 12:00 am — 6:00 am",1620000000000.0,6.214,Passing clouds.,46.4,30.11,82
+"Monday, May 3, 2021, 6:00 am — 12:00 pm",1620021600000.0,12.428,More clouds than sun.,55.4,30.05,68
+"Monday, May 3, 2021, 12:00 pm — 6:00 pm",1620043200000.0,22.371,Sunny.,55.4,29.83,50
+"Monday, May 3, 2021, 6:00 pm — 12:00 am",1620064800000.0,22.992,Rain. Mostly cloudy.,50.0,29.54,88
+"Tuesday, May 4, 2021, 12:00 am — 6:00 am",1620086400000.0,21.75,Passing clouds.,50.0,29.36,80
+"Tuesday, May 4, 2021, 6:00 am — 12:00 pm",1620108000000.0,24.235,Broken clouds.,53.6,29.47,66
+"Tuesday, May 4, 2021, 12:00 pm — 6:00 pm",1620129600000.0,23.614,Passing clouds.,57.2,29.58,48
+"Tuesday, May 4, 2021, 6:00 pm — 12:00 am",1620151200000.0,11.185,Passing clouds.,51.8,29.65,64
+"Wednesday, May 5, 2021, 12:00 am — 6:00 am",1620172800000.0,9.321,Passing clouds.,42.8,29.7,79
+"Wednesday, May 5, 2021, 6:00 am — 12:00 pm",1620194400000.0,7.457,Scattered clouds.,51.8,29.78,67
+"Wednesday, May 5, 2021, 12:00 pm — 6:00 pm",1620216000000.0,8.078,Partly sunny.,53.6,29.81,65
+"Wednesday, May 5, 2021, 6:00 pm — 12:00 am",1620237600000.0,6.836,Partly sunny.,46.4,29.81,87
+"Thursday, May 6, 2021, 12:00 am — 6:00 am",1620259200000.0,0.621,Passing clouds.,35.6,29.76,95
+"Thursday, May 6, 2021, 6:00 am — 12:00 pm",1620280800000.0,4.35,Broken clouds.,48.2,29.69,84
+"Thursday, May 6, 2021, 12:00 pm — 6:00 pm",1620302400000.0,10.564,Sunny.,53.6,29.69,53
+"Thursday, May 6, 2021, 6:00 pm — 12:00 am",1620324000000.0,9.943,Clear.,53.6,29.78,46
+"Friday, May 7, 2021, 12:00 am — 6:00 am",1620345600000.0,6.214,Passing clouds.,44.6,29.9,73
+"Friday, May 7, 2021, 6:00 am — 12:00 pm",1620367200000.0,9.321,Passing clouds.,53.6,30.0,57
+"Friday, May 7, 2021, 12:00 pm — 6:00 pm",1620388800000.0,10.564,Sunny.,57.2,30.02,40
+"Friday, May 7, 2021, 6:00 pm — 12:00 am",1620410400000.0,6.836,Clear.,55.4,29.99,49
+"Saturday, May 8, 2021, 12:00 am — 6:00 am",1620432000000.0,6.836,Passing clouds.,46.4,29.87,66
+"Saturday, May 8, 2021, 6:00 am — 12:00 pm",1620453600000.0,13.05,Drizzle. Partly sunny.,55.4,29.64,97
+"Saturday, May 8, 2021, 12:00 pm — 6:00 pm",1620475200000.0,20.507,Partly sunny.,60.8,29.59,83
+"Saturday, May 8, 2021, 6:00 pm — 12:00 am",1620496800000.0,16.778,Broken clouds.,60.8,29.57,71
+"Sunday, May 9, 2021, 12:00 am — 6:00 am",1620518400000.0,12.428,Passing clouds.,57.2,29.48,76
+"Sunday, May 9, 2021, 6:00 am — 12:00 pm",1620540000000.0,13.05,Broken clouds.,68.0,29.43,73
+"Sunday, May 9, 2021, 12:00 pm — 6:00 pm",1620561600000.0,14.914,Partly sunny.,68.0,29.42,62
+"Sunday, May 9, 2021, 6:00 pm — 12:00 am",1620583200000.0,8.078,Broken clouds.,64.4,29.4,75
+"Monday, May 10, 2021, 12:00 am — 6:00 am",1620604800000.0,7.457,Mostly cloudy.,53.6,29.42,92
+"Monday, May 10, 2021, 6:00 am — 12:00 pm",1620626400000.0,13.671,Scattered clouds.,59.0,29.47,79
+"Monday, May 10, 2021, 12:00 pm — 6:00 pm",1620648000000.0,21.128,Passing clouds.,62.6,29.57,57
+"Monday, May 10, 2021, 6:00 pm — 12:00 am",1620669600000.0,11.185,Passing clouds.,59.0,29.66,65
+"Tuesday, May 11, 2021, 12:00 am — 6:00 am",1620691200000.0,3.728,Clear.,46.4,29.71,92
+"Tuesday, May 11, 2021, 6:00 am — 12:00 pm",1620712800000.0,5.593,Broken clouds.,59.0,29.73,77
+"Tuesday, May 11, 2021, 12:00 pm — 6:00 pm",1620734400000.0,14.914,Sunny.,64.4,29.71,46
+"Tuesday, May 11, 2021, 6:00 pm — 12:00 am",1620756000000.0,13.671,Passing clouds.,57.2,29.73,66
+"Wednesday, May 12, 2021, 12:00 am — 6:00 am",1620777600000.0,6.836,Passing clouds.,50.0,29.77,84
+"Wednesday, May 12, 2021, 6:00 am — 12:00 pm",1620799200000.0,10.564,Scattered clouds.,59.0,29.79,68
+"Wednesday, May 12, 2021, 12:00 pm — 6:00 pm",1620820800000.0,8.7,Partly sunny.,62.6,29.76,51
+"Wednesday, May 12, 2021, 6:00 pm — 12:00 am",1620842400000.0,6.214,Sunny.,59.0,29.75,55
+"Thursday, May 13, 2021, 12:00 am — 6:00 am",1620864000000.0,9.321,Passing clouds.,51.8,29.7,83
+"Thursday, May 13, 2021, 6:00 am — 12:00 pm",1620885600000.0,8.7,Light rain. Partly sunny.,53.6,29.68,92
+"Thursday, May 13, 2021, 12:00 pm — 6:00 pm",1620907200000.0,9.321,Partly sunny.,57.2,29.69,84
+"Thursday, May 13, 2021, 6:00 pm — 12:00 am",1620928800000.0,8.078,Passing clouds.,53.6,29.72,87
+"Friday, May 14, 2021, 12:00 am — 6:00 am",1620950400000.0,8.078,Passing clouds.,50.0,29.76,94
+"Friday, May 14, 2021, 6:00 am — 12:00 pm",1620972000000.0,8.078,Broken clouds.,50.0,29.82,87
+"Friday, May 14, 2021, 12:00 pm — 6:00 pm",1620993600000.0,5.593,Partly sunny.,53.6,29.82,72
+"Friday, May 14, 2021, 6:00 pm — 12:00 am",1621015200000.0,3.728,Passing clouds.,53.6,29.76,70
+"Saturday, May 15, 2021, 12:00 am — 6:00 am",1621036800000.0,5.593,Passing clouds.,50.0,29.65,88
+"Saturday, May 15, 2021, 6:00 am — 12:00 pm",1621058400000.0,6.836,Drizzle. Broken clouds.,53.6,29.53,90
+"Saturday, May 15, 2021, 12:00 pm — 6:00 pm",1621080000000.0,5.593,Partly sunny.,59.0,29.49,75
+"Saturday, May 15, 2021, 6:00 pm — 12:00 am",1621101600000.0,4.971,Partly sunny.,55.4,29.49,87
+"Sunday, May 16, 2021, 12:00 am — 6:00 am",1621123200000.0,3.728,Passing clouds.,48.2,29.5,96
+"Sunday, May 16, 2021, 6:00 am — 12:00 pm",1621144800000.0,8.078,Broken clouds.,57.2,29.48,79
+"Sunday, May 16, 2021, 12:00 pm — 6:00 pm",1621166400000.0,9.943,Sprinkles. Broken clouds.,59.0,29.44,82
+"Sunday, May 16, 2021, 6:00 pm — 12:00 am",1621188000000.0,6.214,Drizzle. Broken clouds.,51.8,29.4,97
+"Monday, May 17, 2021, 12:00 am — 6:00 am",1621209600000.0,6.836,Passing clouds.,50.0,29.5,96
+"Monday, May 17, 2021, 6:00 am — 12:00 pm",1621231200000.0,8.078,Partly sunny.,57.2,29.65,83
+"Monday, May 17, 2021, 12:00 pm — 6:00 pm",1621252800000.0,7.457,Broken clouds.,62.6,29.72,75
+"Monday, May 17, 2021, 6:00 pm — 12:00 am",1621274400000.0,4.971,Passing clouds.,53.6,29.81,92
+"Tuesday, May 18, 2021, 12:00 am — 6:00 am",1621296000000.0,1.864,Passing clouds.,46.4,29.87,95
+"Tuesday, May 18, 2021, 6:00 am — 12:00 pm",1621317600000.0,6.836,Broken clouds.,57.2,29.91,88
+"Tuesday, May 18, 2021, 12:00 pm — 6:00 pm",1621339200000.0,11.807,Broken clouds.,60.8,29.92,63
+"Tuesday, May 18, 2021, 6:00 pm — 12:00 am",1621360800000.0,8.078,Passing clouds.,59.0,29.94,75
+"Wednesday, May 19, 2021, 12:00 am — 6:00 am",1621382400000.0,4.971,Passing clouds.,51.8,29.95,92
+"Wednesday, May 19, 2021, 6:00 am — 12:00 pm",1621404000000.0,9.321,Passing clouds.,59.0,30.01,80
+"Wednesday, May 19, 2021, 12:00 pm — 6:00 pm",1621425600000.0,11.807,Scattered clouds.,62.6,30.07,50
+"Wednesday, May 19, 2021, 6:00 pm — 12:00 am",1621447200000.0,5.593,Passing clouds.,57.2,30.13,68
+"Thursday, May 20, 2021, 12:00 am — 6:00 am",1621468800000.0,1.243,Passing clouds.,48.2,30.12,94
+"Thursday, May 20, 2021, 6:00 am — 12:00 pm",1621490400000.0,12.428,Broken clouds.,55.4,30.0,79
+"Thursday, May 20, 2021, 12:00 pm — 6:00 pm",1621512000000.0,19.885,Broken clouds.,57.2,29.8,72
+"Thursday, May 20, 2021, 6:00 pm — 12:00 am",1621533600000.0,20.507,Broken clouds.,57.2,29.62,76
+"Friday, May 21, 2021, 12:00 am — 6:00 am",1621555200000.0,19.885,Passing clouds.,51.8,29.48,77
+"Friday, May 21, 2021, 6:00 am — 12:00 pm",1621576800000.0,22.992,Partly sunny.,55.4,29.4,70
+"Friday, May 21, 2021, 12:00 pm — 6:00 pm",1621598400000.0,23.614,Partly sunny.,53.6,29.39,77
+"Friday, May 21, 2021, 6:00 pm — 12:00 am",1621620000000.0,18.021,Partly sunny.,51.8,29.39,86
+"Saturday, May 22, 2021, 12:00 am — 6:00 am",1621641600000.0,12.428,Passing clouds.,50.0,29.43,96
+"Saturday, May 22, 2021, 6:00 am — 12:00 pm",1621663200000.0,9.321,Broken clouds.,51.8,29.58,83
+"Saturday, May 22, 2021, 12:00 pm — 6:00 pm",1621684800000.0,9.321,Partly sunny.,59.0,29.68,67
+"Saturday, May 22, 2021, 6:00 pm — 12:00 am",1621706400000.0,8.078,Passing clouds.,57.2,29.75,82
+"Sunday, May 23, 2021, 12:00 am — 6:00 am",1621728000000.0,4.971,Passing clouds.,44.6,29.82,90
+"Sunday, May 23, 2021, 6:00 am — 12:00 pm",1621749600000.0,9.321,Sunny.,53.6,29.82,76
+"Sunday, May 23, 2021, 12:00 pm — 6:00 pm",1621771200000.0,15.535,Light rain. Partly sunny.,55.4,29.75,71
+"Sunday, May 23, 2021, 6:00 pm — 12:00 am",1621792800000.0,16.157,Light rain. Partly sunny.,53.6,29.62,88
+"Monday, May 24, 2021, 12:00 am — 6:00 am",1621814400000.0,6.836,Passing clouds.,48.2,29.57,96
+"Monday, May 24, 2021, 6:00 am — 12:00 pm",1621836000000.0,10.564,Scattered clouds.,55.4,29.58,81
+"Monday, May 24, 2021, 12:00 pm — 6:00 pm",1621857600000.0,8.7,Scattered clouds.,55.4,29.58,74
+"Monday, May 24, 2021, 6:00 pm — 12:00 am",1621879200000.0,8.078,Sprinkles. Broken clouds.,51.8,29.72,87
+"Tuesday, May 25, 2021, 12:00 am — 6:00 am",1621900800000.0,9.321,Passing clouds.,46.4,29.85,90
+"Tuesday, May 25, 2021, 6:00 am — 12:00 pm",1621922400000.0,11.807,Partly sunny.,53.6,29.93,81
+"Tuesday, May 25, 2021, 12:00 pm — 6:00 pm",1621944000000.0,14.293,Partly sunny.,59.0,29.95,57
+"Tuesday, May 25, 2021, 6:00 pm — 12:00 am",1621965600000.0,9.943,Passing clouds.,55.4,29.93,80
+"Wednesday, May 26, 2021, 12:00 am — 6:00 am",1621987200000.0,4.971,Clear.,44.6,29.92,96
+"Wednesday, May 26, 2021, 6:00 am — 12:00 pm",1622008800000.0,9.321,Broken clouds.,55.4,29.95,76
+"Wednesday, May 26, 2021, 12:00 pm — 6:00 pm",1622030400000.0,11.807,Sunny.,60.8,29.97,54
+"Wednesday, May 26, 2021, 6:00 pm — 12:00 am",1622052000000.0,6.214,Sunny.,57.2,30.01,72
+"Thursday, May 27, 2021, 12:00 am — 6:00 am",1622073600000.0,1.864,Clear.,50.0,30.06,94
+"Thursday, May 27, 2021, 6:00 am — 12:00 pm",1622095200000.0,4.35,Sunny.,64.4,30.11,67
+"Thursday, May 27, 2021, 12:00 pm — 6:00 pm",1622116800000.0,4.35,Sunny.,68.0,30.12,43
+"Thursday, May 27, 2021, 6:00 pm — 12:00 am",1622138400000.0,6.214,Sunny.,66.2,30.15,64
+"Friday, May 28, 2021, 12:00 am — 6:00 am",1622160000000.0,3.107,Passing clouds.,53.6,30.2,91
+"Friday, May 28, 2021, 6:00 am — 12:00 pm",1622181600000.0,3.728,Sunny.,66.2,30.21,67
+"Friday, May 28, 2021, 12:00 pm — 6:00 pm",1622203200000.0,5.593,Mostly cloudy.,66.2,30.19,59
+"Friday, May 28, 2021, 6:00 pm — 12:00 am",1622224800000.0,5.593,Sunny.,60.8,30.21,75
+"Saturday, May 29, 2021, 12:00 am — 6:00 am",1622246400000.0,4.971,Overcast.,57.2,30.25,71
+"Saturday, May 29, 2021, 6:00 am — 12:00 pm",1622268000000.0,7.457,Sunny.,66.2,30.3,66
+"Saturday, May 29, 2021, 12:00 pm — 6:00 pm",1622289600000.0,11.185,Passing clouds.,69.8,30.33,47
+"Saturday, May 29, 2021, 6:00 pm — 12:00 am",1622311200000.0,8.7,Sunny.,69.8,30.36,54
+"Sunday, May 30, 2021, 12:00 am — 6:00 am",1622332800000.0,8.078,Clear.,53.6,30.39,88
+"Sunday, May 30, 2021, 6:00 am — 12:00 pm",1622354400000.0,8.078,Partly sunny.,57.2,30.39,82
+"Sunday, May 30, 2021, 12:00 pm — 6:00 pm",1622376000000.0,9.943,Passing clouds.,69.8,30.3,51
+"Sunday, May 30, 2021, 6:00 pm — 12:00 am",1622397600000.0,11.185,Sunny.,66.2,30.25,72
+"Monday, May 31, 2021, 12:00 am — 6:00 am",1622419200000.0,5.593,Clear.,50.0,30.23,92
+"Monday, May 31, 2021, 6:00 am — 12:00 pm",1622440800000.0,7.457,Low clouds.,66.2,30.2,81
+"Monday, May 31, 2021, 12:00 pm — 6:00 pm",1622462400000.0,9.321,Passing clouds.,77.0,30.11,42
+"Monday, May 31, 2021, 6:00 pm — 12:00 am",1622484000000.0,11.185,Clear.,73.4,30.07,53
+"Tuesday, June 1, 2021, 12:00 am — 6:00 am",1622505600000.0,6.214,Clear.,57.2,30.04,77
+"Tuesday, June 1, 2021, 6:00 am — 12:00 pm",1622527200000.0,8.078,Sunny.,77.0,29.99,58
+"Tuesday, June 1, 2021, 12:00 pm — 6:00 pm",1622548800000.0,15.535,Sunny.,77.0,29.93,32
+"Tuesday, June 1, 2021, 6:00 pm — 12:00 am",1622570400000.0,10.564,Sunny.,73.4,29.93,43
+"Wednesday, June 2, 2021, 12:00 am — 6:00 am",1622592000000.0,5.593,Clear.,60.8,29.9,65
+"Wednesday, June 2, 2021, 6:00 am — 12:00 pm",1622613600000.0,8.7,Sunny.,78.8,29.89,54
+"Wednesday, June 2, 2021, 12:00 pm — 6:00 pm",1622635200000.0,11.807,Sunny.,80.6,29.86,36
+"Wednesday, June 2, 2021, 6:00 pm — 12:00 am",1622656800000.0,6.214,Sunny.,75.2,29.93,68
+"Thursday, June 3, 2021, 12:00 am — 6:00 am",1622678400000.0,3.728,Passing clouds.,64.4,29.99,91
+"Thursday, June 3, 2021, 6:00 am — 12:00 pm",1622700000000.0,8.7,Scattered clouds.,68.0,30.07,76
+"Thursday, June 3, 2021, 12:00 pm — 6:00 pm",1622721600000.0,9.943,Scattered clouds.,73.4,30.09,59
+"Thursday, June 3, 2021, 6:00 pm — 12:00 am",1622743200000.0,8.078,Sunny.,69.8,30.11,67
+"Friday, June 4, 2021, 12:00 am — 6:00 am",1622764800000.0,3.107,Passing clouds.,57.2,30.16,83
+"Friday, June 4, 2021, 6:00 am — 12:00 pm",1622786400000.0,6.836,Rain. Cloudy.,60.8,30.19,80
+"Friday, June 4, 2021, 12:00 pm — 6:00 pm",1622808000000.0,7.457,Light rain. Partly sunny.,59.0,30.21,90
+"Friday, June 4, 2021, 6:00 pm — 12:00 am",1622829600000.0,4.35,Broken clouds.,59.0,30.22,89
+"Saturday, June 5, 2021, 12:00 am — 6:00 am",1622851200000.0,2.486,Mostly cloudy.,57.2,30.23,98
+"Saturday, June 5, 2021, 6:00 am — 12:00 pm",1622872800000.0,3.728,Scattered clouds.,66.2,30.25,80
+"Saturday, June 5, 2021, 12:00 pm — 6:00 pm",1622894400000.0,6.214,Sunny.,73.4,30.22,44
+"Saturday, June 5, 2021, 6:00 pm — 12:00 am",1622916000000.0,7.457,Sunny.,71.6,30.23,57
+"Sunday, June 6, 2021, 12:00 am — 6:00 am",1622937600000.0,2.486,Clear.,59.0,30.25,89
+"Sunday, June 6, 2021, 6:00 am — 12:00 pm",1622959200000.0,3.107,Sunny.,66.2,30.26,83
+"Sunday, June 6, 2021, 12:00 pm — 6:00 pm",1622980800000.0,5.593,Partly sunny.,73.4,30.23,60
+"Sunday, June 6, 2021, 6:00 pm — 12:00 am",1623002400000.0,4.971,Scattered clouds.,73.4,30.22,66
+"Monday, June 7, 2021, 12:00 am — 6:00 am",1623024000000.0,3.107,Overcast.,60.8,30.23,91
+"Monday, June 7, 2021, 6:00 am — 12:00 pm",1623045600000.0,7.457,Partly sunny.,66.2,30.24,80
+"Monday, June 7, 2021, 12:00 pm — 6:00 pm",1623067200000.0,8.7,Scattered clouds.,75.2,30.21,56
+"Monday, June 7, 2021, 6:00 pm — 12:00 am",1623088800000.0,6.836,Partly sunny.,71.6,30.2,66
+"Tuesday, June 8, 2021, 12:00 am — 6:00 am",1623110400000.0,3.728,Clear.,59.0,30.22,93
+"Tuesday, June 8, 2021, 6:00 am — 12:00 pm",1623132000000.0,3.728,Partly sunny.,71.6,30.23,66
+"Tuesday, June 8, 2021, 12:00 pm — 6:00 pm",1623153600000.0,8.078,Sunny.,75.2,30.18,46
+"Tuesday, June 8, 2021, 6:00 pm — 12:00 am",1623175200000.0,6.836,Sunny.,73.4,30.16,58
+"Wednesday, June 9, 2021, 12:00 am — 6:00 am",1623196800000.0,3.728,Clear.,57.2,30.18,91
+"Wednesday, June 9, 2021, 6:00 am — 12:00 pm",1623218400000.0,6.836,Passing clouds.,73.4,30.18,64
+"Wednesday, June 9, 2021, 12:00 pm — 6:00 pm",1623240000000.0,10.564,Sunny.,77.0,30.14,35
+"Wednesday, June 9, 2021, 6:00 pm — 12:00 am",1623261600000.0,8.7,Sunny.,73.4,30.13,64
+"Thursday, June 10, 2021, 12:00 am — 6:00 am",1623283200000.0,6.836,Passing clouds.,62.6,30.13,89
+"Thursday, June 10, 2021, 6:00 am — 12:00 pm",1623304800000.0,6.214,Partly sunny.,69.8,30.15,82
+"Thursday, June 10, 2021, 12:00 pm — 6:00 pm",1623326400000.0,9.321,Partly sunny.,73.4,30.13,66
+"Thursday, June 10, 2021, 6:00 pm — 12:00 am",1623348000000.0,9.321,Scattered clouds.,73.4,30.1,76
+"Friday, June 11, 2021, 12:00 am — 6:00 am",1623369600000.0,8.078,Low clouds.,62.6,30.1,91
+"Friday, June 11, 2021, 6:00 am — 12:00 pm",1623391200000.0,9.943,Broken clouds.,69.8,30.12,79
+"Friday, June 11, 2021, 12:00 pm — 6:00 pm",1623412800000.0,14.293,Partly sunny.,75.2,30.09,59
+"Friday, June 11, 2021, 6:00 pm — 12:00 am",1623434400000.0,10.564,Scattered clouds.,71.6,30.1,67
+"Saturday, June 12, 2021, 12:00 am — 6:00 am",1623456000000.0,6.836,Passing clouds.,62.6,30.15,84
+"Saturday, June 12, 2021, 6:00 am — 12:00 pm",1623477600000.0,6.836,Broken clouds.,68.0,30.2,73
+"Saturday, June 12, 2021, 12:00 pm — 6:00 pm",1623499200000.0,6.836,Passing clouds.,73.4,30.23,50
+"Saturday, June 12, 2021, 6:00 pm — 12:00 am",1623520800000.0,4.971,Sunny.,73.4,30.27,58
+"Sunday, June 13, 2021, 12:00 am — 6:00 am",1623542400000.0,4.35,Clear.,60.8,30.31,83
+"Sunday, June 13, 2021, 6:00 am — 12:00 pm",1623564000000.0,3.107,Sunny.,75.2,30.35,56
+"Sunday, June 13, 2021, 12:00 pm — 6:00 pm",1623585600000.0,4.971,Passing clouds.,82.4,30.28,47
+"Sunday, June 13, 2021, 6:00 pm — 12:00 am",1623607200000.0,6.836,Clear.,80.6,30.21,55
+"Monday, June 14, 2021, 12:00 am — 6:00 am",1623628800000.0,2.486,Clear.,60.8,30.17,83
+"Monday, June 14, 2021, 6:00 am — 12:00 pm",1623650400000.0,7.457,Sunny.,77.0,30.14,63
+"Monday, June 14, 2021, 12:00 pm — 6:00 pm",1623672000000.0,8.078,Scattered clouds.,80.6,30.1,50
+"Monday, June 14, 2021, 6:00 pm — 12:00 am",1623693600000.0,9.943,Sunny.,77.0,30.12,61
+"Tuesday, June 15, 2021, 12:00 am — 6:00 am",1623715200000.0,11.185,Passing clouds.,64.4,30.17,58
+"Tuesday, June 15, 2021, 6:00 am — 12:00 pm",1623736800000.0,6.836,Partly sunny.,69.8,30.19,60
+"Tuesday, June 15, 2021, 12:00 pm — 6:00 pm",1623758400000.0,4.35,Partly sunny.,78.8,30.11,45
+"Tuesday, June 15, 2021, 6:00 pm — 12:00 am",1623780000000.0,6.214,Sunny.,78.8,30.04,60
+"Wednesday, June 16, 2021, 12:00 am — 6:00 am",1623801600000.0,2.486,Passing clouds.,62.6,29.97,86
+"Wednesday, June 16, 2021, 6:00 am — 12:00 pm",1623823200000.0,6.836,Sunny.,75.2,29.91,63
+"Wednesday, June 16, 2021, 12:00 pm — 6:00 pm",1623844800000.0,9.321,Scattered clouds.,82.4,29.83,51
+"Wednesday, June 16, 2021, 6:00 pm — 12:00 am",1623866400000.0,7.457,Light rain. Broken clouds.,78.8,29.79,71
+"Thursday, June 17, 2021, 12:00 am — 6:00 am",1623888000000.0,1.864,Partly cloudy.,66.2,29.78,97
+"Thursday, June 17, 2021, 6:00 am — 12:00 pm",1623909600000.0,8.078,Partly sunny.,68.0,29.8,89
+"Thursday, June 17, 2021, 12:00 pm — 6:00 pm",1623931200000.0,8.7,Partly sunny.,69.8,29.87,76
+"Thursday, June 17, 2021, 6:00 pm — 12:00 am",1623952800000.0,8.7,Light rain. Partly sunny.,68.0,29.92,85
+"Friday, June 18, 2021, 12:00 am — 6:00 am",1623974400000.0,9.321,Passing clouds.,62.6,29.94,94
+"Friday, June 18, 2021, 6:00 am — 12:00 pm",1623996000000.0,11.807,Rain. Low clouds.,59.0,29.92,94
+"Friday, June 18, 2021, 12:00 pm — 6:00 pm",1624017600000.0,11.185,Light rain. Mostly cloudy.,57.2,29.88,93
+"Friday, June 18, 2021, 6:00 pm — 12:00 am",1624039200000.0,9.943,Light rain. Mostly cloudy.,57.2,29.91,96
+"Saturday, June 19, 2021, 12:00 am — 6:00 am",1624060800000.0,6.214,Low clouds.,53.6,29.97,94
+"Saturday, June 19, 2021, 6:00 am — 12:00 pm",1624082400000.0,5.593,Partly sunny.,57.2,29.98,89
+"Saturday, June 19, 2021, 12:00 pm — 6:00 pm",1624104000000.0,8.7,Partly sunny.,60.8,29.94,78
+"Saturday, June 19, 2021, 6:00 pm — 12:00 am",1624125600000.0,9.321,Overcast.,57.2,29.84,91
+"Sunday, June 20, 2021, 12:00 am — 6:00 am",1624147200000.0,7.457,Low clouds.,55.4,29.78,94
+"Sunday, June 20, 2021, 6:00 am — 12:00 pm",1624168800000.0,5.593,Drizzle. More clouds than sun.,60.8,29.79,92
+"Sunday, June 20, 2021, 12:00 pm — 6:00 pm",1624190400000.0,8.7,Partly sunny.,62.6,29.77,79
+"Sunday, June 20, 2021, 6:00 pm — 12:00 am",1624212000000.0,12.428,Partly sunny.,60.8,29.8,86
+"Monday, June 21, 2021, 12:00 am — 6:00 am",1624233600000.0,11.807,Overcast.,55.4,29.81,84
+"Monday, June 21, 2021, 6:00 am — 12:00 pm",1624255200000.0,11.807,Drizzle. Broken clouds.,55.4,29.86,88
+"Monday, June 21, 2021, 12:00 pm — 6:00 pm",1624276800000.0,11.807,Light rain. Partly sunny.,57.2,29.92,86
+"Monday, June 21, 2021, 6:00 pm — 12:00 am",1624298400000.0,11.807,Overcast.,57.2,30.0,86
+"Tuesday, June 22, 2021, 12:00 am — 6:00 am",1624320000000.0,12.428,Overcast.,53.6,30.06,85
+"Tuesday, June 22, 2021, 6:00 am — 12:00 pm",1624341600000.0,13.671,Broken clouds.,60.8,30.11,69
+"Tuesday, June 22, 2021, 12:00 pm — 6:00 pm",1624363200000.0,15.535,Partly sunny.,64.4,30.14,53
+"Tuesday, June 22, 2021, 6:00 pm — 12:00 am",1624384800000.0,8.078,Clear.,60.8,30.19,60
+"Wednesday, June 23, 2021, 12:00 am — 6:00 am",1624406400000.0,3.107,Clear.,48.2,30.22,92
+"Wednesday, June 23, 2021, 6:00 am — 12:00 pm",1624428000000.0,4.35,Sunny.,66.2,30.23,67
+"Wednesday, June 23, 2021, 12:00 pm — 6:00 pm",1624449600000.0,6.214,Sunny.,69.8,30.19,44
+"Wednesday, June 23, 2021, 6:00 pm — 12:00 am",1624471200000.0,4.35,Sunny.,69.8,30.19,54
+"Thursday, June 24, 2021, 12:00 am — 6:00 am",1624492800000.0,2.486,Clear.,53.6,30.18,92
+"Thursday, June 24, 2021, 6:00 am — 12:00 pm",1624514400000.0,4.35,Partly sunny.,66.2,30.18,78
+"Thursday, June 24, 2021, 12:00 pm — 6:00 pm",1624536000000.0,8.078,Partly sunny.,66.2,30.14,71
+"Thursday, June 24, 2021, 6:00 pm — 12:00 am",1624557600000.0,6.214,Partly sunny.,66.2,30.1,78
+"Friday, June 25, 2021, 12:00 am — 6:00 am",1624579200000.0,7.457,Partly cloudy.,62.6,30.04,76
+"Friday, June 25, 2021, 6:00 am — 12:00 pm",1624600800000.0,8.078,Light rain. Broken clouds.,64.4,30.01,86
+"Friday, June 25, 2021, 12:00 pm — 6:00 pm",1624622400000.0,7.457,Broken clouds.,69.8,29.97,58
+"Friday, June 25, 2021, 6:00 pm — 12:00 am",1624644000000.0,6.836,Scattered clouds.,66.2,29.98,68
+"Saturday, June 26, 2021, 12:00 am — 6:00 am",1624665600000.0,7.457,Passing clouds.,59.0,30.01,91
+"Saturday, June 26, 2021, 6:00 am — 12:00 pm",1624687200000.0,5.593,Passing clouds.,69.8,30.04,72
+"Saturday, June 26, 2021, 12:00 pm — 6:00 pm",1624708800000.0,6.836,Sunny.,73.4,30.04,47
+"Saturday, June 26, 2021, 6:00 pm — 12:00 am",1624730400000.0,9.321,Clear.,71.6,30.06,63
+"Sunday, June 27, 2021, 12:00 am — 6:00 am",1624752000000.0,11.807,Passing clouds.,60.8,30.04,86
+"Sunday, June 27, 2021, 6:00 am — 12:00 pm",1624773600000.0,13.05,Partly sunny.,64.4,29.99,88
+"Sunday, June 27, 2021, 12:00 pm — 6:00 pm",1624795200000.0,10.564,Mostly cloudy.,68.0,29.96,80
+"Sunday, June 27, 2021, 6:00 pm — 12:00 am",1624816800000.0,8.7,Partly cloudy.,68.0,29.95,88
+"Monday, June 28, 2021, 12:00 am — 6:00 am",1624838400000.0,7.457,Passing clouds.,59.0,29.93,100
+"Monday, June 28, 2021, 6:00 am — 12:00 pm",1624860000000.0,8.078,Drizzle. Low clouds.,62.6,29.94,95
+"Monday, June 28, 2021, 12:00 pm — 6:00 pm",1624881600000.0,8.078,Broken clouds.,66.2,29.97,87
+"Monday, June 28, 2021, 6:00 pm — 12:00 am",1624903200000.0,9.943,Partly sunny.,64.4,29.96,89
+"Tuesday, June 29, 2021, 12:00 am — 6:00 am",1624924800000.0,9.321,Low clouds.,59.0,29.96,92
+"Tuesday, June 29, 2021, 6:00 am — 12:00 pm",1624946400000.0,9.321,Partly sunny.,64.4,29.97,78
+"Tuesday, June 29, 2021, 12:00 pm — 6:00 pm",1624968000000.0,9.321,Partly sunny.,64.4,29.99,83
+"Tuesday, June 29, 2021, 6:00 pm — 12:00 am",1624989600000.0,4.971,Partly sunny.,60.8,30.01,84
+"Wednesday, June 30, 2021, 12:00 am — 6:00 am",1625011200000.0,5.593,Passing clouds.,57.2,30.01,88
+"Wednesday, June 30, 2021, 6:00 am — 12:00 pm",1625032800000.0,7.457,Partly sunny.,59.0,30.03,85
+"Wednesday, June 30, 2021, 12:00 pm — 6:00 pm",1625054400000.0,6.836,Broken clouds.,62.6,30.04,71
+"Wednesday, June 30, 2021, 6:00 pm — 12:00 am",1625076000000.0,4.35,Partly sunny.,64.4,30.05,71
+"Thursday, July 1, 2021, 12:00 am — 6:00 am",1625097600000.0,1.864,Passing clouds.,57.2,30.07,93
+"Thursday, July 1, 2021, 6:00 am — 12:00 pm",1625119200000.0,4.971,Partly sunny.,66.2,30.07,71
+"Thursday, July 1, 2021, 12:00 pm — 6:00 pm",1625140800000.0,6.836,Partly sunny.,69.8,30.05,63
+"Thursday, July 1, 2021, 6:00 pm — 12:00 am",1625162400000.0,4.35,Sunny.,69.8,30.03,71
+"Friday, July 2, 2021, 12:00 am — 6:00 am",1625184000000.0,1.864,Passing clouds.,60.8,30.01,90
+"Friday, July 2, 2021, 6:00 am — 12:00 pm",1625205600000.0,4.971,Partly sunny.,68.0,30.02,84
+"Friday, July 2, 2021, 12:00 pm — 6:00 pm",1625227200000.0,7.457,Partly sunny.,75.2,30.0,58
+"Friday, July 2, 2021, 6:00 pm — 12:00 am",1625248800000.0,5.593,Partly sunny.,73.4,29.96,64
+"Saturday, July 3, 2021, 12:00 am — 6:00 am",1625270400000.0,4.35,Mostly cloudy.,64.4,29.91,88
+"Saturday, July 3, 2021, 6:00 am — 12:00 pm",1625292000000.0,5.593,Overcast.,68.0,29.89,87
+"Saturday, July 3, 2021, 12:00 pm — 6:00 pm",1625313600000.0,10.564,Partly sunny.,71.6,29.85,72
+"Saturday, July 3, 2021, 6:00 pm — 12:00 am",1625335200000.0,9.943,Passing clouds.,69.8,29.83,74
+"Sunday, July 4, 2021, 12:00 am — 6:00 am",1625356800000.0,6.214,Passing clouds.,60.8,29.81,90
+"Sunday, July 4, 2021, 6:00 am — 12:00 pm",1625378400000.0,8.078,Broken clouds.,64.4,29.76,92
+"Sunday, July 4, 2021, 12:00 pm — 6:00 pm",1625400000000.0,12.428,Scattered clouds.,69.8,29.7,78
+"Sunday, July 4, 2021, 6:00 pm — 12:00 am",1625421600000.0,11.807,Partly sunny.,62.6,29.7,84
+"Monday, July 5, 2021, 12:00 am — 6:00 am",1625443200000.0,7.457,Passing clouds.,59.0,29.71,92
+"Monday, July 5, 2021, 6:00 am — 12:00 pm",1625464800000.0,9.943,Scattered clouds.,69.8,29.71,72
+"Monday, July 5, 2021, 12:00 pm — 6:00 pm",1625486400000.0,11.807,Mostly cloudy.,69.8,29.66,59
+"Monday, July 5, 2021, 6:00 pm — 12:00 am",1625508000000.0,9.321,Light rain. Partly sunny.,64.4,29.55,88
+"Tuesday, July 6, 2021, 12:00 am — 6:00 am",1625529600000.0,9.321,Passing clouds.,59.0,29.4,94
+"Tuesday, July 6, 2021, 6:00 am — 12:00 pm",1625551200000.0,12.428,Partly sunny.,64.4,29.38,90
+"Tuesday, July 6, 2021, 12:00 pm — 6:00 pm",1625572800000.0,16.778,Partly sunny.,68.0,29.59,73
+"Tuesday, July 6, 2021, 6:00 pm — 12:00 am",1625594400000.0,11.185,Partly sunny.,62.6,29.68,82
+"Wednesday, July 7, 2021, 12:00 am — 6:00 am",1625616000000.0,9.321,Passing clouds.,59.0,29.75,91
+"Wednesday, July 7, 2021, 6:00 am — 12:00 pm",1625637600000.0,9.943,Broken clouds.,64.4,29.82,83
+"Wednesday, July 7, 2021, 12:00 pm — 6:00 pm",1625659200000.0,14.914,Broken clouds.,69.8,29.9,66
+"Wednesday, July 7, 2021, 6:00 pm — 12:00 am",1625680800000.0,11.185,Scattered clouds.,68.0,29.97,72
+"Thursday, July 8, 2021, 12:00 am — 6:00 am",1625702400000.0,4.35,Passing clouds.,59.0,30.04,90
+"Thursday, July 8, 2021, 6:00 am — 12:00 pm",1625724000000.0,6.836,Partly sunny.,68.0,30.09,78
+"Thursday, July 8, 2021, 12:00 pm — 6:00 pm",1625745600000.0,7.457,Partly sunny.,69.8,30.11,76
+"Thursday, July 8, 2021, 6:00 pm — 12:00 am",1625767200000.0,4.971,Passing clouds.,69.8,30.13,79
+"Friday, July 9, 2021, 12:00 am — 6:00 am",1625788800000.0,1.864,Overcast.,60.8,30.13,93
+"Friday, July 9, 2021, 6:00 am — 12:00 pm",1625810400000.0,6.214,Partly sunny.,69.8,30.15,82
+"Friday, July 9, 2021, 12:00 pm — 6:00 pm",1625832000000.0,7.457,Broken clouds.,75.2,30.11,56
+"Friday, July 9, 2021, 6:00 pm — 12:00 am",1625853600000.0,7.457,Clear.,69.8,30.09,67
+"Saturday, July 10, 2021, 12:00 am — 6:00 am",1625875200000.0,3.728,Partly cloudy.,57.2,30.06,86
+"Saturday, July 10, 2021, 6:00 am — 12:00 pm",1625896800000.0,3.107,Sunny.,62.6,30.02,75
+"Saturday, July 10, 2021, 12:00 pm — 6:00 pm",1625918400000.0,2.486,Broken clouds.,64.4,29.99,73
+"Saturday, July 10, 2021, 6:00 pm — 12:00 am",1625940000000.0,1.864,Clear.,66.2,29.99,75
+"Sunday, July 11, 2021, 12:00 am — 6:00 am",1625961600000.0,1.243,Clear.,55.4,30.01,98
+"Sunday, July 11, 2021, 6:00 am — 12:00 pm",1625983200000.0,5.593,Scattered clouds.,68.0,30.01,81
+"Sunday, July 11, 2021, 12:00 pm — 6:00 pm",1626004800000.0,8.7,Partly sunny.,71.6,29.96,62
+"Sunday, July 11, 2021, 6:00 pm — 12:00 am",1626026400000.0,5.593,Light rain. Partly sunny.,66.2,29.92,86
+"Monday, July 12, 2021, 12:00 am — 6:00 am",1626048000000.0,2.486,Passing clouds.,59.0,29.89,97
+"Monday, July 12, 2021, 6:00 am — 12:00 pm",1626069600000.0,5.593,Partly sunny.,68.0,29.84,80
+"Monday, July 12, 2021, 12:00 pm — 6:00 pm",1626091200000.0,7.457,More clouds than sun.,69.8,29.82,70
+"Monday, July 12, 2021, 6:00 pm — 12:00 am",1626112800000.0,3.107,Sprinkles. Partly sunny.,64.4,29.87,92
+"Tuesday, July 13, 2021, 12:00 am — 6:00 am",1626134400000.0,4.971,Overcast.,60.8,29.89,94
+"Tuesday, July 13, 2021, 6:00 am — 12:00 pm",1626156000000.0,7.457,Partly sunny.,68.0,29.95,82
+"Tuesday, July 13, 2021, 12:00 pm — 6:00 pm",1626177600000.0,9.943,Partly sunny.,71.6,29.98,66
+"Tuesday, July 13, 2021, 6:00 pm — 12:00 am",1626199200000.0,7.457,Passing clouds.,69.8,30.0,70
+"Wednesday, July 14, 2021, 12:00 am — 6:00 am",1626220800000.0,3.728,Clear.,60.8,30.03,91
+"Wednesday, July 14, 2021, 6:00 am — 12:00 pm",1626242400000.0,10.564,Scattered clouds.,69.8,30.06,81
+"Wednesday, July 14, 2021, 12:00 pm — 6:00 pm",1626264000000.0,12.428,Scattered clouds.,77.0,30.07,58
+"Wednesday, July 14, 2021, 6:00 pm — 12:00 am",1626285600000.0,9.943,Passing clouds.,75.2,30.09,63
+"Thursday, July 15, 2021, 12:00 am — 6:00 am",1626307200000.0,4.35,Clear.,60.8,30.12,84
+"Thursday, July 15, 2021, 6:00 am — 12:00 pm",1626328800000.0,9.321,Broken clouds.,68.0,30.16,75
+"Thursday, July 15, 2021, 12:00 pm — 6:00 pm",1626350400000.0,11.807,Partly sunny.,69.8,30.2,64
+"Thursday, July 15, 2021, 6:00 pm — 12:00 am",1626372000000.0,8.078,Partly sunny.,68.0,30.26,76
+"Friday, July 16, 2021, 12:00 am — 6:00 am",1626393600000.0,3.107,Cool.,57.2,30.29,89
+"Friday, July 16, 2021, 6:00 am — 12:00 pm",1626415200000.0,8.7,Sunny.,73.4,30.3,68
+"Friday, July 16, 2021, 12:00 pm — 6:00 pm",1626436800000.0,13.671,Sunny.,80.6,30.3,46
+"Friday, July 16, 2021, 6:00 pm — 12:00 am",1626458400000.0,8.7,Sunny.,77.0,30.34,54
+"Saturday, July 17, 2021, 12:00 am — 6:00 am",1626480000000.0,3.107,Cool.,66.2,30.36,78
+"Saturday, July 17, 2021, 6:00 am — 12:00 pm",1626501600000.0,5.593,Mild.,73.4,30.39,64
+"Saturday, July 17, 2021, 12:00 pm — 6:00 pm",1626523200000.0,6.836,Sunny.,82.4,30.33,42
+"Saturday, July 17, 2021, 6:00 pm — 12:00 am",1626544800000.0,5.593,Sunny.,82.4,30.31,55
+"Sunday, July 18, 2021, 12:00 am — 6:00 am",1626566400000.0,1.864,Cool.,64.4,30.3,90
+"Sunday, July 18, 2021, 6:00 am — 12:00 pm",1626588000000.0,2.486,Warm.,82.4,30.29,72
+"Sunday, July 18, 2021, 12:00 pm — 6:00 pm",1626609600000.0,5.593,Sunny.,86.0,30.23,41
+"Sunday, July 18, 2021, 6:00 pm — 12:00 am",1626631200000.0,3.728,Sunny.,86.0,30.18,51
+"Monday, July 19, 2021, 12:00 am — 6:00 am",1626652800000.0,1.864,Mild.,69.8,30.17,82
+"Monday, July 19, 2021, 6:00 am — 12:00 pm",1626674400000.0,2.486,Sunny.,82.4,30.15,69
+"Monday, July 19, 2021, 12:00 pm — 6:00 pm",1626696000000.0,5.593,Sunny.,86.0,30.11,44
+"Monday, July 19, 2021, 6:00 pm — 12:00 am",1626717600000.0,7.457,Mild.,84.2,30.1,61
+"Tuesday, July 20, 2021, 12:00 am — 6:00 am",1626739200000.0,2.486,Mild.,68.0,30.11,86
+"Tuesday, July 20, 2021, 6:00 am — 12:00 pm",1626760800000.0,3.728,Sunny.,82.4,30.11,64
+"Tuesday, July 20, 2021, 12:00 pm — 6:00 pm",1626782400000.0,6.836,Sunny.,87.8,30.08,38
+"Tuesday, July 20, 2021, 6:00 pm — 12:00 am",1626804000000.0,9.321,Passing clouds.,82.4,30.11,64
+"Wednesday, July 21, 2021, 12:00 am — 6:00 am",1626825600000.0,2.486,Mild.,68.0,30.15,82
+"Wednesday, July 21, 2021, 6:00 am — 12:00 pm",1626847200000.0,3.728,Sunny.,80.6,30.18,69
+"Wednesday, July 21, 2021, 12:00 pm — 6:00 pm",1626868800000.0,6.836,Sunny.,86.0,30.18,43
+"Wednesday, July 21, 2021, 6:00 pm — 12:00 am",1626890400000.0,8.078,Clear.,84.2,30.19,56
+"Thursday, July 22, 2021, 12:00 am — 6:00 am",1626912000000.0,4.971,Haze.,68.0,30.21,79
+"Thursday, July 22, 2021, 6:00 am — 12:00 pm",1626933600000.0,4.35,Sunny.,80.6,30.22,64
+"Thursday, July 22, 2021, 12:00 pm — 6:00 pm",1626955200000.0,6.836,Sunny.,84.2,30.17,39
+"Thursday, July 22, 2021, 6:00 pm — 12:00 am",1626976800000.0,7.457,Sunny.,80.6,30.13,55
+"Friday, July 23, 2021, 12:00 am — 6:00 am",1626998400000.0,6.836,Cool.,64.4,30.12,83
+"Friday, July 23, 2021, 6:00 am — 12:00 pm",1627020000000.0,10.564,Scattered clouds.,73.4,30.07,65
+"Friday, July 23, 2021, 12:00 pm — 6:00 pm",1627041600000.0,15.535,Partly sunny.,75.2,29.97,56
+"Friday, July 23, 2021, 6:00 pm — 12:00 am",1627063200000.0,14.914,Partly sunny.,68.0,29.92,69
+"Saturday, July 24, 2021, 12:00 am — 6:00 am",1627084800000.0,14.293,Passing clouds.,60.8,29.82,83
+"Saturday, July 24, 2021, 6:00 am — 12:00 pm",1627106400000.0,10.564,Broken clouds.,64.4,29.77,88
+"Saturday, July 24, 2021, 12:00 pm — 6:00 pm",1627128000000.0,8.7,Partly sunny.,73.4,29.76,74
+"Saturday, July 24, 2021, 6:00 pm — 12:00 am",1627149600000.0,8.078,Broken clouds.,73.4,29.74,73
+"Sunday, July 25, 2021, 12:00 am — 6:00 am",1627171200000.0,6.836,Partly cloudy.,64.4,29.74,86
+"Sunday, July 25, 2021, 6:00 am — 12:00 pm",1627192800000.0,6.836,Partly sunny.,68.0,29.74,86
+"Sunday, July 25, 2021, 12:00 pm — 6:00 pm",1627214400000.0,10.564,Broken clouds.,69.8,29.75,78
+"Sunday, July 25, 2021, 6:00 pm — 12:00 am",1627236000000.0,4.35,Sprinkles. Partly sunny.,66.2,29.78,93
+"Monday, July 26, 2021, 12:00 am — 6:00 am",1627257600000.0,3.728,Passing clouds.,62.6,29.81,93
+"Monday, July 26, 2021, 6:00 am — 12:00 pm",1627279200000.0,1.864,Broken clouds.,71.6,29.83,84
+"Monday, July 26, 2021, 12:00 pm — 6:00 pm",1627300800000.0,5.593,Partly sunny.,78.8,29.81,56
+"Monday, July 26, 2021, 6:00 pm — 12:00 am",1627322400000.0,7.457,Passing clouds.,77.0,29.8,69
+"Tuesday, July 27, 2021, 12:00 am — 6:00 am",1627344000000.0,6.836,Passing clouds.,66.2,29.8,80
+"Tuesday, July 27, 2021, 6:00 am — 12:00 pm",1627365600000.0,7.457,Broken clouds.,69.8,29.8,68
+"Tuesday, July 27, 2021, 12:00 pm — 6:00 pm",1627387200000.0,9.321,Broken clouds.,71.6,29.75,73
+"Tuesday, July 27, 2021, 6:00 pm — 12:00 am",1627408800000.0,8.7,Scattered clouds.,69.8,29.72,77
+"Wednesday, July 28, 2021, 12:00 am — 6:00 am",1627430400000.0,8.078,Partly cloudy.,62.6,29.71,88
+"Wednesday, July 28, 2021, 6:00 am — 12:00 pm",1627452000000.0,12.428,Broken clouds.,66.2,29.73,74
+"Wednesday, July 28, 2021, 12:00 pm — 6:00 pm",1627473600000.0,10.564,Sprinkles. Partly sunny.,66.2,29.73,85
+"Wednesday, July 28, 2021, 6:00 pm — 12:00 am",1627495200000.0,12.428,Passing clouds.,62.6,29.73,78
+"Thursday, July 29, 2021, 12:00 am — 6:00 am",1627516800000.0,9.943,Cool.,55.4,29.78,85
+"Thursday, July 29, 2021, 6:00 am — 12:00 pm",1627538400000.0,16.778,Scattered clouds.,66.2,29.82,66
+"Thursday, July 29, 2021, 12:00 pm — 6:00 pm",1627560000000.0,15.535,Sunny.,71.6,29.82,43
+"Thursday, July 29, 2021, 6:00 pm — 12:00 am",1627581600000.0,10.564,Sunny.,68.0,29.8,63
+"Friday, July 30, 2021, 12:00 am — 6:00 am",1627603200000.0,8.078,Light rain. Passing clouds.,60.8,29.7,87
+"Friday, July 30, 2021, 6:00 am — 12:00 pm",1627624800000.0,13.05,Partly sunny.,60.8,29.56,85
+"Friday, July 30, 2021, 12:00 pm — 6:00 pm",1627646400000.0,21.128,Partly sunny.,66.2,29.52,77
+"Friday, July 30, 2021, 6:00 pm — 12:00 am",1627668000000.0,14.914,Broken clouds.,62.6,29.67,74
+"Saturday, July 31, 2021, 12:00 am — 6:00 am",1627689600000.0,8.078,Passing clouds.,57.2,29.75,87
+"Saturday, July 31, 2021, 6:00 am — 12:00 pm",1627711200000.0,7.457,Broken clouds.,66.2,29.79,79
+"Saturday, July 31, 2021, 12:00 pm — 6:00 pm",1627732800000.0,8.7,Partly sunny.,68.0,29.8,74
+"Saturday, July 31, 2021, 6:00 pm — 12:00 am",1627754400000.0,6.214,Broken clouds.,66.2,29.82,82
+"Sunday, August 1, 2021, 12:00 am — 6:00 am",1627776000000.0,3.728,Overcast.,59.0,29.81,93
+"Sunday, August 1, 2021, 6:00 am — 12:00 pm",1627797600000.0,3.107,Partly sunny.,66.2,29.84,81
+"Sunday, August 1, 2021, 12:00 pm — 6:00 pm",1627819200000.0,8.7,Partly sunny.,68.0,29.86,71
+"Sunday, August 1, 2021, 6:00 pm — 12:00 am",1627840800000.0,8.7,Partly sunny.,66.2,29.91,75
+"Monday, August 2, 2021, 12:00 am — 6:00 am",1627862400000.0,2.486,Overcast.,55.4,29.96,88
+"Monday, August 2, 2021, 6:00 am — 12:00 pm",1627884000000.0,4.971,Passing clouds.,68.0,29.98,66
+"Monday, August 2, 2021, 12:00 pm — 6:00 pm",1627905600000.0,7.457,Partly sunny.,68.0,29.97,59
+"Monday, August 2, 2021, 6:00 pm — 12:00 am",1627927200000.0,6.214,Broken clouds.,64.4,29.95,71
+"Tuesday, August 3, 2021, 12:00 am — 6:00 am",1627948800000.0,2.486,Passing clouds.,57.2,29.93,92
+"Tuesday, August 3, 2021, 6:00 am — 12:00 pm",1627970400000.0,3.728,Partly sunny.,66.2,29.92,81
+"Tuesday, August 3, 2021, 12:00 pm — 6:00 pm",1627992000000.0,5.593,Partly sunny.,68.0,29.89,56
+"Tuesday, August 3, 2021, 6:00 pm — 12:00 am",1628013600000.0,6.214,Broken clouds.,66.2,29.9,70
+"Wednesday, August 4, 2021, 12:00 am — 6:00 am",1628035200000.0,1.864,Passing clouds.,53.6,29.92,96
+"Wednesday, August 4, 2021, 6:00 am — 12:00 pm",1628056800000.0,3.728,Partly sunny.,68.0,29.92,72
+"Wednesday, August 4, 2021, 12:00 pm — 6:00 pm",1628078400000.0,4.35,Broken clouds.,73.4,29.89,50
+"Wednesday, August 4, 2021, 6:00 pm — 12:00 am",1628100000000.0,4.971,Clear.,71.6,29.87,63
+"Thursday, August 5, 2021, 12:00 am — 6:00 am",1628121600000.0,3.728,Passing clouds.,59.0,29.82,87
+"Thursday, August 5, 2021, 6:00 am — 12:00 pm",1628143200000.0,9.943,Broken clouds.,68.0,29.73,72
+"Thursday, August 5, 2021, 12:00 pm — 6:00 pm",1628164800000.0,13.05,Partly sunny.,68.0,29.59,76
+"Thursday, August 5, 2021, 6:00 pm — 12:00 am",1628186400000.0,10.564,Drizzle. Partly sunny.,62.6,29.47,93
+"Friday, August 6, 2021, 12:00 am — 6:00 am",1628208000000.0,8.078,Passing clouds.,60.8,29.43,89
+"Friday, August 6, 2021, 6:00 am — 12:00 pm",1628229600000.0,16.157,Broken clouds.,66.2,29.45,80
+"Friday, August 6, 2021, 12:00 pm — 6:00 pm",1628251200000.0,18.642,Broken clouds.,69.8,29.5,67
+"Friday, August 6, 2021, 6:00 pm — 12:00 am",1628272800000.0,6.836,Partly sunny.,62.6,29.53,87
+"Saturday, August 7, 2021, 12:00 am — 6:00 am",1628294400000.0,6.214,Passing clouds.,57.2,29.5,90
+"Saturday, August 7, 2021, 6:00 am — 12:00 pm",1628316000000.0,5.593,Sprinkles. Broken clouds.,62.6,29.44,94
+"Saturday, August 7, 2021, 12:00 pm — 6:00 pm",1628337600000.0,9.943,Passing clouds.,68.0,29.39,71
+"Saturday, August 7, 2021, 6:00 pm — 12:00 am",1628359200000.0,13.671,Broken clouds.,64.4,29.49,76
+"Sunday, August 8, 2021, 12:00 am — 6:00 am",1628380800000.0,13.05,Passing clouds.,59.0,29.58,83
+"Sunday, August 8, 2021, 6:00 am — 12:00 pm",1628402400000.0,13.671,Broken clouds.,60.8,29.62,88
+"Sunday, August 8, 2021, 12:00 pm — 6:00 pm",1628424000000.0,14.914,Broken clouds.,66.2,29.71,80
+"Sunday, August 8, 2021, 6:00 pm — 12:00 am",1628445600000.0,8.7,Passing clouds.,64.4,29.81,75
+"Monday, August 9, 2021, 12:00 am — 6:00 am",1628467200000.0,4.35,Passing clouds.,57.2,29.82,93
+"Monday, August 9, 2021, 6:00 am — 12:00 pm",1628488800000.0,9.321,Broken clouds.,66.2,29.84,88
+"Monday, August 9, 2021, 12:00 pm — 6:00 pm",1628510400000.0,11.185,Scattered clouds.,69.8,29.87,74
+"Monday, August 9, 2021, 6:00 pm — 12:00 am",1628532000000.0,6.836,Partly sunny.,60.8,29.91,93
+"Tuesday, August 10, 2021, 12:00 am — 6:00 am",1628553600000.0,5.593,Fog.,57.2,29.95,96
+"Tuesday, August 10, 2021, 6:00 am — 12:00 pm",1628575200000.0,8.7,Partly sunny.,66.2,29.98,83
+"Tuesday, August 10, 2021, 12:00 pm — 6:00 pm",1628596800000.0,7.457,Scattered clouds.,73.4,29.98,58
+"Tuesday, August 10, 2021, 6:00 pm — 12:00 am",1628618400000.0,5.593,Passing clouds.,71.6,30.01,71
+"Wednesday, August 11, 2021, 12:00 am — 6:00 am",1628640000000.0,3.107,Passing clouds.,59.0,30.04,89
+"Wednesday, August 11, 2021, 6:00 am — 12:00 pm",1628661600000.0,6.836,Sunny.,71.6,30.07,72
+"Wednesday, August 11, 2021, 12:00 pm — 6:00 pm",1628683200000.0,9.943,Passing clouds.,75.2,30.05,53
+"Wednesday, August 11, 2021, 6:00 pm — 12:00 am",1628704800000.0,8.7,Scattered clouds.,71.6,30.06,61
+"Thursday, August 12, 2021, 12:00 am — 6:00 am",1628726400000.0,6.214,Low clouds.,62.6,30.05,87
+"Thursday, August 12, 2021, 6:00 am — 12:00 pm",1628748000000.0,5.593,Broken clouds.,69.8,30.07,89
+"Thursday, August 12, 2021, 12:00 pm — 6:00 pm",1628769600000.0,11.807,Partly sunny.,71.6,26.72,73
+"Thursday, August 12, 2021, 6:00 pm — 12:00 am",1628791200000.0,8.078,Passing clouds.,69.8,30.07,77
+"Friday, August 13, 2021, 12:00 am — 6:00 am",1628812800000.0,6.214,Passing clouds.,57.2,30.09,92
+"Friday, August 13, 2021, 6:00 am — 12:00 pm",1628834400000.0,9.321,Partly sunny.,66.2,30.14,83
+"Friday, August 13, 2021, 12:00 pm — 6:00 pm",1628856000000.0,13.05,Partly sunny.,71.6,30.15,63
+"Friday, August 13, 2021, 6:00 pm — 12:00 am",1628877600000.0,8.078,Broken clouds.,69.8,30.15,75
+"Saturday, August 14, 2021, 12:00 am — 6:00 am",1628899200000.0,4.971,Passing clouds.,62.6,30.14,92
+"Saturday, August 14, 2021, 6:00 am — 12:00 pm",1628920800000.0,7.457,Partly sunny.,69.8,30.13,78
+"Saturday, August 14, 2021, 12:00 pm — 6:00 pm",1628942400000.0,11.807,Partly sunny.,75.2,30.09,57
+"Saturday, August 14, 2021, 6:00 pm — 12:00 am",1628964000000.0,7.457,Overcast.,73.4,30.04,62
+"Sunday, August 15, 2021, 12:00 am — 6:00 am",1628985600000.0,3.728,Overcast.,62.6,29.99,85
+"Sunday, August 15, 2021, 6:00 am — 12:00 pm",1629007200000.0,7.457,Partly sunny.,66.2,29.94,87
+"Sunday, August 15, 2021, 12:00 pm — 6:00 pm",1629028800000.0,13.05,Broken clouds.,73.4,29.87,60
+"Sunday, August 15, 2021, 6:00 pm — 12:00 am",1629050400000.0,10.564,Broken clouds.,68.0,29.87,75
+"Monday, August 16, 2021, 12:00 am — 6:00 am",1629072000000.0,9.943,Passing clouds.,62.6,29.91,82
+"Monday, August 16, 2021, 6:00 am — 12:00 pm",1629093600000.0,13.671,More clouds than sun.,64.4,30.01,69
+"Monday, August 16, 2021, 12:00 pm — 6:00 pm",1629115200000.0,12.428,Broken clouds.,64.4,30.08,60
+"Monday, August 16, 2021, 6:00 pm — 12:00 am",1629136800000.0,6.836,Clear.,64.4,30.13,66
+"Tuesday, August 17, 2021, 12:00 am — 6:00 am",1629158400000.0,6.214,Passing clouds.,55.4,30.13,85
+"Tuesday, August 17, 2021, 6:00 am — 12:00 pm",1629180000000.0,8.078,Partly sunny.,62.6,30.11,80
+"Tuesday, August 17, 2021, 12:00 pm — 6:00 pm",1629201600000.0,11.185,Partly sunny.,64.4,30.07,75
+"Tuesday, August 17, 2021, 6:00 pm — 12:00 am",1629223200000.0,6.836,Partly sunny.,64.4,30.07,78
+"Wednesday, August 18, 2021, 12:00 am — 6:00 am",1629244800000.0,5.593,Passing clouds.,60.8,30.07,94
+"Wednesday, August 18, 2021, 6:00 am — 12:00 pm",1629266400000.0,9.943,Partly sunny.,69.8,30.04,79
+"Wednesday, August 18, 2021, 12:00 pm — 6:00 pm",1629288000000.0,14.914,Partly sunny.,75.2,29.99,59
+"Wednesday, August 18, 2021, 6:00 pm — 12:00 am",1629309600000.0,11.185,Partly sunny.,69.8,29.96,70
+"Thursday, August 19, 2021, 12:00 am — 6:00 am",1629331200000.0,6.836,Overcast.,60.8,29.96,80
+"Thursday, August 19, 2021, 6:00 am — 12:00 pm",1629352800000.0,8.078,Partly sunny.,64.4,29.95,73
+"Thursday, August 19, 2021, 12:00 pm — 6:00 pm",1629374400000.0,9.321,Broken clouds.,69.8,29.94,63
+"Thursday, August 19, 2021, 6:00 pm — 12:00 am",1629396000000.0,6.214,Light rain. Passing clouds.,68.0,29.92,87
+"Friday, August 20, 2021, 12:00 am — 6:00 am",1629417600000.0,4.971,Passing clouds.,60.8,29.95,95
+"Friday, August 20, 2021, 6:00 am — 12:00 pm",1629439200000.0,6.214,Partly sunny.,66.2,30.0,86
+"Friday, August 20, 2021, 12:00 pm — 6:00 pm",1629460800000.0,7.457,Partly sunny.,69.8,30.01,67
+"Friday, August 20, 2021, 6:00 pm — 12:00 am",1629482400000.0,4.971,Partly sunny.,68.0,30.03,77
+"Saturday, August 21, 2021, 12:00 am — 6:00 am",1629504000000.0,2.486,Passing clouds.,62.6,30.02,87
+"Saturday, August 21, 2021, 6:00 am — 12:00 pm",1629525600000.0,3.728,Partly sunny.,64.4,30.0,85
+"Saturday, August 21, 2021, 12:00 pm — 6:00 pm",1629547200000.0,6.214,Broken clouds.,68.0,29.96,83
+"Saturday, August 21, 2021, 6:00 pm — 12:00 am",1629568800000.0,6.214,Passing clouds.,68.0,29.94,82
+"Sunday, August 22, 2021, 12:00 am — 6:00 am",1629590400000.0,5.593,Passing clouds.,62.6,29.96,88
+"Sunday, August 22, 2021, 6:00 am — 12:00 pm",1629612000000.0,9.943,Broken clouds.,68.0,30.05,87
+"Sunday, August 22, 2021, 12:00 pm — 6:00 pm",1629633600000.0,12.428,Broken clouds.,71.6,30.11,65
+"Sunday, August 22, 2021, 6:00 pm — 12:00 am",1629655200000.0,5.593,Partly sunny.,64.4,30.19,89
+"Monday, August 23, 2021, 12:00 am — 6:00 am",1629676800000.0,8.078,Passing clouds.,62.6,30.28,89
+"Monday, August 23, 2021, 6:00 am — 12:00 pm",1629698400000.0,8.7,Broken clouds.,64.4,30.35,79
+"Monday, August 23, 2021, 12:00 pm — 6:00 pm",1629720000000.0,8.7,Passing clouds.,69.8,30.36,59
+"Monday, August 23, 2021, 6:00 pm — 12:00 am",1629741600000.0,8.7,Clear.,68.0,30.38,66
+"Tuesday, August 24, 2021, 12:00 am — 6:00 am",1629763200000.0,8.078,Low clouds.,59.0,30.41,88
+"Tuesday, August 24, 2021, 6:00 am — 12:00 pm",1629784800000.0,10.564,Passing clouds.,66.2,30.42,80
+"Tuesday, August 24, 2021, 12:00 pm — 6:00 pm",1629806400000.0,11.807,Sunny.,73.4,30.37,47
+"Tuesday, August 24, 2021, 6:00 pm — 12:00 am",1629828000000.0,9.943,Passing clouds.,71.6,30.37,61
+"Wednesday, August 25, 2021, 12:00 am — 6:00 am",1629849600000.0,6.836,Cool.,59.0,30.35,86
+"Wednesday, August 25, 2021, 6:00 am — 12:00 pm",1629871200000.0,8.078,Scattered clouds.,66.2,30.32,77
+"Wednesday, August 25, 2021, 12:00 pm — 6:00 pm",1629892800000.0,11.185,Passing clouds.,69.8,30.24,57
+"Wednesday, August 25, 2021, 6:00 pm — 12:00 am",1629914400000.0,9.943,Passing clouds.,66.2,30.21,70
+"Thursday, August 26, 2021, 12:00 am — 6:00 am",1629936000000.0,8.7,Overcast.,62.6,30.17,79
+"Thursday, August 26, 2021, 6:00 am — 12:00 pm",1629957600000.0,12.428,Partly sunny.,62.6,30.17,70
+"Thursday, August 26, 2021, 12:00 pm — 6:00 pm",1629979200000.0,12.428,Partly sunny.,64.4,30.17,58
+"Thursday, August 26, 2021, 6:00 pm — 12:00 am",1630000800000.0,9.943,Partly sunny.,64.4,30.17,60
+"Friday, August 27, 2021, 12:00 am — 6:00 am",1630022400000.0,7.457,Passing clouds.,59.0,30.19,79
+"Friday, August 27, 2021, 6:00 am — 12:00 pm",1630044000000.0,9.943,Scattered clouds.,64.4,30.21,74
+"Friday, August 27, 2021, 12:00 pm — 6:00 pm",1630065600000.0,11.185,Partly sunny.,66.2,30.21,58
+"Friday, August 27, 2021, 6:00 pm — 12:00 am",1630087200000.0,6.836,Clear.,62.6,30.24,72
+"Saturday, August 28, 2021, 12:00 am — 6:00 am",1630108800000.0,6.214,Low clouds.,55.4,30.27,91
+"Saturday, August 28, 2021, 6:00 am — 12:00 pm",1630130400000.0,10.564,Partly sunny.,66.2,30.3,80
+"Saturday, August 28, 2021, 12:00 pm — 6:00 pm",1630152000000.0,12.428,Partly sunny.,68.0,30.28,61
+"Saturday, August 28, 2021, 6:00 pm — 12:00 am",1630173600000.0,6.214,Cool.,66.2,30.29,72
+"Sunday, August 29, 2021, 12:00 am — 6:00 am",1630195200000.0,1.864,Passing clouds.,51.8,30.29,92
+"Sunday, August 29, 2021, 6:00 am — 12:00 pm",1630216800000.0,4.971,Partly sunny.,64.4,30.27,80
+"Sunday, August 29, 2021, 12:00 pm — 6:00 pm",1630238400000.0,11.185,Partly sunny.,64.4,30.26,59
+"Sunday, August 29, 2021, 6:00 pm — 12:00 am",1630260000000.0,11.185,Partly sunny.,64.4,30.26,65
+"Monday, August 30, 2021, 12:00 am — 6:00 am",1630281600000.0,9.943,Overcast.,59.0,30.27,82
+"Monday, August 30, 2021, 6:00 am — 12:00 pm",1630303200000.0,12.428,More clouds than sun.,60.8,30.29,82
+"Monday, August 30, 2021, 12:00 pm — 6:00 pm",1630324800000.0,11.185,More clouds than sun.,62.6,30.3,77
+"Monday, August 30, 2021, 6:00 pm — 12:00 am",1630346400000.0,9.943,Overcast.,62.6,30.32,70
+"Tuesday, August 31, 2021, 12:00 am — 6:00 am",1630368000000.0,9.321,Passing clouds.,57.2,30.35,86
+"Tuesday, August 31, 2021, 6:00 am — 12:00 pm",1630389600000.0,10.564,More clouds than sun.,60.8,30.39,84
+"Tuesday, August 31, 2021, 12:00 pm — 6:00 pm",1630411200000.0,11.807,Partly sunny.,66.2,30.41,68
+"Tuesday, August 31, 2021, 6:00 pm — 12:00 am",1630432800000.0,10.564,Overcast.,62.6,30.43,76
+"Wednesday, September 1, 2021, 12:00 am — 6:00 am",1630454400000.0,7.457,Overcast.,59.0,30.45,82
+"Wednesday, September 1, 2021, 6:00 am — 12:00 pm",1630476000000.0,10.564,Broken clouds.,62.6,30.45,77
+"Wednesday, September 1, 2021, 12:00 pm — 6:00 pm",1630497600000.0,11.185,More clouds than sun.,64.4,30.43,68
+"Wednesday, September 1, 2021, 6:00 pm — 12:00 am",1630519200000.0,12.428,Overcast.,64.4,30.41,72
+"Thursday, September 2, 2021, 12:00 am — 6:00 am",1630540800000.0,8.7,Overcast.,59.0,30.39,80
+"Thursday, September 2, 2021, 6:00 am — 12:00 pm",1630562400000.0,11.807,Partly sunny.,64.4,30.38,77
+"Thursday, September 2, 2021, 12:00 pm — 6:00 pm",1630584000000.0,14.914,Scattered clouds.,68.0,30.32,59
+"Thursday, September 2, 2021, 6:00 pm — 12:00 am",1630605600000.0,10.564,Passing clouds.,66.2,30.27,65
+"Friday, September 3, 2021, 12:00 am — 6:00 am",1630627200000.0,6.836,Passing clouds.,60.8,30.22,79
+"Friday, September 3, 2021, 6:00 am — 12:00 pm",1630648800000.0,8.7,Partly sunny.,66.2,30.18,72
+"Friday, September 3, 2021, 12:00 pm — 6:00 pm",1630670400000.0,8.078,Broken clouds.,69.8,30.13,62
+"Friday, September 3, 2021, 6:00 pm — 12:00 am",1630692000000.0,8.7,Passing clouds.,69.8,30.11,74
+"Saturday, September 4, 2021, 12:00 am — 6:00 am",1630713600000.0,7.457,Passing clouds.,59.0,30.09,80
+"Saturday, September 4, 2021, 6:00 am — 12:00 pm",1630735200000.0,9.321,Broken clouds.,66.2,30.09,78
+"Saturday, September 4, 2021, 12:00 pm — 6:00 pm",1630756800000.0,9.943,Partly sunny.,66.2,30.07,75
+"Saturday, September 4, 2021, 6:00 pm — 12:00 am",1630778400000.0,8.7,Clear.,66.2,30.08,76
+"Sunday, September 5, 2021, 12:00 am — 6:00 am",1630800000000.0,4.35,Passing clouds.,57.2,30.09,91
+"Sunday, September 5, 2021, 6:00 am — 12:00 pm",1630821600000.0,4.971,Partly sunny.,71.6,30.13,86
+"Sunday, September 5, 2021, 12:00 pm — 6:00 pm",1630843200000.0,5.593,Passing clouds.,78.8,30.12,56
+"Sunday, September 5, 2021, 6:00 pm — 12:00 am",1630864800000.0,6.214,Clear.,77.0,30.16,68
+"Monday, September 6, 2021, 12:00 am — 6:00 am",1630886400000.0,1.864,Fog.,60.8,30.19,92
+"Monday, September 6, 2021, 6:00 am — 12:00 pm",1630908000000.0,1.864,Partly sunny.,75.2,30.22,80
+"Monday, September 6, 2021, 12:00 pm — 6:00 pm",1630929600000.0,3.107,Sunny.,82.4,30.2,48
+"Monday, September 6, 2021, 6:00 pm — 12:00 am",1630951200000.0,1.243,Clear.,80.6,30.2,67
+"Tuesday, September 7, 2021, 12:00 am — 6:00 am",1630972800000.0,1.243,Fog.,60.8,30.19,94
+"Tuesday, September 7, 2021, 6:00 am — 12:00 pm",1630994400000.0,3.107,Sunny.,82.4,30.18,73
+"Tuesday, September 7, 2021, 12:00 pm — 6:00 pm",1631016000000.0,9.321,Sunny.,86.0,30.11,41
+"Tuesday, September 7, 2021, 6:00 pm — 12:00 am",1631037600000.0,8.7,Clear.,82.4,30.07,47
+"Wednesday, September 8, 2021, 12:00 am — 6:00 am",1631059200000.0,4.971,Haze.,64.4,30.01,81
+"Wednesday, September 8, 2021, 6:00 am — 12:00 pm",1631080800000.0,9.321,Haze.,82.4,29.94,65
+"Wednesday, September 8, 2021, 12:00 pm — 6:00 pm",1631102400000.0,12.428,Sunny.,86.0,29.84,36
+"Wednesday, September 8, 2021, 6:00 pm — 12:00 am",1631124000000.0,5.593,Sunny.,78.8,29.8,67
+"Thursday, September 9, 2021, 12:00 am — 6:00 am",1631145600000.0,3.728,Fog.,64.4,29.78,95
+"Thursday, September 9, 2021, 6:00 am — 12:00 pm",1631167200000.0,5.593,Low clouds.,68.0,29.78,89
+"Thursday, September 9, 2021, 12:00 pm — 6:00 pm",1631188800000.0,10.564,Broken clouds.,71.6,29.75,79
+"Thursday, September 9, 2021, 6:00 pm — 12:00 am",1631210400000.0,8.7,Passing clouds.,68.0,29.76,80
+"Friday, September 10, 2021, 12:00 am — 6:00 am",1631232000000.0,4.971,Passing clouds.,62.6,29.79,92
+"Friday, September 10, 2021, 6:00 am — 12:00 pm",1631253600000.0,6.836,Partly sunny.,66.2,29.81,90
+"Friday, September 10, 2021, 12:00 pm — 6:00 pm",1631275200000.0,9.943,Partly sunny.,71.6,29.84,78
+"Friday, September 10, 2021, 6:00 pm — 12:00 am",1631296800000.0,8.078,Partly sunny.,66.2,29.9,89
+"Saturday, September 11, 2021, 12:00 am — 6:00 am",1631318400000.0,6.836,Partly cloudy.,64.4,29.95,89
+"Saturday, September 11, 2021, 6:00 am — 12:00 pm",1631340000000.0,9.321,Partly sunny.,69.8,30.01,82
+"Saturday, September 11, 2021, 12:00 pm — 6:00 pm",1631361600000.0,11.185,Partly sunny.,73.4,30.01,55
+"Saturday, September 11, 2021, 6:00 pm — 12:00 am",1631383200000.0,8.078,Clear.,68.0,30.04,66
+"Sunday, September 12, 2021, 12:00 am — 6:00 am",1631404800000.0,3.728,Passing clouds.,55.4,30.07,89
+"Sunday, September 12, 2021, 6:00 am — 12:00 pm",1631426400000.0,2.486,Partly sunny.,68.0,30.09,80
+"Sunday, September 12, 2021, 12:00 pm — 6:00 pm",1631448000000.0,5.593,Partly sunny.,69.8,30.08,57
+"Sunday, September 12, 2021, 6:00 pm — 12:00 am",1631469600000.0,5.593,Clear.,68.0,30.08,69
+"Monday, September 13, 2021, 12:00 am — 6:00 am",1631491200000.0,7.457,Partly cloudy.,60.8,30.08,86
+"Monday, September 13, 2021, 6:00 am — 12:00 pm",1631512800000.0,8.078,Broken clouds.,66.2,30.08,80
+"Monday, September 13, 2021, 12:00 pm — 6:00 pm",1631534400000.0,12.428,Partly sunny.,69.8,30.03,54
+"Monday, September 13, 2021, 6:00 pm — 12:00 am",1631556000000.0,9.321,Passing clouds.,66.2,29.99,72
+"Tuesday, September 14, 2021, 12:00 am — 6:00 am",1631577600000.0,6.836,Passing clouds.,60.8,29.91,86
+"Tuesday, September 14, 2021, 6:00 am — 12:00 pm",1631599200000.0,7.457,Rain. Partly sunny.,62.6,29.86,95
+"Tuesday, September 14, 2021, 12:00 pm — 6:00 pm",1631620800000.0,3.107,Partly sunny.,68.0,29.84,85
+"Tuesday, September 14, 2021, 6:00 pm — 12:00 am",1631642400000.0,4.35,Haze.,66.2,29.86,88
+"Wednesday, September 15, 2021, 12:00 am — 6:00 am",1631664000000.0,5.593,Passing clouds.,60.8,29.88,93
+"Wednesday, September 15, 2021, 6:00 am — 12:00 pm",1631685600000.0,4.971,Partly sunny.,64.4,29.94,86
+"Wednesday, September 15, 2021, 12:00 pm — 6:00 pm",1631707200000.0,7.457,Passing clouds.,69.8,29.96,61
+"Wednesday, September 15, 2021, 6:00 pm — 12:00 am",1631728800000.0,3.728,Passing clouds.,68.0,30.0,78
+"Thursday, September 16, 2021, 12:00 am — 6:00 am",1631750400000.0,0.621,Passing clouds.,51.8,30.04,95
+"Thursday, September 16, 2021, 6:00 am — 12:00 pm",1631772000000.0,4.35,Fog.,68.0,30.07,88
+"Thursday, September 16, 2021, 12:00 pm — 6:00 pm",1631793600000.0,7.457,Scattered clouds.,73.4,30.03,58
+"Thursday, September 16, 2021, 6:00 pm — 12:00 am",1631815200000.0,4.971,Clear.,69.8,30.03,78
+"Friday, September 17, 2021, 12:00 am — 6:00 am",1631836800000.0,3.728,Fog.,57.2,30.0,96
+"Friday, September 17, 2021, 6:00 am — 12:00 pm",1631858400000.0,6.214,Partly sunny.,68.0,29.98,80
+"Friday, September 17, 2021, 12:00 pm — 6:00 pm",1631880000000.0,7.457,Partly sunny.,71.6,29.92,57
+"Friday, September 17, 2021, 6:00 pm — 12:00 am",1631901600000.0,3.728,Clear.,68.0,29.92,75
+"Saturday, September 18, 2021, 12:00 am — 6:00 am",1631923200000.0,1.243,Fog.,55.4,29.95,94
+"Saturday, September 18, 2021, 6:00 am — 12:00 pm",1631944800000.0,4.35,Broken clouds.,73.4,29.95,82
+"Saturday, September 18, 2021, 12:00 pm — 6:00 pm",1631966400000.0,9.321,Partly sunny.,77.0,29.93,50
+"Saturday, September 18, 2021, 6:00 pm — 12:00 am",1631988000000.0,4.971,Clear.,69.8,29.92,63
+"Sunday, September 19, 2021, 12:00 am — 6:00 am",1632009600000.0,2.486,Fog.,59.0,29.9,90
+"Sunday, September 19, 2021, 6:00 am — 12:00 pm",1632031200000.0,6.214,Partly sunny.,64.4,29.93,87
+"Sunday, September 19, 2021, 12:00 pm — 6:00 pm",1632052800000.0,5.593,Partly sunny.,64.4,29.97,85
+"Sunday, September 19, 2021, 6:00 pm — 12:00 am",1632074400000.0,4.35,Clear.,62.6,30.02,85
+"Monday, September 20, 2021, 12:00 am — 6:00 am",1632096000000.0,5.593,Passing clouds.,55.4,30.09,88
+"Monday, September 20, 2021, 6:00 am — 12:00 pm",1632117600000.0,9.321,Partly sunny.,62.6,30.17,82
+"Monday, September 20, 2021, 12:00 pm — 6:00 pm",1632139200000.0,10.564,Broken clouds.,66.2,30.23,67
+"Monday, September 20, 2021, 6:00 pm — 12:00 am",1632160800000.0,4.35,Clear.,66.2,30.31,78
+"Tuesday, September 21, 2021, 12:00 am — 6:00 am",1632182400000.0,1.864,Fog.,55.4,30.38,93
+"Tuesday, September 21, 2021, 6:00 am — 12:00 pm",1632204000000.0,2.486,Scattered clouds.,66.2,30.44,82
+"Tuesday, September 21, 2021, 12:00 pm — 6:00 pm",1632225600000.0,4.35,Scattered clouds.,71.6,30.41,53
+"Tuesday, September 21, 2021, 6:00 pm — 12:00 am",1632247200000.0,3.107,Clear.,68.0,30.42,77
+"Wednesday, September 22, 2021, 12:00 am — 6:00 am",1632268800000.0,0.621,Cool.,51.8,30.4,96
+"Wednesday, September 22, 2021, 6:00 am — 12:00 pm",1632290400000.0,3.107,Fog.,68.0,30.38,85
+"Wednesday, September 22, 2021, 12:00 pm — 6:00 pm",1632312000000.0,11.185,Passing clouds.,71.6,30.3,55
+"Wednesday, September 22, 2021, 6:00 pm — 12:00 am",1632333600000.0,6.214,Clear.,68.0,30.24,74
+"Thursday, September 23, 2021, 12:00 am — 6:00 am",1632355200000.0,5.593,Cool.,55.4,30.18,89
+"Thursday, September 23, 2021, 6:00 am — 12:00 pm",1632376800000.0,9.321,Broken clouds.,68.0,30.12,82
+"Thursday, September 23, 2021, 12:00 pm — 6:00 pm",1632398400000.0,11.807,Broken clouds.,69.8,30.08,71
+"Thursday, September 23, 2021, 6:00 pm — 12:00 am",1632420000000.0,6.214,Passing clouds.,66.2,30.07,85
+"Friday, September 24, 2021, 12:00 am — 6:00 am",1632441600000.0,5.593,Fog.,57.2,30.05,96
+"Friday, September 24, 2021, 6:00 am — 12:00 pm",1632463200000.0,8.7,Passing clouds.,64.4,30.01,81
+"Friday, September 24, 2021, 12:00 pm — 6:00 pm",1632484800000.0,9.321,Scattered clouds.,77.0,29.97,58
+"Friday, September 24, 2021, 6:00 pm — 12:00 am",1632506400000.0,7.457,Passing clouds.,71.6,29.97,78
+"Saturday, September 25, 2021, 12:00 am — 6:00 am",1632528000000.0,4.35,Low clouds.,62.6,29.97,91
+"Saturday, September 25, 2021, 6:00 am — 12:00 pm",1632549600000.0,4.35,Low clouds.,64.4,29.97,88
+"Saturday, September 25, 2021, 12:00 pm — 6:00 pm",1632571200000.0,2.486,Partly sunny.,64.4,29.94,83
+"Saturday, September 25, 2021, 6:00 pm — 12:00 am",1632592800000.0,1.864,Passing clouds.,62.6,29.9,92
+"Sunday, September 26, 2021, 12:00 am — 6:00 am",1632614400000.0,1.243,Fog.,55.4,29.87,96
+"Sunday, September 26, 2021, 6:00 am — 12:00 pm",1632636000000.0,5.593,Fog.,68.0,29.87,91
+"Sunday, September 26, 2021, 12:00 pm — 6:00 pm",1632657600000.0,11.185,Broken clouds.,73.4,29.86,65
+"Sunday, September 26, 2021, 6:00 pm — 12:00 am",1632679200000.0,8.078,Passing clouds.,64.4,29.87,80
+"Monday, September 27, 2021, 12:00 am — 6:00 am",1632700800000.0,11.185,Passing clouds.,62.6,29.76,88
+"Monday, September 27, 2021, 6:00 am — 12:00 pm",1632722400000.0,18.642,Partly sunny.,62.6,29.67,84
+"Monday, September 27, 2021, 12:00 pm — 6:00 pm",1632744000000.0,16.157,Passing clouds.,66.2,29.88,54
+"Monday, September 27, 2021, 6:00 pm — 12:00 am",1632765600000.0,8.078,Clear.,60.8,30.03,70
+"Tuesday, September 28, 2021, 12:00 am — 6:00 am",1632787200000.0,5.593,Passing clouds.,51.8,30.08,88
+"Tuesday, September 28, 2021, 6:00 am — 12:00 pm",1632808800000.0,8.078,Broken clouds.,62.6,30.06,80
+"Tuesday, September 28, 2021, 12:00 pm — 6:00 pm",1632830400000.0,16.778,Partly sunny.,64.4,29.95,76
+"Tuesday, September 28, 2021, 6:00 pm — 12:00 am",1632852000000.0,10.564,Rain. Passing clouds.,59.0,29.85,88
+"Wednesday, September 29, 2021, 12:00 am — 6:00 am",1632873600000.0,8.7,Passing clouds.,51.8,29.9,94
+"Wednesday, September 29, 2021, 6:00 am — 12:00 pm",1632895200000.0,11.807,Scattered clouds.,55.4,30.06,80
+"Wednesday, September 29, 2021, 12:00 pm — 6:00 pm",1632916800000.0,14.914,Passing clouds.,59.0,30.17,53
+"Wednesday, September 29, 2021, 6:00 pm — 12:00 am",1632938400000.0,4.971,Clear.,55.4,30.28,70
+"Thursday, September 30, 2021, 12:00 am — 6:00 am",1632960000000.0,2.486,Passing clouds.,46.4,30.28,87
+"Thursday, September 30, 2021, 6:00 am — 12:00 pm",1632981600000.0,8.7,Light rain. Partly sunny.,59.0,30.17,81
+"Thursday, September 30, 2021, 12:00 pm — 6:00 pm",1633003200000.0,16.157,Partly sunny.,60.8,30.06,78
+"Thursday, September 30, 2021, 6:00 pm — 12:00 am",1633024800000.0,13.671,Fog.,59.0,29.97,91
+"Friday, October 1, 2021, 12:00 am — 6:00 am",1633046400000.0,11.807,Passing clouds.,60.8,29.82,95
+"Friday, October 1, 2021, 6:00 am — 12:00 pm",1633068000000.0,11.185,Partly sunny.,60.8,29.78,89
+"Friday, October 1, 2021, 12:00 pm — 6:00 pm",1633089600000.0,14.293,Passing clouds.,64.4,29.8,57
+"Friday, October 1, 2021, 6:00 pm — 12:00 am",1633111200000.0,4.971,Clear.,57.2,29.87,71
+"Saturday, October 2, 2021, 12:00 am — 6:00 am",1633132800000.0,2.486,Passing clouds.,46.4,29.81,93
+"Saturday, October 2, 2021, 6:00 am — 12:00 pm",1633154400000.0,7.457,Light rain. Overcast.,55.4,29.62,85
+"Saturday, October 2, 2021, 12:00 pm — 6:00 pm",1633176000000.0,11.807,Drizzle. Broken clouds.,59.0,29.27,95
+"Saturday, October 2, 2021, 6:00 pm — 12:00 am",1633197600000.0,9.321,Partly cloudy.,59.0,29.12,93
+"Sunday, October 3, 2021, 12:00 am — 6:00 am",1633219200000.0,6.214,Overcast.,53.6,29.29,90
+"Sunday, October 3, 2021, 6:00 am — 12:00 pm",1633240800000.0,6.214,Sunny.,59.0,29.38,86
+"Sunday, October 3, 2021, 12:00 pm — 6:00 pm",1633262400000.0,16.778,Scattered clouds.,62.6,29.49,65
+"Sunday, October 3, 2021, 6:00 pm — 12:00 am",1633284000000.0,9.321,Passing clouds.,57.2,29.65,81
+"Monday, October 4, 2021, 12:00 am — 6:00 am",1633305600000.0,5.593,Passing clouds.,51.8,29.75,92
+"Monday, October 4, 2021, 6:00 am — 12:00 pm",1633327200000.0,9.943,Passing clouds.,59.0,29.78,84
+"Monday, October 4, 2021, 12:00 pm — 6:00 pm",1633348800000.0,12.428,Partly sunny.,60.8,29.78,72
+"Monday, October 4, 2021, 6:00 pm — 12:00 am",1633370400000.0,8.078,Clear.,55.4,29.72,90
+"Tuesday, October 5, 2021, 12:00 am — 6:00 am",1633392000000.0,11.807,Rain. Passing clouds.,57.2,29.5,92
+"Tuesday, October 5, 2021, 6:00 am — 12:00 pm",1633413600000.0,13.05,Scattered clouds.,55.4,29.5,86
+"Tuesday, October 5, 2021, 12:00 pm — 6:00 pm",1633435200000.0,16.778,Scattered clouds.,59.0,29.6,69
+"Tuesday, October 5, 2021, 6:00 pm — 12:00 am",1633456800000.0,15.535,Passing clouds.,57.2,29.75,73
+"Wednesday, October 6, 2021, 12:00 am — 6:00 am",1633478400000.0,14.293,Cool.,51.8,29.9,75
+"Wednesday, October 6, 2021, 6:00 am — 12:00 pm",1633500000000.0,15.535,Passing clouds.,59.0,30.05,71
+"Wednesday, October 6, 2021, 12:00 pm — 6:00 pm",1633521600000.0,11.807,Sunny.,62.6,30.14,54
+"Wednesday, October 6, 2021, 6:00 pm — 12:00 am",1633543200000.0,3.107,Clear.,59.0,30.22,75
+"Thursday, October 7, 2021, 12:00 am — 6:00 am",1633564800000.0,3.107,Passing clouds.,55.4,30.25,87
+"Thursday, October 7, 2021, 6:00 am — 12:00 pm",1633586400000.0,4.971,Low clouds.,62.6,30.28,92
+"Thursday, October 7, 2021, 12:00 pm — 6:00 pm",1633608000000.0,6.214,Partly sunny.,62.6,30.3,88
+"Thursday, October 7, 2021, 6:00 pm — 12:00 am",1633629600000.0,4.35,Fog.,62.6,30.33,97
+"Friday, October 8, 2021, 12:00 am — 6:00 am",1633651200000.0,3.728,Fog.,59.0,30.38,97
+"Friday, October 8, 2021, 6:00 am — 12:00 pm",1633672800000.0,3.107,More clouds than sun.,60.8,30.41,93
+"Friday, October 8, 2021, 12:00 pm — 6:00 pm",1633694400000.0,2.486,Overcast.,62.6,30.4,85
+"Friday, October 8, 2021, 6:00 pm — 12:00 am",1633716000000.0,4.971,Fog.,62.6,30.39,84
+"Saturday, October 9, 2021, 12:00 am — 6:00 am",1633737600000.0,1.864,Fog.,50.0,30.37,95
+"Saturday, October 9, 2021, 6:00 am — 12:00 pm",1633759200000.0,2.486,Fog.,59.0,30.38,96
+"Saturday, October 9, 2021, 12:00 pm — 6:00 pm",1633780800000.0,3.728,Passing clouds.,68.0,30.35,64
+"Saturday, October 9, 2021, 6:00 pm — 12:00 am",1633802400000.0,2.486,Fog.,59.0,30.38,89
+"Sunday, October 10, 2021, 12:00 am — 6:00 am",1633824000000.0,2.486,Fog.,48.2,30.38,96
+"Sunday, October 10, 2021, 6:00 am — 12:00 pm",1633845600000.0,3.728,Fog.,60.8,30.38,93
+"Sunday, October 10, 2021, 12:00 pm — 6:00 pm",1633867200000.0,8.078,Scattered clouds.,64.4,30.39,70
+"Sunday, October 10, 2021, 6:00 pm — 12:00 am",1633888800000.0,6.214,Passing clouds.,57.2,30.41,80
+"Monday, October 11, 2021, 12:00 am — 6:00 am",1633910400000.0,4.35,Quite cool.,46.4,30.42,92
+"Monday, October 11, 2021, 6:00 am — 12:00 pm",1633932000000.0,4.971,Sunny.,53.6,30.44,87
+"Monday, October 11, 2021, 12:00 pm — 6:00 pm",1633953600000.0,7.457,Partly sunny.,60.8,30.42,65
+"Monday, October 11, 2021, 6:00 pm — 12:00 am",1633975200000.0,4.35,Passing clouds.,55.4,30.39,87
+"Tuesday, October 12, 2021, 12:00 am — 6:00 am",1633996800000.0,3.107,Passing clouds.,44.6,30.33,98
+"Tuesday, October 12, 2021, 6:00 am — 12:00 pm",1634018400000.0,7.457,Sunny.,57.2,30.27,89
+"Tuesday, October 12, 2021, 12:00 pm — 6:00 pm",1634040000000.0,9.943,Broken clouds.,60.8,30.24,74
+"Tuesday, October 12, 2021, 6:00 pm — 12:00 am",1634061600000.0,3.728,Passing clouds.,55.4,30.28,89
+"Wednesday, October 13, 2021, 12:00 am — 6:00 am",1634083200000.0,3.728,Passing clouds.,51.8,30.33,92
+"Wednesday, October 13, 2021, 6:00 am — 12:00 pm",1634104800000.0,3.728,Partly sunny.,57.2,30.36,84
+"Wednesday, October 13, 2021, 12:00 pm — 6:00 pm",1634126400000.0,4.35,Partly sunny.,60.8,30.34,76
+"Wednesday, October 13, 2021, 6:00 pm — 12:00 am",1634148000000.0,1.243,Passing clouds.,59.0,30.33,92
+"Thursday, October 14, 2021, 12:00 am — 6:00 am",1634169600000.0,0.621,Overcast.,51.8,30.31,96
+"Thursday, October 14, 2021, 6:00 am — 12:00 pm",1634191200000.0,6.836,Fog.,60.8,30.26,89
+"Thursday, October 14, 2021, 12:00 pm — 6:00 pm",1634212800000.0,13.671,Partly sunny.,64.4,30.18,62
+"Thursday, October 14, 2021, 6:00 pm — 12:00 am",1634234400000.0,7.457,Passing clouds.,59.0,30.11,78
+"Friday, October 15, 2021, 12:00 am — 6:00 am",1634256000000.0,9.321,Passing clouds.,55.4,30.05,88
+"Friday, October 15, 2021, 6:00 am — 12:00 pm",1634277600000.0,8.078,Partly sunny.,55.4,30.1,85
+"Friday, October 15, 2021, 12:00 pm — 6:00 pm",1634299200000.0,5.593,Partly sunny.,59.0,30.15,63
+"Friday, October 15, 2021, 6:00 pm — 12:00 am",1634320800000.0,3.107,Passing clouds.,55.4,30.18,72
+"Saturday, October 16, 2021, 12:00 am — 6:00 am",1634342400000.0,1.243,Passing clouds.,46.4,30.17,92
+"Saturday, October 16, 2021, 6:00 am — 12:00 pm",1634364000000.0,2.486,Light rain. Mostly cloudy.,55.4,30.14,92
+"Saturday, October 16, 2021, 12:00 pm — 6:00 pm",1634385600000.0,3.728,Scattered clouds.,62.6,30.09,78
+"Saturday, October 16, 2021, 6:00 pm — 12:00 am",1634407200000.0,3.728,Fog.,59.0,30.07,91
+"Sunday, October 17, 2021, 12:00 am — 6:00 am",1634428800000.0,0.621,Fog.,50.0,30.04,95
+"Sunday, October 17, 2021, 6:00 am — 12:00 pm",1634450400000.0,4.971,Fog.,59.0,30.03,93
+"Sunday, October 17, 2021, 12:00 pm — 6:00 pm",1634472000000.0,8.7,Partly sunny.,62.6,30.02,73
+"Sunday, October 17, 2021, 6:00 pm — 12:00 am",1634493600000.0,4.971,Clear.,57.2,30.05,87
+"Monday, October 18, 2021, 12:00 am — 6:00 am",1634515200000.0,0.621,Passing clouds.,46.4,30.05,95
+"Monday, October 18, 2021, 6:00 am — 12:00 pm",1634536800000.0,6.214,Fog.,60.8,30.03,94
+"Monday, October 18, 2021, 12:00 pm — 6:00 pm",1634558400000.0,9.943,Drizzle. Low clouds.,62.6,29.97,86
+"Monday, October 18, 2021, 6:00 pm — 12:00 am",1634580000000.0,8.7,Light rain. Low clouds.,60.8,29.95,95
+"Tuesday, October 19, 2021, 12:00 am — 6:00 am",1634601600000.0,7.457,Fog.,62.6,29.93,96
+"Tuesday, October 19, 2021, 6:00 am — 12:00 pm",1634623200000.0,16.778,Broken clouds.,66.2,29.91,83
+"Tuesday, October 19, 2021, 12:00 pm — 6:00 pm",1634644800000.0,18.021,Mostly cloudy.,68.0,29.85,75
+"Tuesday, October 19, 2021, 6:00 pm — 12:00 am",1634666400000.0,13.05,Light rain. Passing clouds.,64.4,29.79,91
+"Wednesday, October 20, 2021, 12:00 am — 6:00 am",1634688000000.0,10.564,Light rain. Passing clouds.,60.8,29.63,94
+"Wednesday, October 20, 2021, 6:00 am — 12:00 pm",1634709600000.0,13.05,Scattered clouds.,64.4,29.54,86
+"Wednesday, October 20, 2021, 12:00 pm — 6:00 pm",1634731200000.0,17.4,Passing clouds.,66.2,29.46,64
+"Wednesday, October 20, 2021, 6:00 pm — 12:00 am",1634752800000.0,8.078,Passing clouds.,57.2,29.27,85
+"Thursday, October 21, 2021, 12:00 am — 6:00 am",1634774400000.0,14.293,Passing clouds.,48.2,29.43,86
+"Thursday, October 21, 2021, 6:00 am — 12:00 pm",1634796000000.0,17.4,Broken clouds.,50.0,29.7,69
+"Thursday, October 21, 2021, 12:00 pm — 6:00 pm",1634817600000.0,11.185,Passing clouds.,53.6,29.92,56
+"Thursday, October 21, 2021, 6:00 pm — 12:00 am",1634839200000.0,4.971,Passing clouds.,46.4,30.03,78
+"Friday, October 22, 2021, 12:00 am — 6:00 am",1634860800000.0,7.457,Haze.,41.0,30.07,88
+"Friday, October 22, 2021, 6:00 am — 12:00 pm",1634882400000.0,11.807,Sunny.,51.8,30.1,80
+"Friday, October 22, 2021, 12:00 pm — 6:00 pm",1634904000000.0,11.185,Partly sunny.,57.2,30.16,66
+"Friday, October 22, 2021, 6:00 pm — 12:00 am",1634925600000.0,6.836,Clear.,53.6,30.23,80
+"Saturday, October 23, 2021, 12:00 am — 6:00 am",1634947200000.0,2.486,Overcast.,50.0,30.27,89
+"Saturday, October 23, 2021, 6:00 am — 12:00 pm",1634968800000.0,3.107,Partly sunny.,55.4,30.28,81
+"Saturday, October 23, 2021, 12:00 pm — 6:00 pm",1634990400000.0,9.321,Partly sunny.,57.2,30.24,65
+"Saturday, October 23, 2021, 6:00 pm — 12:00 am",1635012000000.0,6.214,Passing clouds.,55.4,30.2,74
+"Sunday, October 24, 2021, 12:00 am — 6:00 am",1635033600000.0,6.214,Overcast.,53.6,30.13,71
+"Sunday, October 24, 2021, 6:00 am — 12:00 pm",1635055200000.0,8.7,Partly sunny.,59.0,30.07,69
+"Sunday, October 24, 2021, 12:00 pm — 6:00 pm",1635076800000.0,10.564,Scattered clouds.,60.8,30.0,67
+"Sunday, October 24, 2021, 6:00 pm — 12:00 am",1635098400000.0,7.457,Passing clouds.,57.2,29.98,92
+"Monday, October 25, 2021, 12:00 am — 6:00 am",1635120000000.0,3.107,Passing clouds.,53.6,29.97,95
+"Monday, October 25, 2021, 6:00 am — 12:00 pm",1635141600000.0,6.214,Scattered clouds.,59.0,29.95,92
+"Monday, October 25, 2021, 12:00 pm — 6:00 pm",1635163200000.0,11.185,Scattered clouds.,62.6,29.95,67
+"Monday, October 25, 2021, 6:00 pm — 12:00 am",1635184800000.0,4.35,Clear.,53.6,30.01,87
+"Tuesday, October 26, 2021, 12:00 am — 6:00 am",1635206400000.0,1.864,Passing clouds.,50.0,30.03,97
+"Tuesday, October 26, 2021, 6:00 am — 12:00 pm",1635228000000.0,7.457,Broken clouds.,59.0,30.06,90
+"Tuesday, October 26, 2021, 12:00 pm — 6:00 pm",1635249600000.0,11.185,Broken clouds.,62.6,30.06,79
+"Tuesday, October 26, 2021, 6:00 pm — 12:00 am",1635271200000.0,11.185,Mostly cloudy.,60.8,30.08,85
+"Wednesday, October 27, 2021, 12:00 am — 6:00 am",1635292800000.0,10.564,Passing clouds.,59.0,30.08,84
+"Wednesday, October 27, 2021, 6:00 am — 12:00 pm",1635314400000.0,14.293,Broken clouds.,60.8,30.08,79
+"Wednesday, October 27, 2021, 12:00 pm — 6:00 pm",1635336000000.0,17.4,Broken clouds.,62.6,30.05,69
+"Wednesday, October 27, 2021, 6:00 pm — 12:00 am",1635357600000.0,11.185,Passing clouds.,59.0,30.01,76
+"Thursday, October 28, 2021, 12:00 am — 6:00 am",1635379200000.0,12.428,Overcast.,57.2,29.91,83
+"Thursday, October 28, 2021, 6:00 am — 12:00 pm",1635400800000.0,9.943,Broken clouds.,59.0,29.83,79
+"Thursday, October 28, 2021, 12:00 pm — 6:00 pm",1635422400000.0,11.807,Broken clouds.,60.8,29.73,77
+"Thursday, October 28, 2021, 6:00 pm — 12:00 am",1635444000000.0,9.943,Passing clouds.,57.2,29.63,83
+"Friday, October 29, 2021, 12:00 am — 6:00 am",1635465600000.0,12.428,Passing clouds.,59.0,29.5,79
+"Friday, October 29, 2021, 6:00 am — 12:00 pm",1635487200000.0,16.778,Drizzle. Partly sunny.,59.0,29.4,87
+"Friday, October 29, 2021, 12:00 pm — 6:00 pm",1635508800000.0,14.293,Partly sunny.,59.0,29.44,76
+"Friday, October 29, 2021, 6:00 pm — 12:00 am",1635530400000.0,6.836,Passing clouds.,53.6,29.53,83
+"Saturday, October 30, 2021, 12:00 am — 6:00 am",1635552000000.0,8.078,Passing clouds.,51.8,29.42,93
+"Saturday, October 30, 2021, 6:00 am — 12:00 pm",1635573600000.0,11.185,Partly sunny.,55.4,29.33,89
+"Saturday, October 30, 2021, 12:00 pm — 6:00 pm",1635595200000.0,10.564,Scattered clouds.,59.0,29.42,67
+"Saturday, October 30, 2021, 6:00 pm — 12:00 am",1635616800000.0,5.593,Passing clouds.,51.8,29.54,84
+"Sunday, October 31, 2021, 12:00 am — 6:00 am",1635638400000.0,7.457,Passing clouds.,53.6,29.48,89
+"Sunday, October 31, 2021, 6:00 am — 12:00 pm",1635660000000.0,18.642,Light rain. Broken clouds.,59.0,29.21,88
+"Sunday, October 31, 2021, 12:00 pm — 6:00 pm",1635681600000.0,17.4,Passing clouds.,59.0,29.23,71
+"Sunday, October 31, 2021, 6:00 pm — 12:00 am",1635703200000.0,14.293,Clear.,51.8,29.27,74
+"Monday, November 1, 2021, 12:00 am — 6:00 am",1635724800000.0,14.914,Passing clouds.,50.0,29.28,72
+"Monday, November 1, 2021, 6:00 am — 12:00 pm",1635746400000.0,14.293,Scattered clouds.,55.4,29.35,70
+"Monday, November 1, 2021, 12:00 pm — 6:00 pm",1635768000000.0,11.185,Passing clouds.,53.6,29.39,71
+"Monday, November 1, 2021, 6:00 pm — 12:00 am",1635789600000.0,2.486,Clear.,48.2,29.44,87
+"Tuesday, November 2, 2021, 12:00 am — 6:00 am",1635811200000.0,0.621,Passing clouds.,35.6,29.45,99
+"Tuesday, November 2, 2021, 6:00 am — 12:00 pm",1635832800000.0,1.864,Passing clouds.,51.8,29.49,86
+"Tuesday, November 2, 2021, 12:00 pm — 6:00 pm",1635854400000.0,3.728,Passing clouds.,53.6,26.8,70
+"Tuesday, November 2, 2021, 6:00 pm — 12:00 am",1635876000000.0,2.486,Clear.,41.0,29.53,92
+"Wednesday, November 3, 2021, 12:00 am — 6:00 am",1635897600000.0,1.864,Chilly.,33.8,29.55,96
+"Wednesday, November 3, 2021, 6:00 am — 12:00 pm",1635919200000.0,5.593,Scattered clouds.,48.2,29.64,88
+"Wednesday, November 3, 2021, 12:00 pm — 6:00 pm",1635940800000.0,6.836,Partly sunny.,48.2,29.68,87
+"Wednesday, November 3, 2021, 6:00 pm — 12:00 am",1635962400000.0,8.7,Passing clouds.,46.4,29.77,86
+"Thursday, November 4, 2021, 12:00 am — 6:00 am",1635984000000.0,8.7,Passing clouds.,44.6,29.82,84
+"Thursday, November 4, 2021, 6:00 am — 12:00 pm",1636005600000.0,12.428,Partly sunny.,48.2,29.92,82
+"Thursday, November 4, 2021, 12:00 pm — 6:00 pm",1636027200000.0,10.564,Broken clouds.,50.0,30.01,72
+"Thursday, November 4, 2021, 6:00 pm — 12:00 am",1636048800000.0,6.214,Passing clouds.,46.4,30.13,84
+"Friday, November 5, 2021, 12:00 am — 6:00 am",1636070400000.0,2.486,Chilly.,33.8,30.21,94
+"Friday, November 5, 2021, 6:00 am — 12:00 pm",1636092000000.0,3.107,Sunny.,48.2,30.31,82
+"Friday, November 5, 2021, 12:00 pm — 6:00 pm",1636113600000.0,6.836,Broken clouds.,51.8,30.34,74
+"Friday, November 5, 2021, 6:00 pm — 12:00 am",1636135200000.0,4.971,Overcast.,48.2,30.36,87
+"Saturday, November 6, 2021, 12:00 am — 6:00 am",1636156800000.0,6.836,Passing clouds.,50.0,30.35,90
+"Saturday, November 6, 2021, 6:00 am — 12:00 pm",1636178400000.0,12.428,Broken clouds.,53.6,30.3,82
+"Saturday, November 6, 2021, 12:00 pm — 6:00 pm",1636200000000.0,16.157,Partly sunny.,55.4,30.19,74
+"Saturday, November 6, 2021, 6:00 pm — 12:00 am",1636221600000.0,13.671,Passing clouds.,53.6,30.11,82
+"Sunday, November 7, 2021, 12:00 am — 6:00 am",1636243200000.0,11.185,Passing clouds.,53.6,30.1,74
+"Sunday, November 7, 2021, 6:00 am — 12:00 pm",1636264800000.0,13.671,Cool.,53.6,30.13,65
+"Sunday, November 7, 2021, 12:00 pm — 6:00 pm",1636286400000.0,10.564,Cool.,53.6,30.15,61
+"Sunday, November 7, 2021, 6:00 pm — 12:00 am",1636308000000.0,6.214,Chilly.,46.4,30.2,82
+"Monday, November 8, 2021, 12:00 am — 6:00 am",1636329600000.0,1.243,Chilly.,39.2,30.21,93
+"Monday, November 8, 2021, 6:00 am — 12:00 pm",1636351200000.0,2.486,Sunny.,51.8,30.24,88
+"Monday, November 8, 2021, 12:00 pm — 6:00 pm",1636372800000.0,6.836,Partly sunny.,53.6,30.21,77
+"Monday, November 8, 2021, 6:00 pm — 12:00 am",1636394400000.0,4.35,Fog.,53.6,30.21,91
+"Tuesday, November 9, 2021, 12:00 am — 6:00 am",1636416000000.0,7.457,Overcast.,53.6,30.2,91
+"Tuesday, November 9, 2021, 6:00 am — 12:00 pm",1636437600000.0,8.7,Passing clouds.,59.0,30.23,79
+"Tuesday, November 9, 2021, 12:00 pm — 6:00 pm",1636459200000.0,8.7,Broken clouds.,59.0,30.19,69
+"Tuesday, November 9, 2021, 6:00 pm — 12:00 am",1636480800000.0,6.214,Passing clouds.,55.4,30.21,80
+"Wednesday, November 10, 2021, 12:00 am — 6:00 am",1636502400000.0,4.35,Overcast.,53.6,30.18,89
+"Wednesday, November 10, 2021, 6:00 am — 12:00 pm",1636524000000.0,4.35,More clouds than sun.,55.4,30.21,91
+"Wednesday, November 10, 2021, 12:00 pm — 6:00 pm",1636545600000.0,2.486,Drizzle. Broken clouds.,57.2,30.18,92
+"Wednesday, November 10, 2021, 6:00 pm — 12:00 am",1636567200000.0,3.107,Fog.,55.4,30.21,95
+"Thursday, November 11, 2021, 12:00 am — 6:00 am",1636588800000.0,3.728,Passing clouds.,53.6,30.21,95
+"Thursday, November 11, 2021, 6:00 am — 12:00 pm",1636610400000.0,4.971,Partly sunny.,57.2,30.23,91
+"Thursday, November 11, 2021, 12:00 pm — 6:00 pm",1636632000000.0,4.971,Broken clouds.,57.2,30.17,79
+"Thursday, November 11, 2021, 6:00 pm — 12:00 am",1636653600000.0,4.35,Fog.,53.6,30.12,89
+"Friday, November 12, 2021, 12:00 am — 6:00 am",1636675200000.0,5.593,Passing clouds.,51.8,29.98,93
+"Friday, November 12, 2021, 6:00 am — 12:00 pm",1636696800000.0,12.428,Drizzle. Partly sunny.,57.2,29.85,91
+"Friday, November 12, 2021, 12:00 pm — 6:00 pm",1636718400000.0,12.428,Broken clouds.,59.0,29.78,77
+"Friday, November 12, 2021, 6:00 pm — 12:00 am",1636740000000.0,9.943,Passing clouds.,53.6,29.79,92
+"Saturday, November 13, 2021, 12:00 am — 6:00 am",1636761600000.0,8.7,Passing clouds.,51.8,29.86,84
+"Saturday, November 13, 2021, 6:00 am — 12:00 pm",1636783200000.0,11.185,Partly sunny.,55.4,29.98,79
+"Saturday, November 13, 2021, 12:00 pm — 6:00 pm",1636804800000.0,6.836,Partly sunny.,55.4,30.04,75
+"Saturday, November 13, 2021, 6:00 pm — 12:00 am",1636826400000.0,6.214,Overcast.,51.8,30.11,80
+"Sunday, November 14, 2021, 12:00 am — 6:00 am",1636848000000.0,6.214,Passing clouds.,51.8,30.15,85
+"Sunday, November 14, 2021, 6:00 am — 12:00 pm",1636869600000.0,9.321,Drizzle. Partly sunny.,53.6,30.22,90
+"Sunday, November 14, 2021, 12:00 pm — 6:00 pm",1636891200000.0,6.836,Partly sunny.,55.4,30.25,85
+"Sunday, November 14, 2021, 6:00 pm — 12:00 am",1636912800000.0,4.971,Passing clouds.,53.6,30.31,87
+"Monday, November 15, 2021, 12:00 am — 6:00 am",1636934400000.0,3.728,Overcast.,50.0,30.31,94
+"Monday, November 15, 2021, 6:00 am — 12:00 pm",1636956000000.0,3.728,Overcast.,51.8,30.33,85
+"Monday, November 15, 2021, 12:00 pm — 6:00 pm",1636977600000.0,3.728,Partly sunny.,53.6,30.3,78
+"Monday, November 15, 2021, 6:00 pm — 12:00 am",1636999200000.0,2.486,Fog.,44.6,30.31,92
+"Tuesday, November 16, 2021, 12:00 am — 6:00 am",1637020800000.0,2.486,Fog.,39.2,30.27,94
+"Tuesday, November 16, 2021, 6:00 am — 12:00 pm",1637042400000.0,2.486,Scattered clouds.,51.8,30.22,88
+"Tuesday, November 16, 2021, 12:00 pm — 6:00 pm",1637064000000.0,4.35,Broken clouds.,51.8,30.14,78
+"Tuesday, November 16, 2021, 6:00 pm — 12:00 am",1637085600000.0,3.728,Fog.,50.0,30.11,91
+"Wednesday, November 17, 2021, 12:00 am — 6:00 am",1637107200000.0,2.486,Fog.,44.6,30.12,95
+"Wednesday, November 17, 2021, 6:00 am — 12:00 pm",1637128800000.0,4.35,Sunny.,53.6,30.22,89
+"Wednesday, November 17, 2021, 12:00 pm — 6:00 pm",1637150400000.0,7.457,Scattered clouds.,53.6,30.27,70
+"Wednesday, November 17, 2021, 6:00 pm — 12:00 am",1637172000000.0,3.107,Clear.,46.4,30.35,90
+"Thursday, November 18, 2021, 12:00 am — 6:00 am",1637193600000.0,4.35,Clear.,42.8,30.35,91
+"Thursday, November 18, 2021, 6:00 am — 12:00 pm",1637215200000.0,6.214,Sunny.,53.6,30.38,87
+"Thursday, November 18, 2021, 12:00 pm — 6:00 pm",1637236800000.0,9.943,Partly sunny.,57.2,30.36,79
+"Thursday, November 18, 2021, 6:00 pm — 12:00 am",1637258400000.0,7.457,Passing clouds.,55.4,30.4,89
+"Friday, November 19, 2021, 12:00 am — 6:00 am",1637280000000.0,4.35,Overcast.,51.8,30.41,94
+"Friday, November 19, 2021, 6:00 am — 12:00 pm",1637301600000.0,4.971,Partly sunny.,53.6,30.45,82
+"Friday, November 19, 2021, 12:00 pm — 6:00 pm",1637323200000.0,6.836,Partly sunny.,53.6,30.42,84
+"Friday, November 19, 2021, 6:00 pm — 12:00 am",1637344800000.0,2.486,Passing clouds.,51.8,30.41,84
+"Saturday, November 20, 2021, 12:00 am — 6:00 am",1637366400000.0,6.214,Overcast.,51.8,30.35,84
+"Saturday, November 20, 2021, 6:00 am — 12:00 pm",1637388000000.0,4.971,Broken clouds.,51.8,30.27,86
+"Saturday, November 20, 2021, 12:00 pm — 6:00 pm",1637409600000.0,6.836,Overcast.,50.0,30.16,82
+"Saturday, November 20, 2021, 6:00 pm — 12:00 am",1637431200000.0,5.593,Passing clouds.,50.0,30.09,86
+"Sunday, November 21, 2021, 12:00 am — 6:00 am",1637452800000.0,7.457,Passing clouds.,48.2,30.04,86
+"Sunday, November 21, 2021, 6:00 am — 12:00 pm",1637474400000.0,11.807,Passing clouds.,46.4,30.07,78
+"Sunday, November 21, 2021, 12:00 pm — 6:00 pm",1637496000000.0,14.293,Scattered clouds.,46.4,30.11,67
+"Sunday, November 21, 2021, 6:00 pm — 12:00 am",1637517600000.0,11.807,Clear.,42.8,30.21,79
+"Monday, November 22, 2021, 12:00 am — 6:00 am",1637539200000.0,11.807,Chilly.,39.2,30.3,84
+"Monday, November 22, 2021, 6:00 am — 12:00 pm",1637560800000.0,9.321,Passing clouds.,48.2,30.42,78
+"Monday, November 22, 2021, 12:00 pm — 6:00 pm",1637582400000.0,11.185,Passing clouds.,50.0,30.45,69
+"Monday, November 22, 2021, 6:00 pm — 12:00 am",1637604000000.0,6.214,Clear.,42.8,30.5,90
+"Tuesday, November 23, 2021, 12:00 am — 6:00 am",1637625600000.0,3.107,Fog.,35.6,30.49,94
+"Tuesday, November 23, 2021, 6:00 am — 12:00 pm",1637647200000.0,2.486,Fog.,46.4,30.5,90
+"Tuesday, November 23, 2021, 12:00 pm — 6:00 pm",1637668800000.0,3.107,Sunny.,50.0,30.45,73
+"Tuesday, November 23, 2021, 6:00 pm — 12:00 am",1637690400000.0,1.243,Fog.,39.2,30.41,95
+"Wednesday, November 24, 2021, 12:00 am — 6:00 am",1637712000000.0,1.243,Fog.,41.0,30.32,94
+"Wednesday, November 24, 2021, 6:00 am — 12:00 pm",1637733600000.0,3.107,Partly sunny.,44.6,30.21,89
+"Wednesday, November 24, 2021, 12:00 pm — 6:00 pm",1637755200000.0,4.35,Partly sunny.,44.6,30.08,83
+"Wednesday, November 24, 2021, 6:00 pm — 12:00 am",1637776800000.0,1.864,Passing clouds.,42.8,30.0,86
+"Thursday, November 25, 2021, 12:00 am — 6:00 am",1637798400000.0,5.593,Passing clouds.,42.8,29.98,88
+"Thursday, November 25, 2021, 6:00 am — 12:00 pm",1637820000000.0,10.564,Sunny.,44.6,30.04,73
+"Thursday, November 25, 2021, 12:00 pm — 6:00 pm",1637841600000.0,9.943,Passing clouds.,44.6,30.02,69
+"Thursday, November 25, 2021, 6:00 pm — 12:00 am",1637863200000.0,6.214,Clear.,37.4,29.96,78
+"Friday, November 26, 2021, 12:00 am — 6:00 am",1637884800000.0,9.321,Passing clouds.,41.0,29.71,82
+"Friday, November 26, 2021, 6:00 am — 12:00 pm",1637906400000.0,14.293,Light rain. Broken clouds.,46.4,29.39,85
+"Friday, November 26, 2021, 12:00 pm — 6:00 pm",1637928000000.0,14.914,Sprinkles. Partly sunny.,48.2,29.24,75
+"Friday, November 26, 2021, 6:00 pm — 12:00 am",1637949600000.0,15.535,Clear.,41.0,29.16,73
+"Saturday, November 27, 2021, 12:00 am — 6:00 am",1637971200000.0,16.778,Passing clouds.,39.2,29.03,89
+"Saturday, November 27, 2021, 6:00 am — 12:00 pm",1637992800000.0,14.914,Partly sunny.,41.0,29.33,88
+"Saturday, November 27, 2021, 12:00 pm — 6:00 pm",1638014400000.0,21.75,Partly sunny.,41.0,29.48,79
+"Saturday, November 27, 2021, 6:00 pm — 12:00 am",1638036000000.0,19.885,Passing clouds.,39.2,29.61,71
+"Sunday, November 28, 2021, 12:00 am — 6:00 am",1638057600000.0,12.428,Passing clouds.,33.8,29.68,74
+"Sunday, November 28, 2021, 6:00 am — 12:00 pm",1638079200000.0,11.807,Sunny.,37.4,29.72,68
+"Sunday, November 28, 2021, 12:00 pm — 6:00 pm",1638100800000.0,8.7,Sunny.,39.2,29.71,57
+"Sunday, November 28, 2021, 6:00 pm — 12:00 am",1638122400000.0,6.214,Clear.,35.6,29.78,84
+"Monday, November 29, 2021, 12:00 am — 6:00 am",1638144000000.0,4.35,Haze.,30.2,29.87,93
+"Monday, November 29, 2021, 6:00 am — 12:00 pm",1638165600000.0,4.971,Partly sunny.,37.4,29.97,90
+"Monday, November 29, 2021, 12:00 pm — 6:00 pm",1638187200000.0,6.214,Sunny.,37.4,29.99,80
+"Monday, November 29, 2021, 6:00 pm — 12:00 am",1638208800000.0,9.943,Passing clouds.,41.0,29.97,86
+"Tuesday, November 30, 2021, 12:00 am — 6:00 am",1638230400000.0,10.564,Passing clouds.,46.4,29.91,88
+"Tuesday, November 30, 2021, 6:00 am — 12:00 pm",1638252000000.0,12.428,Broken clouds.,51.8,29.89,84
+"Tuesday, November 30, 2021, 12:00 pm — 6:00 pm",1638273600000.0,11.807,Partly sunny.,53.6,29.81,79
+"Tuesday, November 30, 2021, 6:00 pm — 12:00 am",1638295200000.0,16.157,Passing clouds.,53.6,29.62,80
+"Wednesday, December 1, 2021, 12:00 am — 6:00 am",1638316800000.0,16.778,Partly cloudy.,51.8,29.39,82
+"Wednesday, December 1, 2021, 6:00 am — 12:00 pm",1638338400000.0,14.914,Passing clouds.,50.0,29.44,78
+"Wednesday, December 1, 2021, 12:00 pm — 6:00 pm",1638360000000.0,13.05,Passing clouds.,50.0,29.48,74
+"Wednesday, December 1, 2021, 6:00 pm — 12:00 am",1638381600000.0,11.807,Passing clouds.,42.8,29.67,78
+"Thursday, December 2, 2021, 12:00 am — 6:00 am",1638403200000.0,8.7,Overcast.,35.6,29.79,74
+"Thursday, December 2, 2021, 6:00 am — 12:00 pm",1638424800000.0,12.428,Sunny.,39.2,29.84,80
+"Thursday, December 2, 2021, 12:00 pm — 6:00 pm",1638446400000.0,11.185,Passing clouds.,41.0,29.91,70
+"Thursday, December 2, 2021, 6:00 pm — 12:00 am",1638468000000.0,4.35,Clear.,33.8,29.94,79
+"Friday, December 3, 2021, 12:00 am — 6:00 am",1638489600000.0,8.7,Passing clouds.,37.4,29.82,83
+"Friday, December 3, 2021, 6:00 am — 12:00 pm",1638511200000.0,5.593,Drizzle. Partly sunny.,48.2,29.66,94
+"Friday, December 3, 2021, 12:00 pm — 6:00 pm",1638532800000.0,3.728,More clouds than sun.,48.2,29.59,91
+"Friday, December 3, 2021, 6:00 pm — 12:00 am",1638554400000.0,1.243,Fog.,44.6,26.82,97
+"Saturday, December 4, 2021, 12:00 am — 6:00 am",1638576000000.0,3.728,Fog.,42.8,29.43,98
+"Saturday, December 4, 2021, 6:00 am — 12:00 pm",1638597600000.0,12.428,Sunny.,44.6,29.46,85
+"Saturday, December 4, 2021, 12:00 pm — 6:00 pm",1638619200000.0,16.157,Passing clouds.,46.4,29.46,66
+"Saturday, December 4, 2021, 6:00 pm — 12:00 am",1638640800000.0,13.671,Clear.,42.8,29.47,75
+"Sunday, December 5, 2021, 12:00 am — 6:00 am",1638662400000.0,15.535,Light rain. Passing clouds.,41.0,29.51,83
+"Sunday, December 5, 2021, 6:00 am — 12:00 pm",1638684000000.0,18.642,Partly sunny.,42.8,29.65,83
+"Sunday, December 5, 2021, 12:00 pm — 6:00 pm",1638705600000.0,13.05,Drizzle. Broken clouds.,44.6,29.79,87
+"Sunday, December 5, 2021, 6:00 pm — 12:00 am",1638727200000.0,9.943,Passing clouds.,42.8,29.93,88
+"Monday, December 6, 2021, 12:00 am — 6:00 am",1638748800000.0,3.728,Fog.,37.4,29.95,95
+"Monday, December 6, 2021, 6:00 am — 12:00 pm",1638770400000.0,5.593,Partly sunny.,42.8,29.83,92
+"Monday, December 6, 2021, 12:00 pm — 6:00 pm",1638792000000.0,11.185,Passing clouds.,46.4,29.66,86
+"Monday, December 6, 2021, 6:00 pm — 12:00 am",1638813600000.0,9.943,Chilly.,41.0,29.74,81
+"Tuesday, December 7, 2021, 12:00 am — 6:00 am",1638835200000.0,4.971,Passing clouds.,35.6,29.79,88
+"Tuesday, December 7, 2021, 6:00 am — 12:00 pm",1638856800000.0,10.564,More clouds than sun.,44.6,29.57,83
+"Tuesday, December 7, 2021, 12:00 pm — 6:00 pm",1638878400000.0,13.671,Light rain. Mostly cloudy.,46.4,29.19,89
+"Tuesday, December 7, 2021, 6:00 pm — 12:00 am",1638900000000.0,10.564,Partly cloudy.,42.8,29.09,83
+"Wednesday, December 8, 2021, 12:00 am — 6:00 am",1638921600000.0,13.671,Passing clouds.,42.8,29.09,78
+"Wednesday, December 8, 2021, 6:00 am — 12:00 pm",1638943200000.0,17.4,Partly sunny.,46.4,29.2,70
+"Wednesday, December 8, 2021, 12:00 pm — 6:00 pm",1638964800000.0,15.535,Partly sunny.,46.4,29.33,62
+"Wednesday, December 8, 2021, 6:00 pm — 12:00 am",1638986400000.0,16.157,Partly cloudy.,44.6,29.44,70
+"Thursday, December 9, 2021, 12:00 am — 6:00 am",1639008000000.0,11.185,Passing clouds.,42.8,29.5,73
+"Thursday, December 9, 2021, 6:00 am — 12:00 pm",1639029600000.0,8.7,Sunny.,44.6,29.6,78
+"Thursday, December 9, 2021, 12:00 pm — 6:00 pm",1639051200000.0,7.457,Sunny.,48.2,29.52,70
+"Thursday, December 9, 2021, 6:00 pm — 12:00 am",1639072800000.0,8.7,Light rain. Passing clouds.,46.4,29.3,93
+"Friday, December 10, 2021, 12:00 am — 6:00 am",1639094400000.0,17.4,Light rain. Passing clouds.,46.4,29.26,84
+"Friday, December 10, 2021, 6:00 am — 12:00 pm",1639116000000.0,17.4,Passing clouds.,44.6,29.45,74
+"Friday, December 10, 2021, 12:00 pm — 6:00 pm",1639137600000.0,15.535,Scattered clouds.,44.6,29.6,68
+"Friday, December 10, 2021, 6:00 pm — 12:00 am",1639159200000.0,7.457,Clear.,41.0,29.78,80
+"Saturday, December 11, 2021, 12:00 am — 6:00 am",1639180800000.0,3.728,Passing clouds.,35.6,29.92,90
+"Saturday, December 11, 2021, 6:00 am — 12:00 pm",1639202400000.0,3.728,Sunny.,44.6,30.02,84
+"Saturday, December 11, 2021, 12:00 pm — 6:00 pm",1639224000000.0,6.836,Passing clouds.,46.4,30.01,85
+"Saturday, December 11, 2021, 6:00 pm — 12:00 am",1639245600000.0,8.7,Passing clouds.,51.8,29.99,95
+"Sunday, December 12, 2021, 12:00 am — 6:00 am",1639267200000.0,7.457,Fog.,51.8,30.03,97
+"Sunday, December 12, 2021, 6:00 am — 12:00 pm",1639288800000.0,8.7,Partly sunny.,57.2,30.11,91
+"Sunday, December 12, 2021, 12:00 pm — 6:00 pm",1639310400000.0,9.943,Partly sunny.,57.2,30.12,86
+"Sunday, December 12, 2021, 6:00 pm — 12:00 am",1639332000000.0,10.564,Passing clouds.,53.6,30.15,81
+"Monday, December 13, 2021, 12:00 am — 6:00 am",1639353600000.0,8.7,Passing clouds.,51.8,30.15,90
+"Monday, December 13, 2021, 6:00 am — 12:00 pm",1639375200000.0,8.7,Broken clouds.,53.6,30.21,86
+"Monday, December 13, 2021, 12:00 pm — 6:00 pm",1639396800000.0,9.943,Partly cloudy.,51.8,30.21,88
+"Monday, December 13, 2021, 6:00 pm — 12:00 am",1639418400000.0,8.7,Passing clouds.,50.0,30.24,88
+"Tuesday, December 14, 2021, 12:00 am — 6:00 am",1639440000000.0,4.35,Overcast.,50.0,30.26,91
+"Tuesday, December 14, 2021, 6:00 am — 12:00 pm",1639461600000.0,5.593,Partly sunny.,53.6,30.32,89
+"Tuesday, December 14, 2021, 12:00 pm — 6:00 pm",1639483200000.0,8.7,Partly sunny.,55.4,30.31,80
+"Tuesday, December 14, 2021, 6:00 pm — 12:00 am",1639504800000.0,6.214,Passing clouds.,53.6,30.33,90
+"Wednesday, December 15, 2021, 12:00 am — 6:00 am",1639526400000.0,9.321,Overcast.,53.6,30.35,84
+"Wednesday, December 15, 2021, 6:00 am — 12:00 pm",1639548000000.0,8.078,Partly sunny.,55.4,30.41,79
+"Wednesday, December 15, 2021, 12:00 pm — 6:00 pm",1639569600000.0,8.7,Partly sunny.,55.4,30.44,72
+"Wednesday, December 15, 2021, 6:00 pm — 12:00 am",1639591200000.0,4.971,Overcast.,55.4,30.51,73
+"Thursday, December 16, 2021, 12:00 am — 6:00 am",1639612800000.0,3.728,Overcast.,51.8,30.57,80
+"Thursday, December 16, 2021, 6:00 am — 12:00 pm",1639634400000.0,1.864,Overcast.,51.8,30.65,81
+"Thursday, December 16, 2021, 12:00 pm — 6:00 pm",1639656000000.0,3.107,Overcast.,53.6,30.68,73
+"Thursday, December 16, 2021, 6:00 pm — 12:00 am",1639677600000.0,3.107,Overcast.,51.8,30.71,74
+"Friday, December 17, 2021, 12:00 am — 6:00 am",1639699200000.0,4.35,Overcast.,50.0,30.72,74
+"Friday, December 17, 2021, 6:00 am — 12:00 pm",1639720800000.0,8.078,Partly sunny.,48.2,30.73,83
+"Friday, December 17, 2021, 12:00 pm — 6:00 pm",1639742400000.0,9.321,Low clouds.,46.4,30.72,90
+"Friday, December 17, 2021, 6:00 pm — 12:00 am",1639764000000.0,11.807,Low clouds.,48.2,30.71,90
+"Saturday, December 18, 2021, 12:00 am — 6:00 am",1639785600000.0,11.807,Low clouds.,46.4,30.69,92
+"Saturday, December 18, 2021, 6:00 am — 12:00 pm",1639807200000.0,9.943,Low clouds.,48.2,30.69,92
+"Saturday, December 18, 2021, 12:00 pm — 6:00 pm",1639828800000.0,9.321,Low clouds.,48.2,30.67,90
+"Saturday, December 18, 2021, 6:00 pm — 12:00 am",1639850400000.0,6.214,Fog.,46.4,30.66,96
+"Sunday, December 19, 2021, 12:00 am — 6:00 am",1639872000000.0,3.728,Fog.,44.6,30.62,96
+"Sunday, December 19, 2021, 6:00 am — 12:00 pm",1639893600000.0,3.728,Fog.,39.2,30.57,97
+"Sunday, December 19, 2021, 12:00 pm — 6:00 pm",1639915200000.0,7.457,Fog.,41.0,30.5,97
+"Sunday, December 19, 2021, 6:00 pm — 12:00 am",1639936800000.0,5.593,Fog.,42.8,30.46,95
+"Monday, December 20, 2021, 12:00 am — 6:00 am",1639958400000.0,6.214,Overcast.,42.8,30.41,92
+"Monday, December 20, 2021, 6:00 am — 12:00 pm",1639980000000.0,8.078,Partly sunny.,42.8,30.39,87
+"Monday, December 20, 2021, 12:00 pm — 6:00 pm",1640001600000.0,6.836,Partly sunny.,44.6,30.35,72
+"Monday, December 20, 2021, 6:00 pm — 12:00 am",1640023200000.0,6.214,Overcast.,42.8,30.33,74
+"Tuesday, December 21, 2021, 12:00 am — 6:00 am",1640044800000.0,4.971,Overcast.,41.0,30.28,79
+"Tuesday, December 21, 2021, 6:00 am — 12:00 pm",1640066400000.0,3.728,Partly sunny.,42.8,30.27,86
+"Tuesday, December 21, 2021, 12:00 pm — 6:00 pm",1640088000000.0,5.593,Partly sunny.,44.6,30.24,65
+"Tuesday, December 21, 2021, 6:00 pm — 12:00 am",1640109600000.0,2.486,Clear.,37.4,30.23,85
+"Wednesday, December 22, 2021, 12:00 am — 6:00 am",1640131200000.0,1.243,Passing clouds.,28.4,30.19,92
+"Wednesday, December 22, 2021, 6:00 am — 12:00 pm",1640152800000.0,3.107,Sunny.,39.2,30.13,91
+"Wednesday, December 22, 2021, 12:00 pm — 6:00 pm",1640174400000.0,5.593,Sunny.,41.0,30.02,78
+"Wednesday, December 22, 2021, 6:00 pm — 12:00 am",1640196000000.0,4.971,Overcast.,39.2,29.95,86
+"Thursday, December 23, 2021, 12:00 am — 6:00 am",1640217600000.0,3.728,Low clouds.,42.8,29.83,89
+"Thursday, December 23, 2021, 6:00 am — 12:00 pm",1640239200000.0,8.078,Low clouds.,48.2,29.77,91
+"Thursday, December 23, 2021, 12:00 pm — 6:00 pm",1640260800000.0,8.078,Low clouds.,51.8,29.69,92
+"Thursday, December 23, 2021, 6:00 pm — 12:00 am",1640282400000.0,8.7,Passing clouds.,51.8,29.72,92
+"Friday, December 24, 2021, 12:00 am — 6:00 am",1640304000000.0,3.728,Fog.,46.4,29.7,96
+"Friday, December 24, 2021, 6:00 am — 12:00 pm",1640325600000.0,3.107,Fog.,50.0,29.67,95
+"Friday, December 24, 2021, 12:00 pm — 6:00 pm",1640347200000.0,4.971,Light rain. Broken clouds.,50.0,29.61,92
+"Friday, December 24, 2021, 6:00 pm — 12:00 am",1640368800000.0,5.593,Rain. Passing clouds.,48.2,29.56,94
+"Saturday, December 25, 2021, 12:00 am — 6:00 am",1640390400000.0,6.836,Fog.,48.2,29.58,94
+"Saturday, December 25, 2021, 6:00 am — 12:00 pm",1640412000000.0,13.671,Partly sunny.,46.4,29.64,91
+"Saturday, December 25, 2021, 12:00 pm — 6:00 pm",1640433600000.0,16.157,Partly sunny.,44.6,29.65,89
+"Saturday, December 25, 2021, 6:00 pm — 12:00 am",1640455200000.0,13.05,Light rain. Low clouds.,42.8,29.63,93
+"Sunday, December 26, 2021, 12:00 am — 6:00 am",1640476800000.0,10.564,Rain. Low clouds.,42.8,29.56,98
+"Sunday, December 26, 2021, 6:00 am — 12:00 pm",1640498400000.0,5.593,Drizzle. Partly sunny.,46.4,29.53,97
+"Sunday, December 26, 2021, 12:00 pm — 6:00 pm",1640520000000.0,1.864,Fog.,48.2,29.52,97
+"Sunday, December 26, 2021, 6:00 pm — 12:00 am",1640541600000.0,3.728,Fog.,48.2,29.5,96
+"Monday, December 27, 2021, 12:00 am — 6:00 am",1640563200000.0,4.35,Fog.,46.4,29.42,95
+"Monday, December 27, 2021, 6:00 am — 12:00 pm",1640584800000.0,8.7,Light rain. Cloudy.,50.0,29.31,96
+"Monday, December 27, 2021, 12:00 pm — 6:00 pm",1640606400000.0,9.321,Broken clouds.,51.8,29.21,94
+"Monday, December 27, 2021, 6:00 pm — 12:00 am",1640628000000.0,7.457,Light rain. Passing clouds.,51.8,29.15,95
+"Tuesday, December 28, 2021, 12:00 am — 6:00 am",1640649600000.0,6.836,Partly cloudy.,50.0,29.15,96
+"Tuesday, December 28, 2021, 6:00 am — 12:00 pm",1640671200000.0,19.885,Broken clouds.,50.0,29.17,84
+"Tuesday, December 28, 2021, 12:00 pm — 6:00 pm",1640692800000.0,17.4,Partly sunny.,51.8,29.35,75
+"Tuesday, December 28, 2021, 6:00 pm — 12:00 am",1640714400000.0,11.185,Overcast.,51.8,29.57,76
+"Wednesday, December 29, 2021, 12:00 am — 6:00 am",1640736000000.0,3.728,Passing clouds.,46.4,29.64,90
+"Wednesday, December 29, 2021, 6:00 am — 12:00 pm",1640757600000.0,8.078,Passing clouds.,55.4,29.56,97
+"Wednesday, December 29, 2021, 12:00 pm — 6:00 pm",1640779200000.0,15.535,Clear.,59.0,29.62,80
+"Wednesday, December 29, 2021, 6:00 pm — 12:00 am",1640800800000.0,9.943,Clear.,57.2,29.75,86
+"Thursday, December 30, 2021, 12:00 am — 6:00 am",1640822400000.0,14.914,Overcast.,59.0,29.81,87
+"Thursday, December 30, 2021, 6:00 am — 12:00 pm",1640844000000.0,13.671,Partly sunny.,59.0,29.88,85
+"Thursday, December 30, 2021, 12:00 pm — 6:00 pm",1640865600000.0,14.914,Partly sunny.,59.0,29.93,83
+"Thursday, December 30, 2021, 6:00 pm — 12:00 am",1640887200000.0,15.535,Passing clouds.,57.2,29.96,81
+"Friday, December 31, 2021, 12:00 am — 6:00 am",1640908800000.0,15.535,Overcast.,57.2,29.93,82
+"Friday, December 31, 2021, 6:00 am — 12:00 pm",1640930400000.0,13.05,Partly sunny.,59.0,29.96,91
+"Friday, December 31, 2021, 12:00 pm — 6:00 pm",1640952000000.0,11.185,Partly sunny.,59.0,30.04,81
+"Friday, December 31, 2021, 6:00 pm — 12:00 am",1640973600000.0,9.943,Passing clouds.,57.2,30.12,86
