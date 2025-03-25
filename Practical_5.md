@@ -72,9 +72,13 @@ A **DFD** shows the flow of data between different parts of a system. It represe
 
 ### **1️⃣ Context Diagram (Level 0 DFD) for Weather Forecasting System**  
 ![Context Diagram](DFD_Context_Weather.png)  
+![Screenshot 2025-03-25 153933](https://github.com/user-attachments/assets/e316c4e5-e1fc-4784-ae24-dc28dfca34bb)
+
 
 ### **2️⃣ Level 1 DFD for Weather Forecasting System**  
 ![Level 1 DFD](DFD_Level1_Weather.png)  
+![image](https://github.com/user-attachments/assets/9a9ec145-a6ca-40e1-a320-b599df2f1bcf)
+
 
 ---
 
